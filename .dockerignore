@@ -44,8 +44,15 @@ AGENTS.md
 CLAUDE.md
 GEMINI.md
 
-# Docs / research (large, not needed at runtime)
+# Docs / research — EXCEPT car-brand-content + section content JSONs (the Next.js
+# build reads these at build time to generate the brand history pages).
 docs
+!docs/research
+!docs/research/car-brand-content
+!docs/research/tire-brand-content
+!docs/research/motorcycle-brand-content
+!docs/research/review-content
+!docs/research/quiz-content
 scripts
 
 # Docker files themselves (no need to copy into image)
