@@ -1,0 +1,23 @@
+{
+  "slug": "corre-la-licorne-logo",
+  "name": "Corre La Licorne",
+  "h1": "Corre La Licorne Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Corre La Licorne Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1901"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/corre-la-licorne-logo-1901.png",
+      "localPath": "/images/car-logos/corre-la-licorne-logo-1901.png",
+      "alt": "Corre La Licorne logo, 1901"
+    }
+  ],
+  "facts": {}
+}

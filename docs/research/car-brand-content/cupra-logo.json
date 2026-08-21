@@ -1,0 +1,23 @@
+{
+  "slug": "cupra-logo",
+  "name": "Cupra",
+  "h1": "Cupra Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Cupra Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/cupra-logo-2018.png",
+      "localPath": "/images/car-logos/cupra-logo-2018.png",
+      "alt": "Cupra logo, 2018"
+    }
+  ],
+  "facts": {}
+}

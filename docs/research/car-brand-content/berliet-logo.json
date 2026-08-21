@@ -1,0 +1,41 @@
+{
+  "slug": "berliet-logo",
+  "name": "Berliet",
+  "h1": "Berliet Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Berliet Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1899"
+    },
+    {
+      "tag": "h3",
+      "text": "1910"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/berliet-logo-1899.png",
+      "localPath": "/images/car-logos/berliet-logo-1899.png",
+      "alt": "Berliet logo, 1899"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/berliet-logo-1910.png",
+      "localPath": "/images/car-logos/berliet-logo-1910.png",
+      "alt": "Berliet logo, 1910"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/berliet-logo-1959.png",
+      "localPath": "/images/car-logos/berliet-logo-1959.png",
+      "alt": "Berliet logo, 1959"
+    }
+  ],
+  "facts": {}
+}

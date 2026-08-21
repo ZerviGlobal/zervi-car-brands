@@ -1,0 +1,94 @@
+{
+  "slug": "car-interior-challenge",
+  "title": "Level: MediumUpdated Aug 16, 2026Car Interior Challenge",
+  "h1": "Car Interior Challenge",
+  "contentBlocks": [
+    {
+      "tag": "p",
+      "text": "Put your car knowledge to the test! Identify 30 random interiors from our top 100 list. Can you name the make and model and hit a perfect score?"
+    },
+    {
+      "tag": "h2",
+      "text": "Explore More Quizzes"
+    },
+    {
+      "tag": "li",
+      "text": "Level: MediumUpdated Aug 18, 2026Guess the Car by Its Tail Lights"
+    },
+    {
+      "tag": "li",
+      "text": "Level: EasyUpdated Aug 18, 2026Guess The Car"
+    },
+    {
+      "tag": "li",
+      "text": "Level: MediumUpdated Aug 17, 2026Muscle Car Challenge"
+    },
+    {
+      "tag": "li",
+      "text": "Level: EasyUpdated Aug 15, 2026Car Model Challenge"
+    },
+    {
+      "tag": "li",
+      "text": "Level: MediumUpdated Aug 15, 2026Spot the Real Logo"
+    },
+    {
+      "tag": "li",
+      "text": "Level: EasyUpdated Aug 17, 2026Car Logo Quiz"
+    },
+    {
+      "tag": "li",
+      "text": "Level: EasyUpdated Aug 15, 2026Car Brand Country Challenge"
+    },
+    {
+      "tag": "li",
+      "text": "Level: MediumUpdated Jul 30, 2026Car Part Quiz"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge-q36.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-car-interior-challenge-q36.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-guess-car-tail-lights.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-guess-the-car.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/8/muscle-car-challenge.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-muscle-car-challenge.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-car-model-challenge.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-spot-the-real-logo.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-car-logo-quiz.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-car-brand-country-challenge.jpg",
+      "alt": "#"
+    },
+    {
+      "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+      "localPath": "/images/quizzes/car-interior-challenge-car-part-quiz.jpg",
+      "alt": "#"
+    }
+  ]
+}

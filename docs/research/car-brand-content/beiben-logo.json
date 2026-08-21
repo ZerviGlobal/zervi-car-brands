@@ -1,0 +1,23 @@
+{
+  "slug": "beiben-logo",
+  "name": "BeiBen",
+  "h1": "BeiBen Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "BeiBen Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/beiben-logo-1988.png",
+      "localPath": "/images/car-logos/beiben-logo-1988.png",
+      "alt": "BeiBen logo, 1988"
+    }
+  ],
+  "facts": {}
+}

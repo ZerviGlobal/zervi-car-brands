@@ -1,0 +1,59 @@
+{
+  "slug": "bugatti-logo",
+  "name": "Bugatti",
+  "h1": "Bugatti Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bugatti Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bugatti-logo-1909.png",
+      "localPath": "/images/car-logos/bugatti-logo-1909.png",
+      "alt": "Bugatti logo, 1909"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bugatti-logo-1963.png",
+      "localPath": "/images/car-logos/bugatti-logo-1963.png",
+      "alt": "Bugatti logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bugatti-logo-2007.png",
+      "localPath": "/images/car-logos/bugatti-logo-2007.png",
+      "alt": "Bugatti logo, 2007"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bugatti-logo-2015.png",
+      "localPath": "/images/car-logos/bugatti-logo-2015.png",
+      "alt": "Bugatti logo, 2015"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bugatti-logo-2022.png",
+      "localPath": "/images/car-logos/bugatti-logo-2022.png",
+      "alt": "Bugatti logo, 2022"
+    }
+  ],
+  "facts": {}
+}

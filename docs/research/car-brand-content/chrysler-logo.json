@@ -1,0 +1,104 @@
+{
+  "slug": "chrysler-logo",
+  "name": "Chrysler",
+  "h1": "Chrysler Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Chrysler Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1924"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    },
+    {
+      "tag": "h3",
+      "text": "1930"
+    },
+    {
+      "tag": "h3",
+      "text": "1936"
+    },
+    {
+      "tag": "h3",
+      "text": "1955"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1924.png",
+      "localPath": "/images/car-logos/chrysler-logo-1924.png",
+      "alt": "Chrysler logo, 1924"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1928.png",
+      "localPath": "/images/car-logos/chrysler-logo-1928.png",
+      "alt": "Chrysler logo, 1928"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1930.png",
+      "localPath": "/images/car-logos/chrysler-logo-1930.png",
+      "alt": "Chrysler logo, 1930"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1936.png",
+      "localPath": "/images/car-logos/chrysler-logo-1936.png",
+      "alt": "Chrysler logo, 1936"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1955.png",
+      "localPath": "/images/car-logos/chrysler-logo-1955.png",
+      "alt": "Chrysler logo, 1955"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1962.png",
+      "localPath": "/images/car-logos/chrysler-logo-1962.png",
+      "alt": "Chrysler logo, 1962"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1993.png",
+      "localPath": "/images/car-logos/chrysler-logo-1993.png",
+      "alt": "Chrysler logo, 1993"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "localPath": "/images/car-logos/chrysler-logo-1998.png",
+      "alt": "Chrysler logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-2008.png",
+      "localPath": "/images/car-logos/chrysler-logo-2008.png",
+      "alt": "Chrysler logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chrysler-logo-2009.png",
+      "localPath": null,
+      "alt": "Chrysler logo, 2009"
+    }
+  ],
+  "facts": {}
+}

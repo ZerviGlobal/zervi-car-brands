@@ -1,0 +1,25 @@
+{
+  "slug": "kanati-logo",
+  "name": "Kanati",
+  "h1": "404Page Not Found",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The page you’re looking for may have been moved or deleted."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/tire-logos/kanati-logo.png",
+      "localPath": "/images/tire-logos/kanati-logo.png",
+      "alt": "Kanati logo",
+      "type": "list-logo"
+    }
+  ],
+  "facts": {
+    "name": "Kanati",
+    "category": "United States",
+    "years": "2010-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/kanati-logo.html"
+  }
+}

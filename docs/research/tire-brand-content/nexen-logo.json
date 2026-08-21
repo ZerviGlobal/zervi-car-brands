@@ -1,0 +1,49 @@
+{
+  "slug": "nexen-logo",
+  "name": "Nexen",
+  "h1": "Nexen Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Nexen Tire’s purple framed emblem sits above its wordmark. This sleek symbol represents Korean tire innovation, dynamic design, and reliable all-road performance."
+    },
+    {
+      "type": "h2",
+      "text": "Nexen Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1942"
+    },
+    {
+      "type": "h3",
+      "text": "1942"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/nexen-logo.png",
+      "localPath": "/images/tire-logos/nexen-logo.png",
+      "alt": "Nexen Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/nexen-logo-1942.png",
+      "localPath": "/images/tire-logos/nexen-logo-1942.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/nexen-logo-1942.png",
+      "localPath": "/images/tire-logos/nexen-logo-1942.png",
+      "alt": "Nexen logo, 1942",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Nexen",
+    "category": "South Korea",
+    "years": "1942-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/nexen-logo.html"
+  }
+}

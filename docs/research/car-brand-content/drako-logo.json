@@ -1,0 +1,23 @@
+{
+  "slug": "drako-logo",
+  "name": "Drako",
+  "h1": "Drako Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Drako Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/drako-logo-2013.png",
+      "localPath": "/images/car-logos/drako-logo-2013.png",
+      "alt": "Drako logo, 2013"
+    }
+  ],
+  "facts": {}
+}

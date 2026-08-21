@@ -1,0 +1,49 @@
+{
+  "slug": "atturo-logo",
+  "name": "Atturo",
+  "h1": "Atturo Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Atturo logo features slanted thick black lettering with lime green accents. Its sporty, rugged styling targets automotive enthusiasts seeking capable tire performance."
+    },
+    {
+      "type": "h2",
+      "text": "Atturo Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2010"
+    },
+    {
+      "type": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/atturo-logo.png",
+      "localPath": "/images/tire-logos/atturo-logo.png",
+      "alt": "Atturo Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/atturo-logo-2010.png",
+      "localPath": "/images/tire-logos/atturo-logo-2010.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/atturo-logo-2010.png",
+      "localPath": "/images/tire-logos/atturo-logo-2010.png",
+      "alt": "Atturo logo, 2010",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Atturo",
+    "category": "United States",
+    "years": "2010-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/atturo-logo.html"
+  }
+}

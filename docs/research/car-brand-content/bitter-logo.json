@@ -1,0 +1,23 @@
+{
+  "slug": "bitter-logo",
+  "name": "Bitter",
+  "h1": "Bitter Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bitter Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1971"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bitter-logo-1971.png",
+      "localPath": "/images/car-logos/bitter-logo-1971.png",
+      "alt": "Bitter logo, 1971"
+    }
+  ],
+  "facts": {}
+}

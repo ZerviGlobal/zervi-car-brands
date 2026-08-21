@@ -1,0 +1,23 @@
+{
+  "slug": "dongfeng-logo",
+  "name": "Dongfeng",
+  "h1": "Dongfeng Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Dongfeng Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dongfeng-logo-1969.png",
+      "localPath": "/images/car-logos/dongfeng-logo-1969.png",
+      "alt": "Dongfeng logo, 1969"
+    }
+  ],
+  "facts": {}
+}

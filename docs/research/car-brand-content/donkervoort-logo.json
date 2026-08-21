@@ -1,0 +1,23 @@
+{
+  "slug": "donkervoort-logo",
+  "name": "Donkervoort",
+  "h1": "Donkervoort Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Donkervoort Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/donkervoort-logo-1978.png",
+      "localPath": "/images/car-logos/donkervoort-logo-1978.png",
+      "alt": "Donkervoort logo, 1978"
+    }
+  ],
+  "facts": {}
+}

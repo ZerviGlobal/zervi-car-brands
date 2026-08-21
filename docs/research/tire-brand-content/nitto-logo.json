@@ -1,0 +1,49 @@
+{
+  "slug": "nitto-logo",
+  "name": "Nitto",
+  "h1": "Nitto Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Nitto’s black-and-red tilted wordmark carries racing momentum. Its jagged lettering embodies Japanese tech, drift culture, dependable grip for performance and off-road builds."
+    },
+    {
+      "type": "h2",
+      "text": "Nitto Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1949"
+    },
+    {
+      "type": "h3",
+      "text": "1949"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/nitto-logo.png",
+      "localPath": "/images/tire-logos/nitto-logo.png",
+      "alt": "Nitto Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/nitto-logo-1949.png",
+      "localPath": "/images/tire-logos/nitto-logo-1949.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/nitto-logo-1949.png",
+      "localPath": "/images/tire-logos/nitto-logo-1949.png",
+      "alt": "Nitto logo, 1949",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Nitto",
+    "category": "United States",
+    "years": "1949-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/nitto-logo.html"
+  }
+}

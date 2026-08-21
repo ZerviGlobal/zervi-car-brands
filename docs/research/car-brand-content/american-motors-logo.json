@@ -1,0 +1,41 @@
+{
+  "slug": "american-motors-logo",
+  "name": "AMC",
+  "h1": "AMC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "AMC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "1966"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/amc-logo-1954.png",
+      "localPath": "/images/car-logos/amc-logo-1954.png",
+      "alt": "AMC logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/amc-logo-1966.png",
+      "localPath": "/images/car-logos/amc-logo-1966.png",
+      "alt": "AMC logo, 1966"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/amc-logo-1969.png",
+      "localPath": "/images/car-logos/amc-logo-1969.png",
+      "alt": "AMC logo, 1969"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "auburn-logo",
+  "name": "Auburn",
+  "h1": "Auburn Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Auburn Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1900"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/auburn-logo-1900.png",
+      "localPath": "/images/car-logos/auburn-logo-1900.png",
+      "alt": "Auburn logo, 1900"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "bufori-logo",
+  "name": "Bufori",
+  "h1": "Bufori Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bufori Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bufori-logo-1986.png",
+      "localPath": "/images/car-logos/bufori-logo-1986.png",
+      "alt": "Bufori logo, 1986"
+    }
+  ],
+  "facts": {}
+}

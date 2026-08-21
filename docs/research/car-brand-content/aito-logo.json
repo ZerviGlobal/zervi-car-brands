@@ -1,0 +1,23 @@
+{
+  "slug": "aito-logo",
+  "name": "AITO",
+  "h1": "AITO Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "AITO Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/aito-logo-2021.png",
+      "localPath": "/images/car-logos/aito-logo-2021.png",
+      "alt": "AITO logo, 2021"
+    }
+  ],
+  "facts": {}
+}

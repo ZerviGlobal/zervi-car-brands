@@ -1,0 +1,59 @@
+{
+  "slug": "byd-logo",
+  "name": "BYD",
+  "h1": "BYD Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "BYD Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    },
+    {
+      "tag": "h3",
+      "text": "2021.2"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/byd-logo-2003.png",
+      "localPath": "/images/car-logos/byd-logo-2003.png",
+      "alt": "BYD logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/byd-logo-2005.png",
+      "localPath": "/images/car-logos/byd-logo-2005.png",
+      "alt": "BYD logo, 2005"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/byd-logo-2021.png",
+      "localPath": "/images/car-logos/byd-logo-2021.png",
+      "alt": "BYD logo, 2021"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/byd-logo-2021.2.png",
+      "localPath": "/images/car-logos/byd-logo-2021.2.png",
+      "alt": "BYD logo, 2021.2"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/byd-logo-2022.png",
+      "localPath": "/images/car-logos/byd-logo-2022.png",
+      "alt": "BYD logo, 2022"
+    }
+  ],
+  "facts": {}
+}

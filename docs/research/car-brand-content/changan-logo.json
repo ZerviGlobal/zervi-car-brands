@@ -1,0 +1,50 @@
+{
+  "slug": "changan-logo",
+  "name": "Changan",
+  "h1": "Changan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Changan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/changan-logo-1957.png",
+      "localPath": "/images/car-logos/changan-logo-1957.png",
+      "alt": "Changan logo, 1957"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/changan-logo-1998.png",
+      "localPath": "/images/car-logos/changan-logo-1998.png",
+      "alt": "Changan logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/changan-logo-2010.png",
+      "localPath": "/images/car-logos/changan-logo-2010.png",
+      "alt": "Changan logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/changan-logo-2020.png",
+      "localPath": "/images/car-logos/changan-logo-2020.png",
+      "alt": "Changan logo, 2020"
+    }
+  ],
+  "facts": {}
+}

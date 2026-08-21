@@ -1,0 +1,32 @@
+{
+  "slug": "ds-logo",
+  "name": "DS",
+  "h1": "DS Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "DS Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ds-logo-2009.png",
+      "localPath": "/images/car-logos/ds-logo-2009.png",
+      "alt": "DS logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ds-logo-2019.png",
+      "localPath": "/images/car-logos/ds-logo-2019.png",
+      "alt": "DS logo, 2019"
+    }
+  ],
+  "facts": {}
+}

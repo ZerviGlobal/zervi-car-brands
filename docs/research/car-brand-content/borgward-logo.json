@@ -1,0 +1,50 @@
+{
+  "slug": "borgward-logo",
+  "name": "Borgward",
+  "h1": "Borgward Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Borgward Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1919"
+    },
+    {
+      "tag": "h3",
+      "text": "1939"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/borgward-logo-1919.png",
+      "localPath": "/images/car-logos/borgward-logo-1919.png",
+      "alt": "Borgward logo, 1919"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/borgward-logo-1939.png",
+      "localPath": "/images/car-logos/borgward-logo-1939.png",
+      "alt": "Borgward logo, 1939"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/borgward-logo-1945.png",
+      "localPath": "/images/car-logos/borgward-logo-1945.png",
+      "alt": "Borgward logo, 1945"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/borgward-logo-2005.png",
+      "localPath": "/images/car-logos/borgward-logo-2005.png",
+      "alt": "Borgward logo, 2005"
+    }
+  ],
+  "facts": {}
+}

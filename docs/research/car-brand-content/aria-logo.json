@@ -1,0 +1,23 @@
+{
+  "slug": "aria-logo",
+  "name": "Aria",
+  "h1": "Aria Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Aria Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/aria-logo-2019.png",
+      "localPath": "/images/car-logos/aria-logo-2019.png",
+      "alt": "Aria logo, 2019"
+    }
+  ],
+  "facts": {}
+}

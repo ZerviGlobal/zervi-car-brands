@@ -1,0 +1,49 @@
+{
+  "slug": "westlake-logo",
+  "name": "Westlake",
+  "h1": "Westlake Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Westlake Tire logo uses slanted yellow letters. The forward tilt makes it look like it is moving, which ties into the idea of making reliable tires for regular highway driving."
+    },
+    {
+      "type": "h2",
+      "text": "Westlake Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2021"
+    },
+    {
+      "type": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/westlake-logo.png",
+      "localPath": "/images/tire-logos/westlake-logo.png",
+      "alt": "Westlake Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/westlake-logo-2021.png",
+      "localPath": "/images/tire-logos/westlake-logo-2021.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/westlake-logo-2021.png",
+      "localPath": "/images/tire-logos/westlake-logo-2021.png",
+      "alt": "Westlake logo, 2021",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Westlake",
+    "category": "United States",
+    "years": "1995-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/westlake-logo.html"
+  }
+}

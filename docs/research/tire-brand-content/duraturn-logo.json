@@ -1,0 +1,49 @@
+{
+  "slug": "duraturn-logo",
+  "name": "Duraturn",
+  "h1": "Duraturn Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Duraturn merges “Dura” and “Turn” to represent durability and maneuverability. This red streamlined D logo stands for energy, passion, power and responsive tire performance."
+    },
+    {
+      "type": "h2",
+      "text": "Duraturn Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2014"
+    },
+    {
+      "type": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/duraturn-logo.png",
+      "localPath": "/images/tire-logos/duraturn-logo.png",
+      "alt": "Duraturn Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/duraturn-logo-2014.png",
+      "localPath": "/images/tire-logos/duraturn-logo-2014.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/duraturn-logo-2014.png",
+      "localPath": "/images/tire-logos/duraturn-logo-2014.png",
+      "alt": "Duraturn logo, 2014",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Duraturn",
+    "category": "United States",
+    "years": "2014-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/duraturn-logo.html"
+  }
+}

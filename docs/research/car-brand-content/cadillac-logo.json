@@ -1,0 +1,104 @@
+{
+  "slug": "cadillac-logo",
+  "name": "Cadillac",
+  "h1": "Cadillac Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Cadillac Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1906"
+    },
+    {
+      "tag": "h3",
+      "text": "1933"
+    },
+    {
+      "tag": "h3",
+      "text": "1942"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1980"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-1906.png",
+      "localPath": "/images/car-logos/cadillac-logo-1906.png",
+      "alt": "Cadillac logo, 1906"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-1933.png",
+      "localPath": "/images/car-logos/cadillac-logo-1933.png",
+      "alt": "Cadillac logo, 1933"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-1942.png",
+      "localPath": "/images/car-logos/cadillac-logo-1942.png",
+      "alt": "Cadillac logo, 1942"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-1957.png",
+      "localPath": "/images/car-logos/cadillac-logo-1957.png",
+      "alt": "Cadillac logo, 1957"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-1964.png",
+      "localPath": "/images/car-logos/cadillac-logo-1964.png",
+      "alt": "Cadillac logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-1980.png",
+      "localPath": "/images/car-logos/cadillac-logo-1980.png",
+      "alt": "Cadillac logo, 1980"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-2000.png",
+      "localPath": "/images/car-logos/cadillac-logo-2000.png",
+      "alt": "Cadillac logo, 2000"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-2009.png",
+      "localPath": "/images/car-logos/cadillac-logo-2009.png",
+      "alt": "Cadillac logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-2014.png",
+      "localPath": "/images/car-logos/cadillac-logo-2014.png",
+      "alt": "Cadillac logo, 2014"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/cadillac-logo-2021.png",
+      "localPath": "/images/car-logos/cadillac-logo-2021.png",
+      "alt": "Cadillac logo, 2021"
+    }
+  ],
+  "facts": {}
+}

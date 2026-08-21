@@ -1,0 +1,25 @@
+{
+  "slug": "starfire-logo",
+  "name": "Starfire",
+  "h1": "404Page Not Found",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The page you’re looking for may have been moved or deleted."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/tire-logos/starfire-logo.png",
+      "localPath": "/images/tire-logos/starfire-logo.png",
+      "alt": "Starfire logo",
+      "type": "list-logo"
+    }
+  ],
+  "facts": {
+    "name": "Starfire",
+    "category": "United States",
+    "years": "1994-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/starfire-logo.html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "aurus-logo",
+  "name": "Aurus",
+  "h1": "Aurus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Aurus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/aurus-logo-2018.png",
+      "localPath": "/images/car-logos/aurus-logo-2018.png",
+      "alt": "Aurus logo, 2018"
+    }
+  ],
+  "facts": {}
+}

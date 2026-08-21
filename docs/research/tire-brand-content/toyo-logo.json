@@ -1,0 +1,49 @@
+{
+  "slug": "toyo-logo",
+  "name": "Toyo",
+  "h1": "Toyo Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Toyo Tires logo features blue italic lettering. Its slanted design captures a forward-thinking spirit, and the rounded “o” represents tough, premium tires for dependable mobility."
+    },
+    {
+      "type": "h2",
+      "text": "Toyo Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2007"
+    },
+    {
+      "type": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/toyo-logo.png",
+      "localPath": "/images/tire-logos/toyo-logo.png",
+      "alt": "Toyo Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/toyo-logo-2007.png",
+      "localPath": "/images/tire-logos/toyo-logo-2007.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/toyo-logo-2007.png",
+      "localPath": "/images/tire-logos/toyo-logo-2007.png",
+      "alt": "Toyo logo, 2007",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Toyo",
+    "category": "Japan",
+    "years": "1945-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/toyo-logo.html"
+  }
+}

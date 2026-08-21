@@ -1,0 +1,50 @@
+{
+  "slug": "dkw-logo",
+  "name": "DKW",
+  "h1": "DKW Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "DKW Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1916"
+    },
+    {
+      "tag": "h3",
+      "text": "1921"
+    },
+    {
+      "tag": "h3",
+      "text": "1932"
+    },
+    {
+      "tag": "h3",
+      "text": "1949"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dkw-logo-1916.png",
+      "localPath": "/images/car-logos/dkw-logo-1916.png",
+      "alt": "DKW logo, 1916"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dkw-logo-1921.png",
+      "localPath": "/images/car-logos/dkw-logo-1921.png",
+      "alt": "DKW logo, 1921"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dkw-logo-1932.png",
+      "localPath": "/images/car-logos/dkw-logo-1932.png",
+      "alt": "DKW logo, 1932"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dkw-logo-1949.png",
+      "localPath": "/images/car-logos/dkw-logo-1949.png",
+      "alt": "DKW logo, 1949"
+    }
+  ],
+  "facts": {}
+}

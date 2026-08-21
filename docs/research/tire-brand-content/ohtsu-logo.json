@@ -1,0 +1,49 @@
+{
+  "slug": "ohtsu-logo",
+  "name": "Ohtsu",
+  "h1": "Ohtsu Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The solid blue Ohtsu logo uses clean and simple letters. This minimal design is meant to look stable and accurate to show that their tires are reliable and consistent."
+    },
+    {
+      "type": "h2",
+      "text": "Ohtsu Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2002"
+    },
+    {
+      "type": "h3",
+      "text": "2002"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/ohtsu-logo.png",
+      "localPath": "/images/tire-logos/ohtsu-logo.png",
+      "alt": "Ohtsu Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/ohtsu-logo-2002.png",
+      "localPath": "/images/tire-logos/ohtsu-logo-2002.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/ohtsu-logo-2002.png",
+      "localPath": "/images/tire-logos/ohtsu-logo-2002.png",
+      "alt": "Ohtsu logo, 2002",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Ohtsu",
+    "category": "Japan",
+    "years": "1944-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/ohtsu-logo.html"
+  }
+}

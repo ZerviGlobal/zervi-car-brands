@@ -1,0 +1,49 @@
+{
+  "slug": "hankook-logo",
+  "name": "Hankook",
+  "h1": "Hankook Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Hankook’s slanted blue emblem mimics stylized tire tread. Evoking wings and forward motion, it stands for speed, aerodynamics and the brand’s pursuit of global innovation."
+    },
+    {
+      "type": "h2",
+      "text": "Hankook Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2019"
+    },
+    {
+      "type": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/hankook-logo.png",
+      "localPath": "/images/tire-logos/hankook-logo.png",
+      "alt": "Hankook Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/hankook-logo-2019.png",
+      "localPath": "/images/tire-logos/hankook-logo-2019.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/hankook-logo-2019.png",
+      "localPath": "/images/tire-logos/hankook-logo-2019.png",
+      "alt": "Hankook logo, 2019",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Hankook",
+    "category": "South Korea",
+    "years": "1941-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/hankook-logo.html"
+  }
+}

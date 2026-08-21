@@ -1,0 +1,23 @@
+{
+  "slug": "desoto-logo",
+  "name": "DeSoto",
+  "h1": "DeSoto Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "DeSoto Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/desoto-logo-1928.png",
+      "localPath": "/images/car-logos/desoto-logo-1928.png",
+      "alt": "DeSoto logo, 1928"
+    }
+  ],
+  "facts": {}
+}

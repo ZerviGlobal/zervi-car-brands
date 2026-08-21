@@ -1,0 +1,23 @@
+{
+  "slug": "czinger-logo",
+  "name": "Czinger",
+  "h1": "Czinger Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Czinger Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/czinger-logo-2019.png",
+      "localPath": "/images/car-logos/czinger-logo-2019.png",
+      "alt": "Czinger logo, 2019"
+    }
+  ],
+  "facts": {}
+}

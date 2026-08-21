@@ -1,0 +1,23 @@
+{
+  "slug": "abadal-logo",
+  "name": "Abadal",
+  "h1": "Abadal Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Abadal Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1912"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/abadal-logo-1912.png",
+      "localPath": "/images/car-logos/abadal-logo-1912.png",
+      "alt": "Abadal logo, 1912"
+    }
+  ],
+  "facts": {}
+}

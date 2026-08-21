@@ -1,0 +1,23 @@
+{
+  "slug": "bristol-logo",
+  "name": "Bristol",
+  "h1": "Bristol Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bristol Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bristol-logo-1945.png",
+      "localPath": "/images/car-logos/bristol-logo-1945.png",
+      "alt": "Bristol logo, 1945"
+    }
+  ],
+  "facts": {}
+}

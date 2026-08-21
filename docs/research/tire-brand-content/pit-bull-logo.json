@@ -1,0 +1,49 @@
+{
+  "slug": "pit-bull-logo",
+  "name": "Pit Bull",
+  "h1": "Pit Bull Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Pit Bull Tires logo features thick lettering and a pit bull mascot. The rough design fits the company's focus on making tough tires meant for difficult off-road driving."
+    },
+    {
+      "type": "h2",
+      "text": "Pit Bull Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2004"
+    },
+    {
+      "type": "h3",
+      "text": "2004"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/pit-bull-logo.png",
+      "localPath": "/images/tire-logos/pit-bull-logo.png",
+      "alt": "Pit Bull Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/pit-bull-logo-2004.png",
+      "localPath": "/images/tire-logos/pit-bull-logo-2004.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/pit-bull-logo-2004.png",
+      "localPath": "/images/tire-logos/pit-bull-logo-2004.png",
+      "alt": "Pit Bull logo, 2004",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Pit Bull",
+    "category": "United States",
+    "years": "1994-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/pit-bull-logo.html"
+  }
+}

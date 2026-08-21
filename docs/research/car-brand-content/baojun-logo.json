@@ -1,0 +1,32 @@
+{
+  "slug": "baojun-logo",
+  "name": "Baojun",
+  "h1": "Baojun Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Baojun Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/baojun-logo-2010.png",
+      "localPath": "/images/car-logos/baojun-logo-2010.png",
+      "alt": "Baojun logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/baojun-logo-2019.png",
+      "localPath": "/images/car-logos/baojun-logo-2019.png",
+      "alt": "Baojun logo, 2019"
+    }
+  ],
+  "facts": {}
+}

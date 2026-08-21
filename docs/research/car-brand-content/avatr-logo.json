@@ -1,0 +1,23 @@
+{
+  "slug": "avatr-logo",
+  "name": "AVATR",
+  "h1": "AVATR Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "AVATR Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/avatr-logo-2021.png",
+      "localPath": "/images/car-logos/avatr-logo-2021.png",
+      "alt": "AVATR logo, 2021"
+    }
+  ],
+  "facts": {}
+}

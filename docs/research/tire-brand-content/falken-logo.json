@@ -1,0 +1,49 @@
+{
+  "slug": "falken-logo",
+  "name": "Falken",
+  "h1": "Falken Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Falken’s angular blue wordmark features a sharp red tread-inspired accent. It embodies motorsport roots, speed, reliability and competitive performance."
+    },
+    {
+      "type": "h2",
+      "text": "Falken Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1990"
+    },
+    {
+      "type": "h3",
+      "text": "1990"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/falken-logo.png",
+      "localPath": "/images/tire-logos/falken-logo.png",
+      "alt": "Falken Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/falken-logo-1990.png",
+      "localPath": "/images/tire-logos/falken-logo-1990.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/falken-logo-1990.png",
+      "localPath": "/images/tire-logos/falken-logo-1990.png",
+      "alt": "Falken logo, 1990",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Falken",
+    "category": "Japan",
+    "years": "1983-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/falken-logo.html"
+  }
+}

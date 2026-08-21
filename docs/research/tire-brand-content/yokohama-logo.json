@@ -1,0 +1,49 @@
+{
+  "slug": "yokohama-logo",
+  "name": "Yokohama",
+  "h1": "Yokohama Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Yokohama’s red V emblem delivers forward momentum. This sharp mark stands for Japanese tire innovation, balanced versatility, steady traction for street and all-terrain driving."
+    },
+    {
+      "type": "h2",
+      "text": "Yokohama Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1970"
+    },
+    {
+      "type": "h3",
+      "text": "1970"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/yokohama-logo.png",
+      "localPath": "/images/tire-logos/yokohama-logo.png",
+      "alt": "Yokohama Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/yokohama-logo-1970.png",
+      "localPath": "/images/tire-logos/yokohama-logo-1970.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/yokohama-logo-1970.png",
+      "localPath": "/images/tire-logos/yokohama-logo-1970.png",
+      "alt": "Yokohama logo, 1970",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Yokohama",
+    "category": "Japan",
+    "years": "1917-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/yokohama-logo.html"
+  }
+}

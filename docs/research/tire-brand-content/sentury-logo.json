@@ -1,0 +1,49 @@
+{
+  "slug": "sentury-logo",
+  "name": "Sentury",
+  "h1": "Sentury Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Sentury Tire logo has slanted blue letters and a thick yellow stripe. The angled design feels fast and dynamic, fitting a brand that makes reliable tires for everyday driving."
+    },
+    {
+      "type": "h2",
+      "text": "Sentury Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2009"
+    },
+    {
+      "type": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/sentury-logo.png",
+      "localPath": "/images/tire-logos/sentury-logo.png",
+      "alt": "Sentury Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/sentury-logo-2009.png",
+      "localPath": "/images/tire-logos/sentury-logo-2009.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/sentury-logo-2009.png",
+      "localPath": "/images/tire-logos/sentury-logo-2009.png",
+      "alt": "Sentury logo, 2009",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Sentury",
+    "category": "China",
+    "years": "2008-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/sentury-logo.html"
+  }
+}

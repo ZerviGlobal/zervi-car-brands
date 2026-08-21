@@ -1,0 +1,49 @@
+{
+  "slug": "giti-logo",
+  "name": "Giti",
+  "h1": "Giti Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Giti’s yellow divided panel logo features bold script paired with an elephant icon. This mark stems from Gajah Tunggal, representing rugged durability, strength and advanced tire design."
+    },
+    {
+      "type": "h2",
+      "text": "Giti Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2009"
+    },
+    {
+      "type": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/giti-logo.png",
+      "localPath": "/images/tire-logos/giti-logo.png",
+      "alt": "Giti Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/giti-logo-2009.png",
+      "localPath": "/images/tire-logos/giti-logo-2009.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/giti-logo-2009.png",
+      "localPath": "/images/tire-logos/giti-logo-2009.png",
+      "alt": "Giti logo, 2009",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Giti",
+    "category": "Singapore",
+    "years": "1951-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/giti-logo.html"
+  }
+}

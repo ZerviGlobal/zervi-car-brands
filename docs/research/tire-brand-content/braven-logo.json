@@ -1,0 +1,49 @@
+{
+  "slug": "braven-logo",
+  "name": "Braven",
+  "h1": "Braven Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Braven’s interwoven triple-triangle emblem creates a bold geometric symbol. This striking mark stands for rugged strength, resilient traction, and fearless all-terrain exploration."
+    },
+    {
+      "type": "h2",
+      "text": "Braven Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2015"
+    },
+    {
+      "type": "h3",
+      "text": "2015"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/braven-logo.png",
+      "localPath": "/images/tire-logos/braven-logo.png",
+      "alt": "Braven Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/braven-logo-2015.png",
+      "localPath": "/images/tire-logos/braven-logo-2015.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/braven-logo-2015.png",
+      "localPath": "/images/tire-logos/braven-logo-2015.png",
+      "alt": "Braven logo, 2015",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Braven",
+    "category": "United States",
+    "years": "2015-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/braven-logo.html"
+  }
+}

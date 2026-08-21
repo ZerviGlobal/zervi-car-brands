@@ -1,0 +1,23 @@
+{
+  "slug": "changfeng-logo",
+  "name": "Changfeng",
+  "h1": "Changfeng Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Changfeng Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1950"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/changfeng-logo-1950.png",
+      "localPath": "/images/car-logos/changfeng-logo-1950.png",
+      "alt": "Changfeng logo, 1950"
+    }
+  ],
+  "facts": {}
+}

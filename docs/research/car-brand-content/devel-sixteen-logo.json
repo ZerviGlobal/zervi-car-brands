@@ -1,0 +1,23 @@
+{
+  "slug": "devel-sixteen-logo",
+  "name": "Devel Sixteen",
+  "h1": "Devel Sixteen Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Devel Sixteen Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/devel-sixteen-logo-2013.png",
+      "localPath": "/images/car-logos/devel-sixteen-logo-2013.png",
+      "alt": "Devel Sixteen logo, 2013"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "aeolus-logo",
+  "name": "Aeolus",
+  "h1": "Aeolus Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Aeolus Tyre logo has sharp black lettering and a yellow swirl. Inspired by the god of winds, the swirl represents speed and movement, matching its high-performance tires."
+    },
+    {
+      "type": "h2",
+      "text": "Aeolus Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2018"
+    },
+    {
+      "type": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/aeolus-logo.png",
+      "localPath": "/images/tire-logos/aeolus-logo.png",
+      "alt": "Aeolus Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/aeolus-logo-2018.png",
+      "localPath": "/images/tire-logos/aeolus-logo-2018.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/aeolus-logo-2018.png",
+      "localPath": "/images/tire-logos/aeolus-logo-2018.png",
+      "alt": "Aeolus logo, 2018",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Aeolus",
+    "category": "China",
+    "years": "1965-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/aeolus-logo.html"
+  }
+}

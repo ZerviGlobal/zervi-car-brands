@@ -1,0 +1,49 @@
+{
+  "slug": "arisun-logo",
+  "name": "Arisun",
+  "h1": "Arisun Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Arisun’s name combines “Arise” and “Sun”. Its logo carries sunrise spirit, using bold graphics to represent warmth, energy and relentless forward movement."
+    },
+    {
+      "type": "h2",
+      "text": "Arisun Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2012"
+    },
+    {
+      "type": "h3",
+      "text": "2012"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/arisun-logo.png",
+      "localPath": "/images/tire-logos/arisun-logo.png",
+      "alt": "Arisun Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/arisun-logo-2012.png",
+      "localPath": "/images/tire-logos/arisun-logo-2012.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/arisun-logo-2012.png",
+      "localPath": "/images/tire-logos/arisun-logo-2012.png",
+      "alt": "Arisun logo, 2012",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Arisun",
+    "category": "China",
+    "years": "2011-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/arisun-logo.html"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "firestone-logo",
+  "name": "Firestone",
+  "h1": "Firestone Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Firestone’s iconic flame-styled script honors Harvey Firestone. Its fiery F echoes the brand’s early fire-truck tire production, paired with legendary American racing tire heritage."
+    },
+    {
+      "type": "h2",
+      "text": "Firestone Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1922"
+    },
+    {
+      "type": "h3",
+      "text": "1922"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/firestone-logo.png",
+      "localPath": "/images/tire-logos/firestone-logo.png",
+      "alt": "Firestone Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/firestone-logo-1922.png",
+      "localPath": "/images/tire-logos/firestone-logo-1922.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/firestone-logo-1922.png",
+      "localPath": "/images/tire-logos/firestone-logo-1922.png",
+      "alt": "Firestone logo, 1922",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Firestone",
+    "category": "United States",
+    "years": "1900-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/firestone-logo.html"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "federal-logo",
+  "name": "Federal",
+  "h1": "Federal Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Federal’s dynamic slanted logo uses green typography with a vivid red stripe. This energetic design stands for agility, balance and premium performance driving tires."
+    },
+    {
+      "type": "h2",
+      "text": "Federal Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1987"
+    },
+    {
+      "type": "h3",
+      "text": "1987"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/federal-logo.png",
+      "localPath": "/images/tire-logos/federal-logo.png",
+      "alt": "Federal Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/federal-logo-1987.png",
+      "localPath": "/images/tire-logos/federal-logo-1987.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/federal-logo-1987.png",
+      "localPath": "/images/tire-logos/federal-logo-1987.png",
+      "alt": "Federal logo, 1987",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Federal",
+    "category": "Taiwan",
+    "years": "1987-Presen",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/federal-logo.html"
+  }
+}

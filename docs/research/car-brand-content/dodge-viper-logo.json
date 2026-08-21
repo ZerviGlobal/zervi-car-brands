@@ -1,0 +1,41 @@
+{
+  "slug": "dodge-viper-logo",
+  "name": "Dodge Viper",
+  "h1": "Dodge Viper Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Dodge Viper Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-viper-logo-1992.png",
+      "localPath": "/images/car-logos/dodge-viper-logo-1992.png",
+      "alt": "Dodge Viper logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-viper-logo-2003.png",
+      "localPath": "/images/car-logos/dodge-viper-logo-2003.png",
+      "alt": "Dodge Viper logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-viper-logo-2013.png",
+      "localPath": "/images/car-logos/dodge-viper-logo-2013.png",
+      "alt": "Dodge Viper logo, 2013"
+    }
+  ],
+  "facts": {}
+}

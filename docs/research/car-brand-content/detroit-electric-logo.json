@@ -1,0 +1,23 @@
+{
+  "slug": "detroit-electric-logo",
+  "name": "Detroit Electric",
+  "h1": "Detroit Electric Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Detroit Electric Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/detroit-electric-logo-2008.png",
+      "localPath": "/images/car-logos/detroit-electric-logo-2008.png",
+      "alt": "Detroit Electric logo, 2008"
+    }
+  ],
+  "facts": {}
+}

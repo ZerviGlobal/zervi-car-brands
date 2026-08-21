@@ -1,0 +1,49 @@
+{
+  "slug": "goodyear-logo",
+  "name": "Goodyear",
+  "h1": "Goodyear Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Goodyear’s Wingfoot logo is based on the winged sandals of Mercury, the Roman god. It shows fast, trustworthy travel and has been the brand’s symbol for over 100 years."
+    },
+    {
+      "type": "h2",
+      "text": "Goodyear Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1968"
+    },
+    {
+      "type": "h3",
+      "text": "1968"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/goodyear-logo.png",
+      "localPath": "/images/tire-logos/goodyear-logo.png",
+      "alt": "Goodyear Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/goodyear-logo-1968.png",
+      "localPath": "/images/tire-logos/goodyear-logo-1968.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/goodyear-logo-1968.png",
+      "localPath": "/images/tire-logos/goodyear-logo-1968.png",
+      "alt": "Goodyear logo, 1968",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Goodyear",
+    "category": "United States",
+    "years": "1898-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/goodyear-logo.html"
+  }
+}

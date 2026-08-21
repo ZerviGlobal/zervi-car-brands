@@ -1,0 +1,49 @@
+{
+  "slug": "mickey-thompson-logo",
+  "name": "Mickey Thompson",
+  "h1": "Mickey Thompson Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Mickey Thompson’s bold “M/T” monogram honors racing legend Mickey Thompson. Framed by golden wings, this mark stands for speed, innovation and iconic off-road motorsport heritage."
+    },
+    {
+      "type": "h2",
+      "text": "Mickey Thompson Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1963"
+    },
+    {
+      "type": "h3",
+      "text": "1963"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/mickey-thompson-logo.png",
+      "localPath": "/images/tire-logos/mickey-thompson-logo.png",
+      "alt": "Mickey Thompson Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/mickey-thompson-logo-1963.png",
+      "localPath": "/images/tire-logos/mickey-thompson-logo-1963.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/mickey-thompson-logo-1963.png",
+      "localPath": "/images/tire-logos/mickey-thompson-logo-1963.png",
+      "alt": "Mickey Thompson logo, 1963",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Mickey Thompson",
+    "category": "United States",
+    "years": "1963-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/mickey-thompson-logo.html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "dina-logo",
+  "name": "DINA",
+  "h1": "DINA Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "DINA Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1951"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dina-logo-1951.png",
+      "localPath": "/images/car-logos/dina-logo-1951.png",
+      "alt": "DINA logo, 1951"
+    }
+  ],
+  "facts": {}
+}

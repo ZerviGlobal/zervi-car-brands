@@ -1,0 +1,23 @@
+{
+  "slug": "brilliance-logo",
+  "name": "Brilliance",
+  "h1": "Brilliance Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Brilliance Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/brilliance-logo-2002.png",
+      "localPath": "/images/car-logos/brilliance-logo-2002.png",
+      "alt": "Brilliance logo, 2002"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "gladiator-logo",
+  "name": "Gladiator",
+  "h1": "Gladiator Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Gladiator’s bold heavy-type logo leans into its namesake. The strong lettering stands for toughness, grit, and dependable off-road performance for light truck and commercial tires."
+    },
+    {
+      "type": "h2",
+      "text": "Gladiator Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1982"
+    },
+    {
+      "type": "h3",
+      "text": "1982"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/gladiator-logo.png",
+      "localPath": "/images/tire-logos/gladiator-logo.png",
+      "alt": "Gladiator Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/gladiator-logo-1982.png",
+      "localPath": "/images/tire-logos/gladiator-logo-1982.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/gladiator-logo-1982.png",
+      "localPath": "/images/tire-logos/gladiator-logo-1982.png",
+      "alt": "Gladiator logo, 1982",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Gladiator",
+    "category": "United States",
+    "years": "1982-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/gladiator-logo.html"
+  }
+}

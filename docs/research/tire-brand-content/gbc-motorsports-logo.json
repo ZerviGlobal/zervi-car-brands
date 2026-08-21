@@ -1,0 +1,49 @@
+{
+  "slug": "gbc-motorsports-logo",
+  "name": "GBC Motorsports",
+  "h1": "GBC Motorsports Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "GBC’s layered wordmark sits before a swirling green graphic. This dynamic emblem embodies racing energy, rugged traction, and dependable off-road motorsport performance."
+    },
+    {
+      "type": "h2",
+      "text": "GBC Motorsports Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2011"
+    },
+    {
+      "type": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/gbc-motorsports-logo.png",
+      "localPath": "/images/tire-logos/gbc-motorsports-logo.png",
+      "alt": "GBC Motorsports Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/gbc-motorsports-logo-2011.png",
+      "localPath": "/images/tire-logos/gbc-motorsports-logo-2011.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/gbc-motorsports-logo-2011.png",
+      "localPath": "/images/tire-logos/gbc-motorsports-logo-2011.png",
+      "alt": "GBC Motorsports logo, 2011",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "GBC Motorsports",
+    "category": "United States",
+    "years": "1976-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/gbc-motorsports-logo.html"
+  }
+}

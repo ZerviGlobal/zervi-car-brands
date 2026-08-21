@@ -1,0 +1,23 @@
+{
+  "slug": "canoo-logo",
+  "name": "Canoo",
+  "h1": "Canoo Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Canoo Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/canoo-logo-2017.png",
+      "localPath": "/images/car-logos/canoo-logo-2017.png",
+      "alt": "Canoo logo, 2017"
+    }
+  ],
+  "facts": {}
+}

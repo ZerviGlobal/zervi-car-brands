@@ -1,0 +1,23 @@
+{
+  "slug": "bestune-logo",
+  "name": "Bestune",
+  "h1": "Bestune Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bestune Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bestune-logo-2018.png",
+      "localPath": "/images/car-logos/bestune-logo-2018.png",
+      "alt": "Bestune logo, 2018"
+    }
+  ],
+  "facts": {}
+}

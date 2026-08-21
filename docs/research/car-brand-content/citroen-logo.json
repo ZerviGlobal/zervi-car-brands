@@ -1,0 +1,122 @@
+{
+  "slug": "citroen-logo",
+  "name": "Citroën",
+  "h1": "Citroën Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Citroën Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1919"
+    },
+    {
+      "tag": "h3",
+      "text": "1922"
+    },
+    {
+      "tag": "h3",
+      "text": "1932"
+    },
+    {
+      "tag": "h3",
+      "text": "1935"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    },
+    {
+      "tag": "h3",
+      "text": "1966"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1919.png",
+      "localPath": "/images/car-logos/citroen-logo-1919.png",
+      "alt": "Citroën logo, 1919"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1922.png",
+      "localPath": "/images/car-logos/citroen-logo-1922.png",
+      "alt": "Citroën logo, 1922"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1932.png",
+      "localPath": "/images/car-logos/citroen-logo-1932.png",
+      "alt": "Citroën logo, 1932"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1935.png",
+      "localPath": "/images/car-logos/citroen-logo-1935.png",
+      "alt": "Citroën logo, 1935"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1959.png",
+      "localPath": "/images/car-logos/citroen-logo-1959.png",
+      "alt": "Citroën logo, 1959"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1966.png",
+      "localPath": "/images/car-logos/citroen-logo-1966.png",
+      "alt": "Citroën logo, 1966"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-1985.png",
+      "localPath": "/images/car-logos/citroen-logo-1985.png",
+      "alt": "Citroën logo, 1985"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-2009.png",
+      "localPath": "/images/car-logos/citroen-logo-2009.png",
+      "alt": "Citroën logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-2016.png",
+      "localPath": "/images/car-logos/citroen-logo-2016.png",
+      "alt": "Citroën logo, 2016"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-2019.png",
+      "localPath": "/images/car-logos/citroen-logo-2019.png",
+      "alt": "Citroën logo, 2019"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-2021.png",
+      "localPath": "/images/car-logos/citroen-logo-2021.png",
+      "alt": "Citroën logo, 2021"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/citroen-logo-2022.png",
+      "localPath": "/images/car-logos/citroen-logo-2022.png",
+      "alt": "Citroën logo, 2022"
+    }
+  ],
+  "facts": {}
+}

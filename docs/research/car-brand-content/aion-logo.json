@@ -1,0 +1,23 @@
+{
+  "slug": "aion-logo",
+  "name": "Aion",
+  "h1": "Aion Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Aion Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2024"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/aion-logo-2024.png",
+      "localPath": "/images/car-logos/aion-logo-2024.png",
+      "alt": "Aion logo, 2024"
+    }
+  ],
+  "facts": {}
+}

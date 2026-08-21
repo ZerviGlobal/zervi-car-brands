@@ -1,0 +1,23 @@
+{
+  "slug": "alta-logo",
+  "name": "Alta",
+  "h1": "Alta Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Alta Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/alta-logo-1962.png",
+      "localPath": "/images/car-logos/alta-logo-1962.png",
+      "alt": "Alta logo, 1962"
+    }
+  ],
+  "facts": {}
+}

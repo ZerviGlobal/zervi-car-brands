@@ -1,0 +1,49 @@
+{
+  "slug": "sumitomo-logo",
+  "name": "Sumitomo",
+  "h1": "Sumitomo Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Sumitomo’s Igeta emblem is modeled after a classic Japanese well frame. It stands for constant flowing water, integrity, careful management and enduring prosperity."
+    },
+    {
+      "type": "h2",
+      "text": "Sumitomo Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1914"
+    },
+    {
+      "type": "h3",
+      "text": "1914"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/sumitomo-logo.png",
+      "localPath": "/images/tire-logos/sumitomo-logo.png",
+      "alt": "Sumitomo Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/sumitomo-logo-1914.png",
+      "localPath": "/images/tire-logos/sumitomo-logo-1914.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/sumitomo-logo-1914.png",
+      "localPath": "/images/tire-logos/sumitomo-logo-1914.png",
+      "alt": "Sumitomo logo, 1914",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Sumitomo",
+    "category": "Japan",
+    "years": "1909-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/sumitomo-logo.html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "dartz-logo",
+  "name": "Dartz",
+  "h1": "Dartz Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Dartz Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dartz-logo-2009.png",
+      "localPath": "/images/car-logos/dartz-logo-2009.png",
+      "alt": "Dartz logo, 2009"
+    }
+  ],
+  "facts": {}
+}

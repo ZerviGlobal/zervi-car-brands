@@ -1,0 +1,25 @@
+{
+  "slug": "bkt-logo",
+  "name": "BKT",
+  "h1": "404Page Not Found",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The page you’re looking for may have been moved or deleted."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/tire-logos/bkt-logo.png",
+      "localPath": "/images/tire-logos/bkt-logo.png",
+      "alt": "BKT logo",
+      "type": "list-logo"
+    }
+  ],
+  "facts": {
+    "name": "BKT",
+    "category": "India",
+    "years": "1987-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/bkt-logo.html"
+  }
+}

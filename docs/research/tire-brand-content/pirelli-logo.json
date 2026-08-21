@@ -1,0 +1,49 @@
+{
+  "slug": "pirelli-logo",
+  "name": "Pirelli",
+  "h1": "Pirelli Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Pirelli’s red logo features an extended bar above the P. This design represents Italian engineering, elite racing history, and premium tire performance around the globe."
+    },
+    {
+      "type": "h2",
+      "text": "Pirelli Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1979"
+    },
+    {
+      "type": "h3",
+      "text": "1979"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/pirelli-logo.png",
+      "localPath": "/images/tire-logos/pirelli-logo.png",
+      "alt": "Pirelli Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/pirelli-logo-1979.png",
+      "localPath": "/images/tire-logos/pirelli-logo-1979.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/pirelli-logo-1979.png",
+      "localPath": "/images/tire-logos/pirelli-logo-1979.png",
+      "alt": "Pirelli logo, 1979",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Pirelli",
+    "category": "Italy",
+    "years": "1872-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/pirelli-logo.html"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "bertone-logo",
+  "name": "Bertone",
+  "h1": "Bertone Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bertone Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1912"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bertone-logo-1912.png",
+      "localPath": "/images/car-logos/bertone-logo-1912.png",
+      "alt": "Bertone logo, 1912"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bertone-logo-1998.png",
+      "localPath": "/images/car-logos/bertone-logo-1998.png",
+      "alt": "Bertone logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bertone-logo-2010.png",
+      "localPath": "/images/car-logos/bertone-logo-2010.png",
+      "alt": "Bertone logo, 2010"
+    }
+  ],
+  "facts": {}
+}

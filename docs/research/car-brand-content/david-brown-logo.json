@@ -1,0 +1,23 @@
+{
+  "slug": "david-brown-logo",
+  "name": "David Brown",
+  "h1": "David Brown Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "David Brown Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/david-brown-logo-2013.png",
+      "localPath": "/images/car-logos/david-brown-logo-2013.png",
+      "alt": "David Brown logo, 2013"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "ceat-logo",
+  "name": "CEAT",
+  "h1": "CEAT Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "CEAT’s logo displays bold blue typography with orange bars for the “E”. The design stands for strength and advancement, embodying reliable, customer-oriented global tire performance."
+    },
+    {
+      "type": "h2",
+      "text": "CEAT Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2008"
+    },
+    {
+      "type": "h3",
+      "text": "2008"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/ceat-logo.png",
+      "localPath": "/images/tire-logos/ceat-logo.png",
+      "alt": "CEAT Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/ceat-logo-2008.png",
+      "localPath": "/images/tire-logos/ceat-logo-2008.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/ceat-logo-2008.png",
+      "localPath": "/images/tire-logos/ceat-logo-2008.png",
+      "alt": "CEAT logo, 2008",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "CEAT",
+    "category": "India",
+    "years": "1958-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/ceat-logo.html"
+  }
+}

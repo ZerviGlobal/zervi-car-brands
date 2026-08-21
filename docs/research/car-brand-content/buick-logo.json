@@ -1,0 +1,104 @@
+{
+  "slug": "buick-logo",
+  "name": "Buick",
+  "h1": "Buick Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Buick Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1903"
+    },
+    {
+      "tag": "h3",
+      "text": "1905"
+    },
+    {
+      "tag": "h3",
+      "text": "1913"
+    },
+    {
+      "tag": "h3",
+      "text": "1937"
+    },
+    {
+      "tag": "h3",
+      "text": "1939"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    },
+    {
+      "tag": "h3",
+      "text": "1975"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1903.png",
+      "localPath": "/images/car-logos/buick-logo-1903.png",
+      "alt": "Buick logo, 1903"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1905.png",
+      "localPath": "/images/car-logos/buick-logo-1905.png",
+      "alt": "Buick logo, 1905"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1913.png",
+      "localPath": "/images/car-logos/buick-logo-1913.png",
+      "alt": "Buick logo, 1913"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1937.png",
+      "localPath": "/images/car-logos/buick-logo-1937.png",
+      "alt": "Buick logo, 1937"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1939.png",
+      "localPath": "/images/car-logos/buick-logo-1939.png",
+      "alt": "Buick logo, 1939"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1959.png",
+      "localPath": "/images/car-logos/buick-logo-1959.png",
+      "alt": "Buick logo, 1959"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1975.png",
+      "localPath": "/images/car-logos/buick-logo-1975.png",
+      "alt": "Buick logo, 1975"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-1990.png",
+      "localPath": "/images/car-logos/buick-logo-1990.png",
+      "alt": "Buick logo, 1990"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-2016.png",
+      "localPath": "/images/car-logos/buick-logo-2016.png",
+      "alt": "Buick logo, 2016"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/buick-logo-2022.png",
+      "localPath": "/images/car-logos/buick-logo-2022.png",
+      "alt": "Buick logo, 2022"
+    }
+  ],
+  "facts": {}
+}

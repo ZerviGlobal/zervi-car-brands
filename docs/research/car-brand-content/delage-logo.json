@@ -1,0 +1,32 @@
+{
+  "slug": "delage-logo",
+  "name": "Delage",
+  "h1": "Delage Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Delage Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1905"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/delage-logo-1905.png",
+      "localPath": "/images/car-logos/delage-logo-1905.png",
+      "alt": "Delage logo, 1905"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/delage-logo-2019.png",
+      "localPath": "/images/car-logos/delage-logo-2019.png",
+      "alt": "Delage logo, 2019"
+    }
+  ],
+  "facts": {}
+}

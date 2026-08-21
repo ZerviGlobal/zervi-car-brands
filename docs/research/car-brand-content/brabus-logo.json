@@ -1,0 +1,23 @@
+{
+  "slug": "brabus-logo",
+  "name": "Brabus",
+  "h1": "Brabus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Brabus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1977"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/brabus-logo-1977.png",
+      "localPath": "/images/car-logos/brabus-logo-1977.png",
+      "alt": "Brabus logo, 1977"
+    }
+  ],
+  "facts": {}
+}

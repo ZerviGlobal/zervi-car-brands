@@ -1,0 +1,23 @@
+{
+  "slug": "bowler-logo",
+  "name": "Bowler",
+  "h1": "Bowler Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bowler Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bowler-logo-1985.png",
+      "localPath": "/images/car-logos/bowler-logo-1985.png",
+      "alt": "Bowler logo, 1985"
+    }
+  ],
+  "facts": {}
+}

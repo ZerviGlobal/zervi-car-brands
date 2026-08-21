@@ -1,0 +1,23 @@
+{
+  "slug": "bac-logo",
+  "name": "BAC",
+  "h1": "BAC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "BAC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bac-logo-2009.png",
+      "localPath": "/images/car-logos/bac-logo-2009.png",
+      "alt": "BAC logo, 2009"
+    }
+  ],
+  "facts": {}
+}

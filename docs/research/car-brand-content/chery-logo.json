@@ -1,0 +1,50 @@
+{
+  "slug": "chery-logo",
+  "name": "Chery",
+  "h1": "Chery Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Chery Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/chery-logo-1997.png",
+      "localPath": "/images/car-logos/chery-logo-1997.png",
+      "alt": "Chery logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chery-logo-2001.png",
+      "localPath": "/images/car-logos/chery-logo-2001.png",
+      "alt": "Chery logo, 2001"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chery-logo-2013.png",
+      "localPath": "/images/car-logos/chery-logo-2013.png",
+      "alt": "Chery logo, 2013"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/chery-logo-2023.png",
+      "localPath": "/images/car-logos/chery-logo-2023.png",
+      "alt": "Chery logo, 2023"
+    }
+  ],
+  "facts": {}
+}

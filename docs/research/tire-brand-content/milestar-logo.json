@@ -1,0 +1,49 @@
+{
+  "slug": "milestar-logo",
+  "name": "Milestar",
+  "h1": "Milestar Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Milestar’s layered mountain graphic sits under an orange horizontal bar. This rugged mark stands for adventure-focused tire design, reliable grip, and broad multi-terrain capability."
+    },
+    {
+      "type": "h2",
+      "text": "Milestar Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2006"
+    },
+    {
+      "type": "h3",
+      "text": "2006"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/milestar-logo.png",
+      "localPath": "/images/tire-logos/milestar-logo.png",
+      "alt": "Milestar Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/milestar-logo-2006.png",
+      "localPath": "/images/tire-logos/milestar-logo-2006.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/milestar-logo-2006.png",
+      "localPath": "/images/tire-logos/milestar-logo-2006.png",
+      "alt": "Milestar logo, 2006",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Milestar",
+    "category": "United States",
+    "years": "1972-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/milestar-logo.html"
+  }
+}

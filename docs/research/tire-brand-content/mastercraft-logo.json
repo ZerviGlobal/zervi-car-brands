@@ -1,0 +1,49 @@
+{
+  "slug": "mastercraft-logo",
+  "name": "Mastercraft",
+  "h1": "Mastercraft Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Mastercraft’s red cursive wordmark overlays bold “TIRES” lettering. This dynamic mark embodies craftsmanship, rugged reliability, and flexible on-and-off-road tire capability."
+    },
+    {
+      "type": "h2",
+      "text": "Mastercraft Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1995"
+    },
+    {
+      "type": "h3",
+      "text": "1995"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/mastercraft-logo.png",
+      "localPath": "/images/tire-logos/mastercraft-logo.png",
+      "alt": "Mastercraft Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/mastercraft-logo-1995.png",
+      "localPath": "/images/tire-logos/mastercraft-logo-1995.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/mastercraft-logo-1995.png",
+      "localPath": "/images/tire-logos/mastercraft-logo-1995.png",
+      "alt": "Mastercraft logo, 1995",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Mastercraft",
+    "category": "United States",
+    "years": "1909-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/mastercraft-logo.html"
+  }
+}

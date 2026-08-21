@@ -1,0 +1,23 @@
+{
+  "slug": "brockway-logo",
+  "name": "Brockway",
+  "h1": "Brockway Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Brockway Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/brockway-logo-1909.png",
+      "localPath": "/images/car-logos/brockway-logo-1909.png",
+      "alt": "Brockway logo, 1909"
+    }
+  ],
+  "facts": {}
+}

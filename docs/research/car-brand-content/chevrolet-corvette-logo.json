@@ -1,0 +1,104 @@
+{
+  "slug": "chevrolet-corvette-logo",
+  "name": "Corvette",
+  "h1": "Corvette Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Corvette Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1955"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1968"
+    },
+    {
+      "tag": "h3",
+      "text": "1982"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-1953.png",
+      "localPath": "/images/car-logos/corvette-logo-1953.png",
+      "alt": "Corvette logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-1955.png",
+      "localPath": "/images/car-logos/corvette-logo-1955.png",
+      "alt": "Corvette logo, 1955"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-1963.png",
+      "localPath": "/images/car-logos/corvette-logo-1963.png",
+      "alt": "Corvette logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-1968.png",
+      "localPath": "/images/car-logos/corvette-logo-1968.png",
+      "alt": "Corvette logo, 1968"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-1982.png",
+      "localPath": "/images/car-logos/corvette-logo-1982.png",
+      "alt": "Corvette logo, 1982"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-1997.png",
+      "localPath": "/images/car-logos/corvette-logo-1997.png",
+      "alt": "Corvette logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-2005.png",
+      "localPath": "/images/car-logos/corvette-logo-2005.png",
+      "alt": "Corvette logo, 2005"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-2014.png",
+      "localPath": "/images/car-logos/corvette-logo-2014.png",
+      "alt": "Corvette logo, 2014"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-2019.png",
+      "localPath": "/images/car-logos/corvette-logo-2019.png",
+      "alt": "Corvette logo, 2019"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/corvette-logo-2020.png",
+      "localPath": "/images/car-logos/corvette-logo-2020.png",
+      "alt": "Corvette logo, 2020"
+    }
+  ],
+  "facts": {}
+}

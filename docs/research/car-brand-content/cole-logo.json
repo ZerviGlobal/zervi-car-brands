@@ -1,0 +1,23 @@
+{
+  "slug": "cole-logo",
+  "name": "Cole",
+  "h1": "Cole Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Cole Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/cole-logo-1909.png",
+      "localPath": "/images/car-logos/cole-logo-1909.png",
+      "alt": "Cole logo, 1909"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "devalliet-logo",
+  "name": "Devalliet",
+  "h1": "Devalliet Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Devalliet Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/devalliet-logo-2021.png",
+      "localPath": "/images/car-logos/devalliet-logo-2021.png",
+      "alt": "Devalliet logo, 2021"
+    }
+  ],
+  "facts": {}
+}

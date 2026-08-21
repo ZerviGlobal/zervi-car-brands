@@ -1,0 +1,86 @@
+{
+  "slug": "dacia-logo",
+  "name": "Dacia",
+  "h1": "Dacia Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Dacia Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1966"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-1966.png",
+      "localPath": "/images/car-logos/dacia-logo-1966.png",
+      "alt": "Dacia logo, 1966"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-1978.png",
+      "localPath": "/images/car-logos/dacia-logo-1978.png",
+      "alt": "Dacia logo, 1978"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-1990.png",
+      "localPath": "/images/car-logos/dacia-logo-1990.png",
+      "alt": "Dacia logo, 1990"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-1997.png",
+      "localPath": "/images/car-logos/dacia-logo-1997.png",
+      "alt": "Dacia logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-2003.png",
+      "localPath": "/images/car-logos/dacia-logo-2003.png",
+      "alt": "Dacia logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-2008.png",
+      "localPath": "/images/car-logos/dacia-logo-2008.png",
+      "alt": "Dacia logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-2015.png",
+      "localPath": "/images/car-logos/dacia-logo-2015.png",
+      "alt": "Dacia logo, 2015"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dacia-logo-2021.png",
+      "localPath": "/images/car-logos/dacia-logo-2021.png",
+      "alt": "Dacia logo, 2021"
+    }
+  ],
+  "facts": {}
+}

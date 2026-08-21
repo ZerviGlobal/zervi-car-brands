@@ -1,0 +1,23 @@
+{
+  "slug": "ascari-logo",
+  "name": "Ascari",
+  "h1": "Ascari Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ascari Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1995"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ascari-logo-1995.png",
+      "localPath": "/images/car-logos/ascari-logo-1995.png",
+      "alt": "Ascari logo, 1995"
+    }
+  ],
+  "facts": {}
+}

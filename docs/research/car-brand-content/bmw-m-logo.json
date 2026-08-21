@@ -1,0 +1,41 @@
+{
+  "slug": "bmw-m-logo",
+  "name": "BMW M",
+  "h1": "BMW M Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "BMW M Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bmw-m-logo-1978.png",
+      "localPath": "/images/car-logos/bmw-m-logo-1978.png",
+      "alt": "BMW M logo, 1978"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bmw-m-logo-1993.png",
+      "localPath": "/images/car-logos/bmw-m-logo-1993.png",
+      "alt": "BMW M logo, 1993"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bmw-m-logo-2020.png",
+      "localPath": "/images/car-logos/bmw-m-logo-2020.png",
+      "alt": "BMW M logo, 2020"
+    }
+  ],
+  "facts": {}
+}

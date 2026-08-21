@@ -1,0 +1,23 @@
+{
+  "slug": "alvis-logo",
+  "name": "Alvis",
+  "h1": "Alvis Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Alvis Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1919"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/alvis-logo-1919.png",
+      "localPath": "/images/car-logos/alvis-logo-1919.png",
+      "alt": "Alvis logo, 1919"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "atalanta-logo",
+  "name": "Atalanta Motors",
+  "h1": "Atalanta Motors Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Atalanta Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/atalanta-logo-2011.png",
+      "localPath": "/images/car-logos/atalanta-logo-2011.png",
+      "alt": "Atalanta logo, 2011"
+    }
+  ],
+  "facts": {}
+}

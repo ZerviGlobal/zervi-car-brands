@@ -1,0 +1,95 @@
+{
+  "slug": "dodge-logo",
+  "name": "Dodge",
+  "h1": "Dodge Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Dodge Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1910"
+    },
+    {
+      "tag": "h3",
+      "text": "1914"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    },
+    {
+      "tag": "h3",
+      "text": "1955"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1980"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1910.png",
+      "localPath": "/images/car-logos/dodge-logo-1910.png",
+      "alt": "Dodge logo, 1910"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1914.png",
+      "localPath": "/images/car-logos/dodge-logo-1914.png",
+      "alt": "Dodge logo, 1914"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1928.png",
+      "localPath": "/images/car-logos/dodge-logo-1928.png",
+      "alt": "Dodge logo, 1928"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1955.png",
+      "localPath": "/images/car-logos/dodge-logo-1955.png",
+      "alt": "Dodge logo, 1955"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1962.png",
+      "localPath": "/images/car-logos/dodge-logo-1962.png",
+      "alt": "Dodge logo, 1962"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1964.png",
+      "localPath": "/images/car-logos/dodge-logo-1964.png",
+      "alt": "Dodge logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1980.png",
+      "localPath": "/images/car-logos/dodge-logo-1980.png",
+      "alt": "Dodge logo, 1980"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-1994.png",
+      "localPath": "/images/car-logos/dodge-logo-1994.png",
+      "alt": "Dodge logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/dodge-logo-2010.png",
+      "localPath": "/images/car-logos/dodge-logo-2010.png",
+      "alt": "Dodge logo, 2010"
+    }
+  ],
+  "facts": {}
+}

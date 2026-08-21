@@ -1,0 +1,59 @@
+{
+  "slug": "ac-logo",
+  "name": "AC",
+  "h1": "AC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "AC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1901"
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ac-logo-1901.png",
+      "localPath": "/images/car-logos/ac-logo-1901.png",
+      "alt": "AC logo, 1901"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ac-logo-1911.png",
+      "localPath": "/images/car-logos/ac-logo-1911.png",
+      "alt": "AC logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ac-logo-1954.png",
+      "localPath": "/images/car-logos/ac-logo-1954.png",
+      "alt": "AC logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ac-logo-1996.png",
+      "localPath": "/images/car-logos/ac-logo-1996.png",
+      "alt": "AC logo, 1996"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ac-logo-2022.png",
+      "localPath": "/images/car-logos/ac-logo-2022.png",
+      "alt": "AC logo, 2022"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "daihatsu-logo",
+  "name": "Daihatsu",
+  "h1": "Daihatsu Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Daihatsu Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1951"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/daihatsu-logo-1951.png",
+      "localPath": "/images/car-logos/daihatsu-logo-1951.png",
+      "alt": "Daihatsu logo, 1951"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/daihatsu-logo-1957.png",
+      "localPath": "/images/car-logos/daihatsu-logo-1957.png",
+      "alt": "Daihatsu logo, 1957"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/daihatsu-logo-1974.png",
+      "localPath": "/images/car-logos/daihatsu-logo-1974.png",
+      "alt": "Daihatsu logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/daihatsu-logo-1998.png",
+      "localPath": "/images/car-logos/daihatsu-logo-1998.png",
+      "alt": "Daihatsu logo, 1998"
+    }
+  ],
+  "facts": {}
+}

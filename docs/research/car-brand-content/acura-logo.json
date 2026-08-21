@@ -1,0 +1,28 @@
+{
+  "slug": "acura-logo",
+  "name": "Acura",
+  "h1": "Acura Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Acura Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/acura-logo-1989.png",
+      "localPath": "/images/car-logos/acura-logo-1989.png",
+      "alt": "Acura logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/acura-logo-1989-black.png",
+      "localPath": "/images/car-logos/acura-logo-1989-black.png",
+      "alt": "Acura logo, 1989"
+    }
+  ],
+  "facts": {}
+}

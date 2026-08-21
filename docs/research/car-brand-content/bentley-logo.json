@@ -1,0 +1,59 @@
+{
+  "slug": "bentley-logo",
+  "name": "Bentley",
+  "h1": "Bentley Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bentley Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1919"
+    },
+    {
+      "tag": "h3",
+      "text": "1931"
+    },
+    {
+      "tag": "h3",
+      "text": "1991"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    },
+    {
+      "tag": "h3",
+      "text": "2025"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bentley-logo-1919.png",
+      "localPath": "/images/car-logos/bentley-logo-1919.png",
+      "alt": "Bentley logo, 1919"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bentley-logo-1931.png",
+      "localPath": "/images/car-logos/bentley-logo-1931.png",
+      "alt": "Bentley logo, 1931"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bentley-logo-1991.png",
+      "localPath": "/images/car-logos/bentley-logo-1991.png",
+      "alt": "Bentley logo, 1991"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bentley-logo-2002.png",
+      "localPath": "/images/car-logos/bentley-logo-2002.png",
+      "alt": "Bentley logo, 2002"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/bentley-logo-2025.png",
+      "localPath": "/images/car-logos/bentley-logo-2025.png",
+      "alt": "Bentley logo, 2025"
+    }
+  ],
+  "facts": {}
+}

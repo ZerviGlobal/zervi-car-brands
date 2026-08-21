@@ -1,0 +1,49 @@
+{
+  "slug": "cooper-logo",
+  "name": "Cooper",
+  "h1": "Cooper Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Cooper’s oval emblem tops its bold wordmark. This blue logo stands for American craftsmanship, rugged dependability, balanced performance on highways and trails."
+    },
+    {
+      "type": "h2",
+      "text": "Cooper Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2003"
+    },
+    {
+      "type": "h3",
+      "text": "2003"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/cooper-logo.png",
+      "localPath": "/images/tire-logos/cooper-logo.png",
+      "alt": "Cooper Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/cooper-logo-2003.png",
+      "localPath": "/images/tire-logos/cooper-logo-2003.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/cooper-logo-2003.png",
+      "localPath": "/images/tire-logos/cooper-logo-2003.png",
+      "alt": "Cooper logo, 2003",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Cooper",
+    "category": "United States",
+    "years": "1914-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/cooper-logo.html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "delorean-logo",
+  "name": "DeLorean",
+  "h1": "DeLorean Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "DeLorean Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/delorean-logo-2008.png",
+      "localPath": "/images/car-logos/delorean-logo-2008.png",
+      "alt": "DeLorean logo, 2008"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,456 @@
+{
+  "section": "car-brands",
+  "totalBrands": 75,
+  "entries": [
+    {
+      "slug": "9ff-logo",
+      "name": "9ff",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "abadal-logo",
+      "name": "Abadal",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "abarth-logo",
+      "name": "Abarth",
+      "imageCount": 6,
+      "blockCount": 7
+    },
+    {
+      "slug": "abbott-detroit-logo",
+      "name": "Abbott-Detroit",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "abt-sportsline-logo",
+      "name": "ABT",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "ac-logo",
+      "name": "AC",
+      "imageCount": 5,
+      "blockCount": 6
+    },
+    {
+      "slug": "acura-logo",
+      "name": "Acura",
+      "imageCount": 2,
+      "blockCount": 2
+    },
+    {
+      "slug": "aion-logo",
+      "name": "Aion",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "aito-logo",
+      "name": "AITO",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "aiways-logo",
+      "name": "Aiways",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "aixam-logo",
+      "name": "Aixam",
+      "imageCount": 3,
+      "blockCount": 4
+    },
+    {
+      "slug": "alfa-romeo-logo",
+      "name": "Alfa Romeo",
+      "imageCount": 14,
+      "blockCount": 15
+    },
+    {
+      "slug": "alpina-logo",
+      "name": "Alpina",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "alpine-logo",
+      "name": "Alpine",
+      "imageCount": 3,
+      "blockCount": 4
+    },
+    {
+      "slug": "alta-logo",
+      "name": "Alta",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "alvis-logo",
+      "name": "Alvis",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "american-motors-logo",
+      "name": "AMC",
+      "imageCount": 3,
+      "blockCount": 4
+    },
+    {
+      "slug": "ankai-logo",
+      "name": "Ankai",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "apollo-logo",
+      "name": "Apollo",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "arash-logo",
+      "name": "Arash",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "arcfox-logo",
+      "name": "Arcfox",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "aria-logo",
+      "name": "Aria",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "ariel-logo",
+      "name": "Ariel",
+      "imageCount": 4,
+      "blockCount": 5
+    },
+    {
+      "slug": "aro-logo",
+      "name": "ARO",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "arrinera-logo",
+      "name": "Arrinera",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "arrival-logo",
+      "name": "Arrival",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "artega-logo",
+      "name": "Artega",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "ascari-logo",
+      "name": "Ascari",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "askam-logo",
+      "name": "Askam",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "aspark-logo",
+      "name": "Aspark",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "aston-martin-logo",
+      "name": "Aston Martin",
+      "imageCount": 12,
+      "blockCount": 12
+    },
+    {
+      "slug": "atalanta-logo",
+      "name": "Atalanta Motors",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "ats-logo",
+      "name": "ATS",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "auburn-logo",
+      "name": "Auburn",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "audi-logo",
+      "name": "Audi",
+      "imageCount": 12,
+      "blockCount": 13
+    },
+    {
+      "slug": "audi-sport-logo",
+      "name": "Audi Sport",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "aurus-logo",
+      "name": "Aurus",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "austin-logo",
+      "name": "Austin",
+      "imageCount": 4,
+      "blockCount": 5
+    },
+    {
+      "slug": "autobianchi-logo",
+      "name": "Autobianchi",
+      "imageCount": 14,
+      "blockCount": 15
+    },
+    {
+      "slug": "avatr-logo",
+      "name": "AVATR",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bac-logo",
+      "name": "BAC",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "baojun-logo",
+      "name": "Baojun",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "beiben-logo",
+      "name": "BeiBen",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bentley-logo",
+      "name": "Bentley",
+      "imageCount": 5,
+      "blockCount": 6
+    },
+    {
+      "slug": "berkeley-logo",
+      "name": "Berkeley",
+      "imageCount": 2,
+      "blockCount": 3
+    },
+    {
+      "slug": "berliet-logo",
+      "name": "Berliet",
+      "imageCount": 3,
+      "blockCount": 4
+    },
+    {
+      "slug": "bertone-logo",
+      "name": "Bertone",
+      "imageCount": 3,
+      "blockCount": 4
+    },
+    {
+      "slug": "bestune-logo",
+      "name": "Bestune",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bharatbenz-logo",
+      "name": "BharatBenz",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bitter-logo",
+      "name": "Bitter",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bizzarrini-logo",
+      "name": "Bizzarrini",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bmw-logo",
+      "name": "BMW",
+      "imageCount": 9,
+      "blockCount": 39
+    },
+    {
+      "slug": "bmw-m-logo",
+      "name": "BMW M",
+      "imageCount": 3,
+      "blockCount": 4
+    },
+    {
+      "slug": "borgward-logo",
+      "name": "Borgward",
+      "imageCount": 4,
+      "blockCount": 5
+    },
+    {
+      "slug": "bowler-logo",
+      "name": "Bowler",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "brabus-logo",
+      "name": "Brabus",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "brilliance-logo",
+      "name": "Brilliance",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bristol-logo",
+      "name": "Bristol",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "brockway-logo",
+      "name": "Brockway",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "brooke-logo",
+      "name": "Brooke",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bufori-logo",
+      "name": "Bufori",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "bugatti-logo",
+      "name": "Bugatti",
+      "imageCount": 5,
+      "blockCount": 6
+    },
+    {
+      "slug": "buick-logo",
+      "name": "Buick",
+      "imageCount": 10,
+      "blockCount": 11
+    },
+    {
+      "slug": "byd-logo",
+      "name": "BYD",
+      "imageCount": 5,
+      "blockCount": 6
+    },
+    {
+      "slug": "cadillac-logo",
+      "name": "Cadillac",
+      "imageCount": 10,
+      "blockCount": 11
+    },
+    {
+      "slug": "camc-logo",
+      "name": "CAMC",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "canoo-logo",
+      "name": "Canoo",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "caparo-logo",
+      "name": "Caparo",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "carlsson-logo",
+      "name": "Carlsson",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "caterham-logo",
+      "name": "Caterham",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "changan-logo",
+      "name": "Changan",
+      "imageCount": 4,
+      "blockCount": 5
+    },
+    {
+      "slug": "changfeng-logo",
+      "name": "Changfeng",
+      "imageCount": 1,
+      "blockCount": 2
+    },
+    {
+      "slug": "chery-logo",
+      "name": "Chery",
+      "imageCount": 4,
+      "blockCount": 5
+    },
+    {
+      "slug": "chevrolet-logo",
+      "name": "Chevrolet",
+      "imageCount": 15,
+      "blockCount": 16
+    },
+    {
+      "slug": "chrysler-logo",
+      "name": "Chrysler",
+      "imageCount": 10,
+      "blockCount": 11
+    }
+  ]
+}

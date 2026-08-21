@@ -1,0 +1,32 @@
+{
+  "slug": "daf-logo",
+  "name": "DAF",
+  "h1": "DAF Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "DAF Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/daf-logo-1928.png",
+      "localPath": "/images/car-logos/daf-logo-1928.png",
+      "alt": "DAF logo, 1928"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/daf-logo-1989.png",
+      "localPath": "/images/car-logos/daf-logo-1989.png",
+      "alt": "DAF logo, 1989"
+    }
+  ],
+  "facts": {}
+}

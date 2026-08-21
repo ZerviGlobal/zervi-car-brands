@@ -1,0 +1,23 @@
+{
+  "slug": "bizzarrini-logo",
+  "name": "Bizzarrini",
+  "h1": "Bizzarrini Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Bizzarrini Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bizzarrini-logo-1962.png",
+      "localPath": "/images/car-logos/bizzarrini-logo-1962.png",
+      "alt": "Bizzarrini logo, 1962"
+    }
+  ],
+  "facts": {}
+}

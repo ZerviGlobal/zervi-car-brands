@@ -1,0 +1,154 @@
+{
+  "section": "reviews",
+  "entriesProcessed": 20,
+  "imagesDownloaded": 240,
+  "contentFilesWritten": 15,
+  "errors": 156,
+  "entries": [
+    {
+      "slug": "largest-car-companies",
+      "href": "https://www.carlogos.org/reviews/largest-car-companies.html",
+      "imageCount": 36,
+      "contentBlocks": 25,
+      "errors": 5
+    },
+    {
+      "slug": "fastest-lamborghinis-ranked",
+      "href": "https://www.carlogos.org/reviews/fastest-lamborghinis-ranked.html",
+      "imageCount": 13,
+      "contentBlocks": 42,
+      "errors": 12
+    },
+    {
+      "slug": "33-car-brand-logos-and-meanings",
+      "href": "https://www.carlogos.org/reviews/33-car-brand-logos-and-meanings.html",
+      "imageCount": 0,
+      "contentBlocks": 0,
+      "errors": 1,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.carlogos.org/reviews/33-car-brand-logos-and-meanings.html\", waiting until \"networkidle\"\n"
+    },
+    {
+      "slug": "similar-car-logos",
+      "href": "https://www.carlogos.org/reviews/similar-car-logos.html",
+      "imageCount": 18,
+      "contentBlocks": 96,
+      "errors": 5
+    },
+    {
+      "slug": "ferrari-logo-vs-porsche-logo",
+      "href": "https://www.carlogos.org/reviews/ferrari-logo-vs-porsche-logo.html",
+      "imageCount": 0,
+      "contentBlocks": 0,
+      "errors": 1,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.carlogos.org/reviews/ferrari-logo-vs-porsche-logo.html\", waiting until \"networkidle\"\n"
+    },
+    {
+      "slug": "rarest-cars-in-the-world",
+      "href": "https://www.carlogos.org/reviews/rarest-cars-in-the-world.html",
+      "imageCount": 16,
+      "contentBlocks": 87,
+      "errors": 15
+    },
+    {
+      "slug": "most-expensive-chinese-cars",
+      "href": "https://www.carlogos.org/reviews/most-expensive-chinese-cars.html",
+      "imageCount": 16,
+      "contentBlocks": 83,
+      "errors": 15
+    },
+    {
+      "slug": "chinese-ev-sports-cars",
+      "href": "https://www.carlogos.org/reviews/chinese-ev-sports-cars.html",
+      "imageCount": 16,
+      "contentBlocks": 80,
+      "errors": 15
+    },
+    {
+      "slug": "lesser-known-used-jdm-cars",
+      "href": "https://www.carlogos.org/reviews/lesser-known-used-jdm-cars.html",
+      "imageCount": 0,
+      "contentBlocks": 0,
+      "errors": 1,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.carlogos.org/reviews/lesser-known-used-jdm-cars.html\", waiting until \"networkidle\"\n"
+    },
+    {
+      "slug": "school-bus-manufacturers-in-the-us",
+      "href": "https://www.carlogos.org/reviews/school-bus-manufacturers-in-the-us.html",
+      "imageCount": 13,
+      "contentBlocks": 57,
+      "errors": 12
+    },
+    {
+      "slug": "different-colors-of-the-bentley-logo",
+      "href": "https://www.carlogos.org/reviews/different-colors-of-the-bentley-logo.html",
+      "imageCount": 8,
+      "contentBlocks": 39,
+      "errors": 5
+    },
+    {
+      "slug": "the-best-years-for-a-used-grand-marquis",
+      "href": "https://www.carlogos.org/reviews/the-best-years-for-a-used-grand-marquis.html",
+      "imageCount": 6,
+      "contentBlocks": 47,
+      "errors": 5
+    },
+    {
+      "slug": "best-motorcycle-brands",
+      "href": "https://www.carlogos.org/reviews/best-motorcycle-brands.html",
+      "imageCount": 26,
+      "contentBlocks": 122,
+      "errors": 25
+    },
+    {
+      "slug": "audi-q3-best-worst-years",
+      "href": "https://www.carlogos.org/reviews/audi-q3-best-worst-years.html",
+      "imageCount": 6,
+      "contentBlocks": 29,
+      "errors": 5
+    },
+    {
+      "slug": "top-car-companies-by-revenue-2025",
+      "href": "https://www.carlogos.org/reviews/top-car-companies-by-revenue-2025.html",
+      "imageCount": 36,
+      "contentBlocks": 14,
+      "errors": 5
+    },
+    {
+      "slug": "top-car-companies-by-revenue-2024",
+      "href": "https://www.carlogos.org/reviews/top-car-companies-by-revenue-2024.html",
+      "imageCount": 0,
+      "contentBlocks": 0,
+      "errors": 1,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.carlogos.org/reviews/top-car-companies-by-revenue-2024.html\", waiting until \"networkidle\"\n"
+    },
+    {
+      "slug": "used-audi-a6-best-worst-years",
+      "href": "https://www.carlogos.org/reviews/used-audi-a6-best-worst-years.html",
+      "imageCount": 6,
+      "contentBlocks": 51,
+      "errors": 5
+    },
+    {
+      "slug": "best-sub-compact-tractors",
+      "href": "https://www.carlogos.org/reviews/best-sub-compact-tractors.html",
+      "imageCount": 0,
+      "contentBlocks": 0,
+      "errors": 1,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.carlogos.org/reviews/best-sub-compact-tractors.html\", waiting until \"networkidle\"\n"
+    },
+    {
+      "slug": "iconic-colors-of-tractor-brands",
+      "href": "https://www.carlogos.org/reviews/iconic-colors-of-tractor-brands.html",
+      "imageCount": 11,
+      "contentBlocks": 44,
+      "errors": 10
+    },
+    {
+      "slug": "best-off-road-cars-in-nfs-heat",
+      "href": "https://www.carlogos.org/reviews/best-off-road-cars-in-nfs-heat.html",
+      "imageCount": 13,
+      "contentBlocks": 80,
+      "errors": 12
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "bharatbenz-logo",
+  "name": "BharatBenz",
+  "h1": "BharatBenz Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "BharatBenz Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/bharatbenz-logo-2011.png",
+      "localPath": "/images/car-logos/bharatbenz-logo-2011.png",
+      "alt": "BharatBenz logo, 2011"
+    }
+  ],
+  "facts": {}
+}

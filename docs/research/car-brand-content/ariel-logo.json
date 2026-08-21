@@ -1,0 +1,50 @@
+{
+  "slug": "ariel-logo",
+  "name": "Ariel",
+  "h1": "Ariel Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ariel Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1902"
+    },
+    {
+      "tag": "h3",
+      "text": "1932"
+    },
+    {
+      "tag": "h3",
+      "text": "1951"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ariel-logo-1902.png",
+      "localPath": "/images/car-logos/ariel-logo-1902.png",
+      "alt": "Ariel logo, 1902"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ariel-logo-1932.png",
+      "localPath": "/images/car-logos/ariel-logo-1932.png",
+      "alt": "Ariel logo, 1932"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ariel-logo-1951.png",
+      "localPath": "/images/car-logos/ariel-logo-1951.png",
+      "alt": "Ariel logo, 1951"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ariel-logo-2001.png",
+      "localPath": "/images/car-logos/ariel-logo-2001.png",
+      "alt": "Ariel logo, 2001"
+    }
+  ],
+  "facts": {}
+}

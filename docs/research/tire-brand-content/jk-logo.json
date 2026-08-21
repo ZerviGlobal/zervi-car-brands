@@ -1,0 +1,49 @@
+{
+  "slug": "jk-logo",
+  "name": "JK",
+  "h1": "JK Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "JK’s geometric logo forms intertwined “J” and “K” with striking red detailing. Its arrow-like silhouette stands for velocity and strength, embodying durable, capable tire engineering."
+    },
+    {
+      "type": "h2",
+      "text": "JK Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2012"
+    },
+    {
+      "type": "h3",
+      "text": "2012"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/jk-logo.png",
+      "localPath": "/images/tire-logos/jk-logo.png",
+      "alt": "JK Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/jk-logo-2012.png",
+      "localPath": "/images/tire-logos/jk-logo-2012.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/jk-logo-2012.png",
+      "localPath": "/images/tire-logos/jk-logo-2012.png",
+      "alt": "JK logo, 2012",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "JK",
+    "category": "India",
+    "years": "1974-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/jk-logo.html"
+  }
+}

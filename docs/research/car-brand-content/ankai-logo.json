@@ -1,0 +1,23 @@
+{
+  "slug": "ankai-logo",
+  "name": "Ankai",
+  "h1": "Ankai Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ankai Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ankai-logo-1997.png",
+      "localPath": "/images/car-logos/ankai-logo-1997.png",
+      "alt": "Ankai logo, 1997"
+    }
+  ],
+  "facts": {}
+}

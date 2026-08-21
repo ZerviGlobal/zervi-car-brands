@@ -1,0 +1,23 @@
+{
+  "slug": "camc-logo",
+  "name": "CAMC",
+  "h1": "CAMC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "CAMC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/camc-logo-1999.png",
+      "localPath": "/images/car-logos/camc-logo-1999.png",
+      "alt": "CAMC logo, 1999"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "triangle-logo",
+  "name": "Triangle",
+  "h1": "Triangle Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The Triangle Tire logo is a layered blue triangle. Its balanced shape is supposed to show stability, which fits the idea that their tires are reliable and made to last."
+    },
+    {
+      "type": "h2",
+      "text": "Triangle Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2000"
+    },
+    {
+      "type": "h3",
+      "text": "2000"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/triangle-logo.png",
+      "localPath": "/images/tire-logos/triangle-logo.png",
+      "alt": "Triangle Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/triangle-logo-2000.png",
+      "localPath": "/images/tire-logos/triangle-logo-2000.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/triangle-logo-2000.png",
+      "localPath": "/images/tire-logos/triangle-logo-2000.png",
+      "alt": "Triangle logo, 2000",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Triangle",
+    "category": "China",
+    "years": "1976-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/triangle-logo.html"
+  }
+}

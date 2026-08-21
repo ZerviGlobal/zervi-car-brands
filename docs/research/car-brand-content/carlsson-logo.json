@@ -1,0 +1,23 @@
+{
+  "slug": "carlsson-logo",
+  "name": "Carlsson",
+  "h1": "Carlsson Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Carlsson Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/carlsson-logo-1989.png",
+      "localPath": "/images/car-logos/carlsson-logo-1989.png",
+      "alt": "Carlsson logo, 1989"
+    }
+  ],
+  "facts": {}
+}

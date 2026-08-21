@@ -1,0 +1,23 @@
+{
+  "slug": "diatto-logo",
+  "name": "Diatto",
+  "h1": "Diatto Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Diatto Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1905"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/diatto-logo-1905.png",
+      "localPath": "/images/car-logos/diatto-logo-1905.png",
+      "alt": "Diatto logo, 1905"
+    }
+  ],
+  "facts": {}
+}

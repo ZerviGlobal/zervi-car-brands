@@ -1,0 +1,49 @@
+{
+  "slug": "vogue-logo",
+  "name": "Vogue",
+  "h1": "Vogue Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Vogue’s golden shield with a central “V” is guarded by twin lions. This regal mark stands for vintage luxury tire heritage, elite craftsmanship, and iconic custom automotive culture."
+    },
+    {
+      "type": "h2",
+      "text": "Vogue Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1914"
+    },
+    {
+      "type": "h3",
+      "text": "1914"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/vogue-logo.png",
+      "localPath": "/images/tire-logos/vogue-logo.png",
+      "alt": "Vogue Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/vogue-logo-1914.png",
+      "localPath": "/images/tire-logos/vogue-logo-1914.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/vogue-logo-1914.png",
+      "localPath": "/images/tire-logos/vogue-logo-1914.png",
+      "alt": "Vogue logo, 1914",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Vogue",
+    "category": "United States",
+    "years": "1914-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/vogue-logo.html"
+  }
+}

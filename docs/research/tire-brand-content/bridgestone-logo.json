@@ -1,0 +1,49 @@
+{
+  "slug": "bridgestone-logo",
+  "name": "Bridgestone",
+  "h1": "Bridgestone Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Bridgestone’s keystone BS emblem draws from its founder’s “Ishibashi” surname. It stands for sturdy stability and best service, marking the global tire brand since 1931."
+    },
+    {
+      "type": "h2",
+      "text": "Bridgestone Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2011"
+    },
+    {
+      "type": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/bridgestone-logo.png",
+      "localPath": "/images/tire-logos/bridgestone-logo.png",
+      "alt": "Bridgestone Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/bridgestone-logo-2011.png",
+      "localPath": "/images/tire-logos/bridgestone-logo-2011.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/bridgestone-logo-2011.png",
+      "localPath": "/images/tire-logos/bridgestone-logo-2011.png",
+      "alt": "Bridgestone logo, 2011",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Bridgestone",
+    "category": "Japan",
+    "years": "1931-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/bridgestone-logo.html"
+  }
+}

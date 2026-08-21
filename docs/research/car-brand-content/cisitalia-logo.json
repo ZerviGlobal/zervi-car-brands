@@ -1,0 +1,23 @@
+{
+  "slug": "cisitalia-logo",
+  "name": "Cisitalia",
+  "h1": "Cisitalia Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Cisitalia Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1946"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/cisitalia-logo-1946.png",
+      "localPath": "/images/car-logos/cisitalia-logo-1946.png",
+      "alt": "Cisitalia logo, 1946"
+    }
+  ],
+  "facts": {}
+}

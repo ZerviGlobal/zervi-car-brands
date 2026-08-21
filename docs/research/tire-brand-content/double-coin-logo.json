@@ -1,0 +1,49 @@
+{
+  "slug": "double-coin-logo",
+  "name": "Double Coin",
+  "h1": "Double Coin Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Double Coin’s logo depicts two overlapping Chinese coins. This symbol stands for prosperity, representing steady, dependable tire performance and customer value."
+    },
+    {
+      "type": "h2",
+      "text": "Double Coin Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2010"
+    },
+    {
+      "type": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/double-coin-logo.png",
+      "localPath": "/images/tire-logos/double-coin-logo.png",
+      "alt": "Double Coin Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/double-coin-logo-2010.png",
+      "localPath": "/images/tire-logos/double-coin-logo-2010.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/double-coin-logo-2010.png",
+      "localPath": "/images/tire-logos/double-coin-logo-2010.png",
+      "alt": "Double Coin logo, 2010",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Double Coin",
+    "category": "China",
+    "years": "1990-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/double-coin-logo.html"
+  }
+}

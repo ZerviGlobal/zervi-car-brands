@@ -1,0 +1,32 @@
+{
+  "slug": "berkeley-logo",
+  "name": "Berkeley",
+  "h1": "Berkeley Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Berkeley Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1956"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/berkeley-logo-1956.png",
+      "localPath": "/images/car-logos/berkeley-logo-1956.png",
+      "alt": "Berkeley logo, 1956"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/berkeley-logo-2020.png",
+      "localPath": "/images/car-logos/berkeley-logo-2020.png",
+      "alt": "Berkeley logo, 2020"
+    }
+  ],
+  "facts": {}
+}

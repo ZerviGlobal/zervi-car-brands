@@ -1,0 +1,23 @@
+{
+  "slug": "caparo-logo",
+  "name": "Caparo",
+  "h1": "Caparo Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Caparo Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2006"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/caparo-logo-2006.png",
+      "localPath": "/images/car-logos/caparo-logo-2006.png",
+      "alt": "Caparo logo, 2006"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "maxxis-logo",
+  "name": "Maxxis",
+  "h1": "Maxxis Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Maxxis’s slanted orange wordmark conveys power and motion. This mark stands for industrial tire skill, high-speed mobility, consistent multi-terrain performance."
+    },
+    {
+      "type": "h2",
+      "text": "Maxxis Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1967"
+    },
+    {
+      "type": "h3",
+      "text": "1967"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/maxxis-logo.png",
+      "localPath": "/images/tire-logos/maxxis-logo.png",
+      "alt": "Maxxis Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/maxxis-logo-1967.png",
+      "localPath": "/images/tire-logos/maxxis-logo-1967.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/maxxis-logo-1967.png",
+      "localPath": "/images/tire-logos/maxxis-logo-1967.png",
+      "alt": "Maxxis logo, 1967",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Maxxis",
+    "category": "Taiwan",
+    "years": "1967-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/maxxis-logo.html"
+  }
+}

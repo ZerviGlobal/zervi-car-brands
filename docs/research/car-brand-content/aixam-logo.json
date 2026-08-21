@@ -1,0 +1,41 @@
+{
+  "slug": "aixam-logo",
+  "name": "Aixam",
+  "h1": "Aixam Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Aixam Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1983"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/aixam-logo-1983.png",
+      "localPath": "/images/car-logos/aixam-logo-1983.png",
+      "alt": "Aixam logo, 1983"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/aixam-logo-1996.png",
+      "localPath": "/images/car-logos/aixam-logo-1996.png",
+      "alt": "Aixam logo, 1996"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/aixam-logo-2007.png",
+      "localPath": "/images/car-logos/aixam-logo-2007.png",
+      "alt": "Aixam logo, 2007"
+    }
+  ],
+  "facts": {}
+}

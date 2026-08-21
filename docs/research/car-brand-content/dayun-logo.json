@@ -1,0 +1,23 @@
+{
+  "slug": "dayun-logo",
+  "name": "Dayun",
+  "h1": "Dayun Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Dayun Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1987"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/dayun-logo-1987.png",
+      "localPath": "/images/car-logos/dayun-logo-1987.png",
+      "alt": "Dayun logo, 1987"
+    }
+  ],
+  "facts": {}
+}

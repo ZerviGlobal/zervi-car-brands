@@ -1,0 +1,49 @@
+{
+  "slug": "linglong-logo",
+  "name": "Linglong",
+  "h1": "Linglong Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Linglong’s logo holds stylized “LL” within a blue oval. Its blue-green palette embodies core values, representing global expansion, eco-focused progress and reliable tire technology."
+    },
+    {
+      "type": "h2",
+      "text": "Linglong Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2013"
+    },
+    {
+      "type": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/linglong-logo.png",
+      "localPath": "/images/tire-logos/linglong-logo.png",
+      "alt": "Linglong Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/linglong-logo-2013.png",
+      "localPath": "/images/tire-logos/linglong-logo-2013.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/linglong-logo-2013.png",
+      "localPath": "/images/tire-logos/linglong-logo-2013.png",
+      "alt": "Linglong logo, 2013",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Linglong",
+    "category": "China",
+    "years": "1975-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/linglong-logo.html"
+  }
+}

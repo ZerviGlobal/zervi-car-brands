@@ -1,0 +1,49 @@
+{
+  "slug": "uniroyal-logo",
+  "name": "Uniroyal",
+  "h1": "Uniroyal Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Uniroyal’s slanted wordmark is framed by crimson rectangular stripes. This bold mark honors its U.S. Royal roots, standing for strength, reliability, and trusted on-road tire safety."
+    },
+    {
+      "type": "h2",
+      "text": "Uniroyal Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1900s"
+    },
+    {
+      "type": "h3",
+      "text": "1900s"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/uniroyal-logo.png",
+      "localPath": "/images/tire-logos/uniroyal-logo.png",
+      "alt": "Uniroyal Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/uniroyal-logo-1900s.png",
+      "localPath": "/images/tire-logos/uniroyal-logo-1900s.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/uniroyal-logo-1900s.png",
+      "localPath": "/images/tire-logos/uniroyal-logo-1900s.png",
+      "alt": "Uniroyal logo, 1900s",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Uniroyal",
+    "category": "United States",
+    "years": "1892-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/uniroyal-logo.html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "caterham-logo",
+  "name": "Caterham",
+  "h1": "Caterham Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Caterham Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1973"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/caterham-logo-1973.png",
+      "localPath": "/images/car-logos/caterham-logo-1973.png",
+      "alt": "Caterham logo, 1973"
+    }
+  ],
+  "facts": {}
+}

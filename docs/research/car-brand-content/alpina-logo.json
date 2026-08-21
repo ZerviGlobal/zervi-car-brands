@@ -1,0 +1,32 @@
+{
+  "slug": "alpina-logo",
+  "name": "Alpina",
+  "h1": "Alpina Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Alpina Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1965"
+    },
+    {
+      "tag": "h3",
+      "text": "2026"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/alpina-logo-1965.png",
+      "localPath": "/images/car-logos/alpina-logo-1965.png",
+      "alt": "Alpina logo, 1965"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/alpina-logo-2026.png",
+      "localPath": "/images/car-logos/alpina-logo-2026.png",
+      "alt": "Alpina logo, 2026"
+    }
+  ],
+  "facts": {}
+}

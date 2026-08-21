@@ -1,0 +1,23 @@
+{
+  "slug": "askam-logo",
+  "name": "Askam",
+  "h1": "Askam Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Askam Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/askam-logo-1964.png",
+      "localPath": "/images/car-logos/askam-logo-1964.png",
+      "alt": "Askam logo, 1964"
+    }
+  ],
+  "facts": {}
+}

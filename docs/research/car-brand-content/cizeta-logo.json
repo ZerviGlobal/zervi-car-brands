@@ -1,0 +1,23 @@
+{
+  "slug": "cizeta-logo",
+  "name": "Cizeta",
+  "h1": "Cizeta Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Cizeta Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/cizeta-logo-1988.png",
+      "localPath": "/images/car-logos/cizeta-logo-1988.png",
+      "alt": "Cizeta logo, 1988"
+    }
+  ],
+  "facts": {}
+}

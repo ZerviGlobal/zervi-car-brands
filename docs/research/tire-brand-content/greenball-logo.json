@@ -1,0 +1,49 @@
+{
+  "slug": "greenball-logo",
+  "name": "Greenball",
+  "h1": "Greenball Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Greenball’s green circular logo holds a sleek swoosh graphic. It symbolizes mobility, eco-focused production, turf industry roots, and steady forward movement."
+    },
+    {
+      "type": "h2",
+      "text": "Greenball Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2010"
+    },
+    {
+      "type": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/greenball-logo.png",
+      "localPath": "/images/tire-logos/greenball-logo.png",
+      "alt": "Greenball Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/greenball-logo-2010.png",
+      "localPath": "/images/tire-logos/greenball-logo-2010.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/greenball-logo-2010.png",
+      "localPath": "/images/tire-logos/greenball-logo-2010.png",
+      "alt": "Greenball logo, 2010",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Greenball",
+    "category": "United States",
+    "years": "1976-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/greenball-logo.html"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "denza-logo",
+  "name": "Denza",
+  "h1": "Denza Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Denza Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2024"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/denza-logo-2009.png",
+      "localPath": "/images/car-logos/denza-logo-2009.png",
+      "alt": "Denza logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/denza-logo-2010.png",
+      "localPath": "/images/car-logos/denza-logo-2010.png",
+      "alt": "Denza logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/denza-logo-2012.png",
+      "localPath": "/images/car-logos/denza-logo-2012.png",
+      "alt": "Denza logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/denza-logo-2024.png",
+      "localPath": "/images/car-logos/denza-logo-2024.png",
+      "alt": "Denza logo, 2024"
+    }
+  ],
+  "facts": {}
+}

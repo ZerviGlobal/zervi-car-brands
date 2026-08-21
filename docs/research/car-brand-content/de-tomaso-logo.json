@@ -1,0 +1,50 @@
+{
+  "slug": "de-tomaso-logo",
+  "name": "De Tomaso",
+  "h1": "De Tomaso Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "De Tomaso Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1960"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/de-tomaso-logo-1960.png",
+      "localPath": "/images/car-logos/de-tomaso-logo-1960.png",
+      "alt": "De Tomaso logo, 1960"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/de-tomaso-logo-2009.png",
+      "localPath": "/images/car-logos/de-tomaso-logo-2009.png",
+      "alt": "De Tomaso logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/de-tomaso-logo-2019.png",
+      "localPath": "/images/car-logos/de-tomaso-logo-2019.png",
+      "alt": "De Tomaso logo, 2019"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/de-tomaso-logo-2022.png",
+      "localPath": "/images/car-logos/de-tomaso-logo-2022.png",
+      "alt": "De Tomaso logo, 2022"
+    }
+  ],
+  "facts": {}
+}

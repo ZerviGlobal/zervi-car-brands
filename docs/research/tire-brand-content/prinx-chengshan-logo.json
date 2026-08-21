@@ -1,0 +1,49 @@
+{
+  "slug": "prinx-chengshan-logo",
+  "name": "Prinx Chengshan",
+  "h1": "Prinx Chengshan Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Prinx Chengshan features a round green logo built from symmetrical leaf shapes. The design emphasizes eco-friendly production and consistent, reliable tire performance."
+    },
+    {
+      "type": "h2",
+      "text": "Prinx Chengshan Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n2022"
+    },
+    {
+      "type": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/prinx-chengshan-logo.png",
+      "localPath": "/images/tire-logos/prinx-chengshan-logo.png",
+      "alt": "Prinx Chengshan Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/prinx-chengshan-logo-2022.png",
+      "localPath": "/images/tire-logos/prinx-chengshan-logo-2022.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/prinx-chengshan-logo-2022.png",
+      "localPath": "/images/tire-logos/prinx-chengshan-logo-2022.png",
+      "alt": "Prinx Chengshan logo, 2022",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Prinx Chengshan",
+    "category": "China",
+    "years": "1976-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/prinx-chengshan-logo.html"
+  }
+}

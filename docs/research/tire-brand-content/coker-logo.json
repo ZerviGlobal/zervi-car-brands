@@ -1,0 +1,49 @@
+{
+  "slug": "coker-logo",
+  "name": "Coker",
+  "h1": "Coker Logo",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "Coker Tire’s bold blue lettering sits before a retro tire illustration. It symbolizes vintage motoring tradition, handcrafted tires, and reliable original-style traction for classic car builds."
+    },
+    {
+      "type": "h2",
+      "text": "Coker Logo Timeline"
+    },
+    {
+      "type": "div",
+      "text": "01 of 01\n1958"
+    },
+    {
+      "type": "h3",
+      "text": "1958"
+    }
+  ],
+  "images": [
+    {
+      "src": "/tire-logos/coker-logo.png",
+      "localPath": "/images/tire-logos/coker-logo.png",
+      "alt": "Coker Logo",
+      "type": "main-logo"
+    },
+    {
+      "src": "https://www.carlogos.org/tire-logos/coker-logo-1958.png",
+      "localPath": "/images/tire-logos/coker-logo-1958.png",
+      "alt": "",
+      "type": "current-logo"
+    },
+    {
+      "src": "/tire-logos/coker-logo-1958.png",
+      "localPath": "/images/tire-logos/coker-logo-1958.png",
+      "alt": "Coker logo, 1958",
+      "type": "timeline"
+    }
+  ],
+  "facts": {
+    "name": "Coker",
+    "category": "United States",
+    "years": "1958-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/coker-logo.html"
+  }
+}

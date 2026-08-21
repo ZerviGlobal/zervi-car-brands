@@ -1,0 +1,23 @@
+{
+  "slug": "abbott-detroit-logo",
+  "name": "Abbott-Detroit",
+  "h1": "Abbott-Detroit Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Abbott-Detroit Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/abbott-detroit-logo-1909.png",
+      "localPath": "/images/car-logos/abbott-detroit-logo-1909.png",
+      "alt": "Abbott-Detroit logo, 1909"
+    }
+  ],
+  "facts": {}
+}

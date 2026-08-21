@@ -1,0 +1,601 @@
+{
+  "section": "quizzes",
+  "entries": [
+    {
+      "slug": "car-brand-country-challenge",
+      "title": "Level: EasyUpdated Aug 15, 2026Car Brand Country Challenge",
+      "h1": "Car Brand Country Challenge",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/car-logos/pontiac-logo.png",
+          "localPath": "/images/quizzes/car-brand-country-challenge-pontiac-logo.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/car-brand-country-challenge-guess-the-car-brand.png",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/car-brand-country-challenge-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "car-interior-challenge",
+      "title": "Level: MediumUpdated Aug 16, 2026Car Interior Challenge",
+      "h1": "Car Interior Challenge",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge-q36.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-car-interior-challenge-q36.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/8/muscle-car-challenge.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-muscle-car-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/car-interior-challenge-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "car-logo-quiz",
+      "title": "Level: EasyUpdated Aug 17, 2026Car Logo Quiz",
+      "h1": "Car Logo Quiz",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz-q79.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-car-logo-quiz-q79.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/car-logo-quiz-guess-the-car-brand.png",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/car-logo-quiz-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "car-model-challenge",
+      "title": "Level: EasyUpdated Aug 15, 2026Car Model Challenge",
+      "h1": "Car Model Challenge",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge-q10.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-car-model-challenge-q10.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/car-model-challenge-guess-the-car-brand.png",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/car-model-challenge-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "car-part-quiz",
+      "title": "Level: MediumUpdated Jul 30, 2026Car Part Quiz",
+      "h1": "Car Part Quiz",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz-q6.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-car-part-quiz-q6.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/car-part-quiz-guess-the-car-brand.png",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/car-part-quiz-car-brand-country-challenge.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "guess-car-tail-lights",
+      "title": "Level: MediumUpdated Aug 18, 2026Guess the Car by Its Tail Lights",
+      "h1": "Guess the Car by Its Tail Lights",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights-q18.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-guess-car-tail-lights-q18.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/8/muscle-car-challenge.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-muscle-car-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/guess-car-tail-lights-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "guess-the-car-brand",
+      "title": "Level: MediumUpdated Aug 19, 2026Guess the Car Brand",
+      "h1": "Guess the Car Brand",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand-q15.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-guess-the-car-brand-q15.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/guess-the-car-brand-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "guess-the-car-founder",
+      "title": "Level: MediumUpdated Aug 15, 2026Guess the Car Founder",
+      "h1": "Guess the Car Founder",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/8/guess-the-car-founder-q21.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-guess-the-car-founder-q21.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/guess-the-car-founder-guess-the-car-brand.png",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/guess-the-car-founder-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "guess-the-car",
+      "title": "Level: EasyUpdated Aug 18, 2026Guess The Car",
+      "h1": "Guess The Car",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car-q31.jpg",
+          "localPath": "/images/quizzes/guess-the-car-guess-the-car-q31.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/8/muscle-car-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-muscle-car-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/guess-the-car-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/guess-the-car-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/guess-the-car-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/guess-the-car-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/guess-the-car-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "muscle-car-challenge",
+      "title": "Level: MediumUpdated Aug 17, 2026Muscle Car Challenge",
+      "h1": "Muscle Car Challenge",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/8/muscle-car-challenge-q12.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-muscle-car-challenge-q12.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-car-part-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo.jpg",
+          "localPath": "/images/quizzes/muscle-car-challenge-spot-the-real-logo.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/muscle-car-challenge-guess-the-car-brand.png",
+          "alt": "#"
+        }
+      ]
+    },
+    {
+      "slug": "spot-the-real-logo",
+      "title": "Level: MediumUpdated Aug 15, 2026Spot the Real Logo",
+      "h1": "Spot the Real Logo",
+      "imageCount": 9,
+      "contentBlocks": 10,
+      "images": [
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/spot-the-real-logo-q2.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-spot-the-real-logo-q2.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/car-logo-quiz.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-car-logo-quiz.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/6/guess-the-car-brand.png",
+          "localPath": "/images/quizzes/spot-the-real-logo-guess-the-car-brand.png",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-brand-country-challenge.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-car-brand-country-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-the-car.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-guess-the-car.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-model-challenge.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-car-model-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/guess-car-tail-lights.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-guess-car-tail-lights.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-interior-challenge.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-car-interior-challenge.jpg",
+          "alt": "#"
+        },
+        {
+          "src": "https://www.carlogos.org/uploads/2026/7/car-part-quiz.jpg",
+          "localPath": "/images/quizzes/spot-the-real-logo-car-part-quiz.jpg",
+          "alt": "#"
+        }
+      ]
+    }
+  ],
+  "totalImages": 99,
+  "totalEntries": 11
+}

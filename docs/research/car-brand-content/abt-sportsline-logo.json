@@ -1,0 +1,23 @@
+{
+  "slug": "abt-sportsline-logo",
+  "name": "ABT",
+  "h1": "ABT Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "ABT Sportsline Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1990s"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/abt-sportsline-logo-1990s.png",
+      "localPath": "/images/car-logos/abt-sportsline-logo-1990s.png",
+      "alt": "ABT Sportsline logo, 1990s"
+    }
+  ],
+  "facts": {}
+}

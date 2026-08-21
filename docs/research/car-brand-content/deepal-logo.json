@@ -1,0 +1,23 @@
+{
+  "slug": "deepal-logo",
+  "name": "Deepal",
+  "h1": "Deepal Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Deepal Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/deepal-logo-2022.png",
+      "localPath": "/images/car-logos/deepal-logo-2022.png",
+      "alt": "Deepal logo, 2022"
+    }
+  ],
+  "facts": {}
+}

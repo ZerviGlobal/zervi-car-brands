@@ -1,0 +1,25 @@
+{
+  "slug": "laufenn-logo",
+  "name": "Laufenn",
+  "h1": "404Page Not Found",
+  "contentBlocks": [
+    {
+      "type": "paragraph",
+      "text": "The page you’re looking for may have been moved or deleted."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/tire-logos/laufenn-logo.png",
+      "localPath": "/images/tire-logos/laufenn-logo.png",
+      "alt": "Laufenn logo",
+      "type": "list-logo"
+    }
+  ],
+  "facts": {
+    "name": "Laufenn",
+    "category": "South Korea",
+    "years": "2014-Present",
+    "sourceUrl": "https://www.carlogos.org/tire-brands/laufenn-logo.html"
+  }
+}
