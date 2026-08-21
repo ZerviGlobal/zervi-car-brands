@@ -7,10 +7,10 @@ services:
     image: zervi-car-brands:latest
     container_name: zervi-car-brands
     restart: unless-stopped
-    # Coolify injects PORT (defaults to 3000 here if unset). The app's
-    # Dockerfile sets ENV PORT=3000 and EXPOSE 3000, so we map to it.
+    # Host port 3085 (Tailscale) -> container 3000. Hardcoded so Coolify
+    # parses the exact mapping from the compose file.
     ports:
-      - "${PORT:-3000}:3000"
+      - "3085:3000"
     environment:
       - NODE_ENV=production
       - NEXT_TELEMETRY_DISABLED=1
