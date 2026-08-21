@@ -19,10 +19,6 @@ services:
         required: false
       - path: .env
         required: false
-    healthcheck:
-      # Node 24 slim image has no wget/curl, so use node for the HTTP probe.
-      test: ["CMD-SHELL", "node -e "const h=require('http');h.get('http://localhost:3000/',r=>{process.exit(r.statusCode===200?0:1)}).on('error',()=>process.exit(1))""]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 10s
+    # Healthcheck is managed via Coolify app settings (health_check_* fields),
+    # not in the compose file, to avoid YAML quote-escaping issues with the
+    # node-based HTTP probe (the slim runner image has no wget/curl).
