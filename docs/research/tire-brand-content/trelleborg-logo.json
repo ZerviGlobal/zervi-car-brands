@@ -4,20 +4,20 @@
   "h1": "Trelleborg Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Trelleborg’s golden emblem uses linked triangles. Debuted in 1994, it symbolizes business growth and reflects core values of focus, performance, innovation and responsibility."
+      "text": "Trelleborg\u2019s golden emblem uses linked triangles. Debuted in 1994, it symbolizes business growth and reflects core values of focus, performance, innovation and responsibility.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Trelleborg Logo Timeline"
+      "text": "Trelleborg Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1994"
+      "text": "01 of 01\n1994",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1994"
+      "text": "1994",
+      "tag": "h3"
     }
   ],
   "images": [

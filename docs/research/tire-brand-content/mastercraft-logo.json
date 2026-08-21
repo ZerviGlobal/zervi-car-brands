@@ -4,20 +4,20 @@
   "h1": "Mastercraft Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Mastercraft’s red cursive wordmark overlays bold “TIRES” lettering. This dynamic mark embodies craftsmanship, rugged reliability, and flexible on-and-off-road tire capability."
+      "text": "Mastercraft\u2019s red cursive wordmark overlays bold \u201cTIRES\u201d lettering. This dynamic mark embodies craftsmanship, rugged reliability, and flexible on-and-off-road tire capability.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Mastercraft Logo Timeline"
+      "text": "Mastercraft Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1995"
+      "text": "01 of 01\n1995",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1995"
+      "text": "1995",
+      "tag": "h3"
     }
   ],
   "images": [

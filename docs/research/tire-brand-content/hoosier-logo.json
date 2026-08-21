@@ -4,20 +4,20 @@
   "h1": "Hoosier Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Hoosier’s purple wordmark features gothic lettering. This logo stands for American racing roots, purpose-built drag tires, uncompromising performance on competition tracks."
+      "text": "Hoosier\u2019s purple wordmark features gothic lettering. This logo stands for American racing roots, purpose-built drag tires, uncompromising performance on competition tracks.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Hoosier Logo Timeline"
+      "text": "Hoosier Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2021"
+      "text": "01 of 01\n2021",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2021"
+      "text": "2021",
+      "tag": "h3"
     }
   ],
   "images": [

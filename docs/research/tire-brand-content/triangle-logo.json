@@ -4,20 +4,20 @@
   "h1": "Triangle Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Triangle Tire logo is a layered blue triangle. Its balanced shape is supposed to show stability, which fits the idea that their tires are reliable and made to last."
+      "text": "The Triangle Tire logo is a layered blue triangle. Its balanced shape is supposed to show stability, which fits the idea that their tires are reliable and made to last.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Triangle Logo Timeline"
+      "text": "Triangle Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2000"
+      "text": "01 of 01\n2000",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2000"
+      "text": "2000",
+      "tag": "h3"
     }
   ],
   "images": [

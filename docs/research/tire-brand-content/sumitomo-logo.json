@@ -4,20 +4,20 @@
   "h1": "Sumitomo Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Sumitomo’s Igeta emblem is modeled after a classic Japanese well frame. It stands for constant flowing water, integrity, careful management and enduring prosperity."
+      "text": "Sumitomo\u2019s Igeta emblem is modeled after a classic Japanese well frame. It stands for constant flowing water, integrity, careful management and enduring prosperity.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Sumitomo Logo Timeline"
+      "text": "Sumitomo Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1914"
+      "text": "01 of 01\n1914",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1914"
+      "text": "1914",
+      "tag": "h3"
     }
   ],
   "images": [

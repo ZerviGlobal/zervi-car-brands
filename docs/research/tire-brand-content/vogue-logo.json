@@ -4,20 +4,20 @@
   "h1": "Vogue Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Vogue’s golden shield with a central “V” is guarded by twin lions. This regal mark stands for vintage luxury tire heritage, elite craftsmanship, and iconic custom automotive culture."
+      "text": "Vogue\u2019s golden shield with a central \u201cV\u201d is guarded by twin lions. This regal mark stands for vintage luxury tire heritage, elite craftsmanship, and iconic custom automotive culture.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Vogue Logo Timeline"
+      "text": "Vogue Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1914"
+      "text": "01 of 01\n1914",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1914"
+      "text": "1914",
+      "tag": "h3"
     }
   ],
   "images": [

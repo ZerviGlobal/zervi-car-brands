@@ -4,20 +4,20 @@
   "h1": "General Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "General Tire’s sharp red shield emblem holds stylized letters GT. This distinct mark stands for American tire heritage, rugged durability, and reliable traction on roads and rough terrain."
+      "text": "General Tire\u2019s sharp red shield emblem holds stylized letters GT. This distinct mark stands for American tire heritage, rugged durability, and reliable traction on roads and rough terrain.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "General Logo Timeline"
+      "text": "General Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2007"
+      "text": "01 of 01\n2007",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2007"
+      "text": "2007",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Fuzion Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Fuzion’s angled yellow wordmark includes a geometric graphic. Its bold styling represents fusion and velocity, fitting the brand’s performance street tires for passionate drivers."
+      "text": "Fuzion\u2019s angled yellow wordmark includes a geometric graphic. Its bold styling represents fusion and velocity, fitting the brand\u2019s performance street tires for passionate drivers.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Fuzion Logo Timeline"
+      "text": "Fuzion Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2016"
+      "text": "01 of 01\n2016",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2016"
+      "text": "2016",
+      "tag": "h3"
     }
   ],
   "images": [

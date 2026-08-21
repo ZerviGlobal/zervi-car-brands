@@ -4,20 +4,20 @@
   "h1": "Dick Cepek Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Dick Cepek’s bold “DC” monogram carries rugged outdoor styling. This tough mark stands for American off-road pioneering heritage, adventurous spirit, capable all-terrain performance."
+      "text": "Dick Cepek\u2019s bold \u201cDC\u201d monogram carries rugged outdoor styling. This tough mark stands for American off-road pioneering heritage, adventurous spirit, capable all-terrain performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Dick Cepek Logo Timeline"
+      "text": "Dick Cepek Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1963"
+      "text": "01 of 01\n1963",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1963"
+      "text": "1963",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Firestone Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Firestone’s iconic flame-styled script honors Harvey Firestone. Its fiery F echoes the brand’s early fire-truck tire production, paired with legendary American racing tire heritage."
+      "text": "Firestone\u2019s iconic flame-styled script honors Harvey Firestone. Its fiery F echoes the brand\u2019s early fire-truck tire production, paired with legendary American racing tire heritage.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Firestone Logo Timeline"
+      "text": "Firestone Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1922"
+      "text": "01 of 01\n1922",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1922"
+      "text": "1922",
+      "tag": "h3"
     }
   ],
   "images": [

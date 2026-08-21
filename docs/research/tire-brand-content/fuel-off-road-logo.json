@@ -4,20 +4,20 @@
   "h1": "Fuel Off-Road Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Fuel Off-Road’s octagonal emblem encloses a stylized “F”. This rugged mark stands for raw power, endurance, and aggressive off-road performance."
+      "text": "Fuel Off-Road\u2019s octagonal emblem encloses a stylized \u201cF\u201d. This rugged mark stands for raw power, endurance, and aggressive off-road performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Fuel Off-Road Logo Timeline"
+      "text": "Fuel Off-Road Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2008"
+      "text": "01 of 01\n2008",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2008"
+      "text": "2008",
+      "tag": "h3"
     }
   ],
   "images": [

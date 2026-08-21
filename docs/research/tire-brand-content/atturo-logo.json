@@ -4,20 +4,20 @@
   "h1": "Atturo Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Atturo logo features slanted thick black lettering with lime green accents. Its sporty, rugged styling targets automotive enthusiasts seeking capable tire performance."
+      "text": "The Atturo logo features slanted thick black lettering with lime green accents. Its sporty, rugged styling targets automotive enthusiasts seeking capable tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Atturo Logo Timeline"
+      "text": "Atturo Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2010"
+      "text": "01 of 01\n2010",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2010"
+      "text": "2010",
+      "tag": "h3"
     }
   ],
   "images": [

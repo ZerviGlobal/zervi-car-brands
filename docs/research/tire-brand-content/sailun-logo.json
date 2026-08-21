@@ -4,20 +4,20 @@
   "h1": "Sailun Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Sailun Tire logo has forward sweeping lines that look like smooth and steady movement. This design is supposed to show that their tires give you a stable ride."
+      "text": "The Sailun Tire logo has forward sweeping lines that look like smooth and steady movement. This design is supposed to show that their tires give you a stable ride.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Sailun Logo Timeline"
+      "text": "Sailun Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2016"
+      "text": "01 of 01\n2016",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2016"
+      "text": "2016",
+      "tag": "h3"
     }
   ],
   "images": [

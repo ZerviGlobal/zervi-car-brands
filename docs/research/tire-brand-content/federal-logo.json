@@ -4,20 +4,20 @@
   "h1": "Federal Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Federal’s dynamic slanted logo uses green typography with a vivid red stripe. This energetic design stands for agility, balance and premium performance driving tires."
+      "text": "Federal\u2019s dynamic slanted logo uses green typography with a vivid red stripe. This energetic design stands for agility, balance and premium performance driving tires.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Federal Logo Timeline"
+      "text": "Federal Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1987"
+      "text": "01 of 01\n1987",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1987"
+      "text": "1987",
+      "tag": "h3"
     }
   ],
   "images": [

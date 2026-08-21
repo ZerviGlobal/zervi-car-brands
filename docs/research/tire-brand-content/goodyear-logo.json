@@ -4,20 +4,20 @@
   "h1": "Goodyear Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Goodyear’s Wingfoot logo is based on the winged sandals of Mercury, the Roman god. It shows fast, trustworthy travel and has been the brand’s symbol for over 100 years."
+      "text": "Goodyear\u2019s Wingfoot logo is based on the winged sandals of Mercury, the Roman god. It shows fast, trustworthy travel and has been the brand\u2019s symbol for over 100 years.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Goodyear Logo Timeline"
+      "text": "Goodyear Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1968"
+      "text": "01 of 01\n1968",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1968"
+      "text": "1968",
+      "tag": "h3"
     }
   ],
   "images": [

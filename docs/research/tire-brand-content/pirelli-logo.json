@@ -4,20 +4,20 @@
   "h1": "Pirelli Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Pirelli’s red logo features an extended bar above the P. This design represents Italian engineering, elite racing history, and premium tire performance around the globe."
+      "text": "Pirelli\u2019s red logo features an extended bar above the P. This design represents Italian engineering, elite racing history, and premium tire performance around the globe.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Pirelli Logo Timeline"
+      "text": "Pirelli Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1979"
+      "text": "01 of 01\n1979",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1979"
+      "text": "1979",
+      "tag": "h3"
     }
   ],
   "images": [

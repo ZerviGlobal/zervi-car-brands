@@ -4,20 +4,20 @@
   "h1": "Arisun Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Arisun’s name combines “Arise” and “Sun”. Its logo carries sunrise spirit, using bold graphics to represent warmth, energy and relentless forward movement."
+      "text": "Arisun\u2019s name combines \u201cArise\u201d and \u201cSun\u201d. Its logo carries sunrise spirit, using bold graphics to represent warmth, energy and relentless forward movement.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Arisun Logo Timeline"
+      "text": "Arisun Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2012"
+      "text": "01 of 01\n2012",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2012"
+      "text": "2012",
+      "tag": "h3"
     }
   ],
   "images": [

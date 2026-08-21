@@ -4,8 +4,8 @@
   "h1": "404Page Not Found",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The page you’re looking for may have been moved or deleted."
+      "text": "The page you\u2019re looking for may have been moved or deleted.",
+      "tag": "paragraph"
     }
   ],
   "images": [

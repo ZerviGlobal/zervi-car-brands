@@ -4,20 +4,20 @@
   "h1": "Coker Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Coker Tire’s bold blue lettering sits before a retro tire illustration. It symbolizes vintage motoring tradition, handcrafted tires, and reliable original-style traction for classic car builds."
+      "text": "Coker Tire\u2019s bold blue lettering sits before a retro tire illustration. It symbolizes vintage motoring tradition, handcrafted tires, and reliable original-style traction for classic car builds.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Coker Logo Timeline"
+      "text": "Coker Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1958"
+      "text": "01 of 01\n1958",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1958"
+      "text": "1958",
+      "tag": "h3"
     }
   ],
   "images": [

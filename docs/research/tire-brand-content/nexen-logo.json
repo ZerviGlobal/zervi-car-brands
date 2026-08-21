@@ -4,20 +4,20 @@
   "h1": "Nexen Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Nexen Tire’s purple framed emblem sits above its wordmark. This sleek symbol represents Korean tire innovation, dynamic design, and reliable all-road performance."
+      "text": "Nexen Tire\u2019s purple framed emblem sits above its wordmark. This sleek symbol represents Korean tire innovation, dynamic design, and reliable all-road performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Nexen Logo Timeline"
+      "text": "Nexen Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1942"
+      "text": "01 of 01\n1942",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1942"
+      "text": "1942",
+      "tag": "h3"
     }
   ],
   "images": [

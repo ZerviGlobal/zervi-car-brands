@@ -4,20 +4,20 @@
   "h1": "MRF Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "MRF’s famous Muscleman graphic sits alongside its wordmark. This iconic mark stands for rugged power, tough durability, consistent all-terrain tire performance."
+      "text": "MRF\u2019s famous Muscleman graphic sits alongside its wordmark. This iconic mark stands for rugged power, tough durability, consistent all-terrain tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "MRF Logo Timeline"
+      "text": "MRF Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2014"
+      "text": "01 of 01\n2014",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2014"
+      "text": "2014",
+      "tag": "h3"
     }
   ],
   "images": [

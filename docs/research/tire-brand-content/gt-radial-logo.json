@@ -4,20 +4,20 @@
   "h1": "GT Radial Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "GT Radial’s logo features blue-red “GT” graphics alongside black text. This streamlined mark symbolizes progress, reliable tires and cost-effective radial tire technology."
+      "text": "GT Radial\u2019s logo features blue-red \u201cGT\u201d graphics alongside black text. This streamlined mark symbolizes progress, reliable tires and cost-effective radial tire technology.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "GT Radial Logo Timeline"
+      "text": "GT Radial Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2004"
+      "text": "01 of 01\n2004",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2004"
+      "text": "2004",
+      "tag": "h3"
     }
   ],
   "images": [

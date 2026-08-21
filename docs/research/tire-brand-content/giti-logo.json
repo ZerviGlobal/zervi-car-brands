@@ -4,20 +4,20 @@
   "h1": "Giti Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Giti’s yellow divided panel logo features bold script paired with an elephant icon. This mark stems from Gajah Tunggal, representing rugged durability, strength and advanced tire design."
+      "text": "Giti\u2019s yellow divided panel logo features bold script paired with an elephant icon. This mark stems from Gajah Tunggal, representing rugged durability, strength and advanced tire design.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Giti Logo Timeline"
+      "text": "Giti Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2009"
+      "text": "01 of 01\n2009",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2009"
+      "text": "2009",
+      "tag": "h3"
     }
   ],
   "images": [

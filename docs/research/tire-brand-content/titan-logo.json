@@ -4,20 +4,20 @@
   "h1": "Titan Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Titan’s split red-and-blue circular emblem sits beside its serif wordmark. This bold symbol stands for industrial strength, heavy-duty stability and rugged off-highway tire engineering."
+      "text": "Titan\u2019s split red-and-blue circular emblem sits beside its serif wordmark. This bold symbol stands for industrial strength, heavy-duty stability and rugged off-highway tire engineering.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Titan Logo Timeline"
+      "text": "Titan Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1993"
+      "text": "01 of 01\n1993",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1993"
+      "text": "1993",
+      "tag": "h3"
     }
   ],
   "images": [

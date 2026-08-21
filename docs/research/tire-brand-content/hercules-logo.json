@@ -4,20 +4,20 @@
   "h1": "Hercules Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Hercules’ iconic H emblem uses four red squares and jagged tread lines. This graphic stands for raw strength, durable tire construction, steady traction for highways and rough terrain."
+      "text": "Hercules\u2019 iconic H emblem uses four red squares and jagged tread lines. This graphic stands for raw strength, durable tire construction, steady traction for highways and rough terrain.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Hercules Logo Timeline"
+      "text": "Hercules Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2022"
+      "text": "01 of 01\n2022",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2022"
+      "text": "2022",
+      "tag": "h3"
     }
   ],
   "images": [

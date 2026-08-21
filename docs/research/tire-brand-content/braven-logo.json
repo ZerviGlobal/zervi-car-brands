@@ -4,20 +4,20 @@
   "h1": "Braven Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Braven’s interwoven triple-triangle emblem creates a bold geometric symbol. This striking mark stands for rugged strength, resilient traction, and fearless all-terrain exploration."
+      "text": "Braven\u2019s interwoven triple-triangle emblem creates a bold geometric symbol. This striking mark stands for rugged strength, resilient traction, and fearless all-terrain exploration.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Braven Logo Timeline"
+      "text": "Braven Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2015"
+      "text": "01 of 01\n2015",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2015"
+      "text": "2015",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Continental Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Continental’s iconic rearing horse emblem dates to the 1870s. It honors the brand’s rubber hoof buffer origins and stands for strength, agility and reliable mobility on every road."
+      "text": "Continental\u2019s iconic rearing horse emblem dates to the 1870s. It honors the brand\u2019s rubber hoof buffer origins and stands for strength, agility and reliable mobility on every road.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Continental Logo Timeline"
+      "text": "Continental Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2013"
+      "text": "01 of 01\n2013",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2013"
+      "text": "2013",
+      "tag": "h3"
     }
   ],
   "images": [

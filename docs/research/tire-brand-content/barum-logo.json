@@ -4,20 +4,20 @@
   "h1": "Barum Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Barum’s circular blue logo bears a streamlined yellow “B”. Established in 1948, this mark reflects its Czech heritage and reliable value-driven tires owned by Continental."
+      "text": "Barum\u2019s circular blue logo bears a streamlined yellow \u201cB\u201d. Established in 1948, this mark reflects its Czech heritage and reliable value-driven tires owned by Continental.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Barum Logo Timeline"
+      "text": "Barum Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2004"
+      "text": "01 of 01\n2004",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2004"
+      "text": "2004",
+      "tag": "h3"
     }
   ],
   "images": [

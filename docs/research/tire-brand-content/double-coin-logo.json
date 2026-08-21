@@ -4,20 +4,20 @@
   "h1": "Double Coin Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Double Coin’s logo depicts two overlapping Chinese coins. This symbol stands for prosperity, representing steady, dependable tire performance and customer value."
+      "text": "Double Coin\u2019s logo depicts two overlapping Chinese coins. This symbol stands for prosperity, representing steady, dependable tire performance and customer value.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Double Coin Logo Timeline"
+      "text": "Double Coin Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2010"
+      "text": "01 of 01\n2010",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2010"
+      "text": "2010",
+      "tag": "h3"
     }
   ],
   "images": [

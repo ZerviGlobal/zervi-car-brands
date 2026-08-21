@@ -4,20 +4,20 @@
   "h1": "Nokian Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Nokian Tyres’ stacked sans-serif wordmark honors its Finnish Nokia roots. This crisp mark stands for Nordic engineering, winter tire innovation, and dependable cold-climate traction."
+      "text": "Nokian Tyres\u2019 stacked sans-serif wordmark honors its Finnish Nokia roots. This crisp mark stands for Nordic engineering, winter tire innovation, and dependable cold-climate traction.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Nokian Logo Timeline"
+      "text": "Nokian Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2018"
+      "text": "01 of 01\n2018",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2018"
+      "text": "2018",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Sentury Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Sentury Tire logo has slanted blue letters and a thick yellow stripe. The angled design feels fast and dynamic, fitting a brand that makes reliable tires for everyday driving."
+      "text": "The Sentury Tire logo has slanted blue letters and a thick yellow stripe. The angled design feels fast and dynamic, fitting a brand that makes reliable tires for everyday driving.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Sentury Logo Timeline"
+      "text": "Sentury Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2009"
+      "text": "01 of 01\n2009",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2009"
+      "text": "2009",
+      "tag": "h3"
     }
   ],
   "images": [

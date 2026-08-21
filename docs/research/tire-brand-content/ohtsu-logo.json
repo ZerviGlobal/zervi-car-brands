@@ -4,20 +4,20 @@
   "h1": "Ohtsu Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The solid blue Ohtsu logo uses clean and simple letters. This minimal design is meant to look stable and accurate to show that their tires are reliable and consistent."
+      "text": "The solid blue Ohtsu logo uses clean and simple letters. This minimal design is meant to look stable and accurate to show that their tires are reliable and consistent.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Ohtsu Logo Timeline"
+      "text": "Ohtsu Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2002"
+      "text": "01 of 01\n2002",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2002"
+      "text": "2002",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "CEAT Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "CEAT’s logo displays bold blue typography with orange bars for the “E”. The design stands for strength and advancement, embodying reliable, customer-oriented global tire performance."
+      "text": "CEAT\u2019s logo displays bold blue typography with orange bars for the \u201cE\u201d. The design stands for strength and advancement, embodying reliable, customer-oriented global tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "CEAT Logo Timeline"
+      "text": "CEAT Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2008"
+      "text": "01 of 01\n2008",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2008"
+      "text": "2008",
+      "tag": "h3"
     }
   ],
   "images": [

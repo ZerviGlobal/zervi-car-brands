@@ -4,20 +4,20 @@
   "h1": "Pit Bull Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Pit Bull Tires logo features thick lettering and a pit bull mascot. The rough design fits the company's focus on making tough tires meant for difficult off-road driving."
+      "text": "The Pit Bull Tires logo features thick lettering and a pit bull mascot. The rough design fits the company's focus on making tough tires meant for difficult off-road driving.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Pit Bull Logo Timeline"
+      "text": "Pit Bull Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2004"
+      "text": "01 of 01\n2004",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2004"
+      "text": "2004",
+      "tag": "h3"
     }
   ],
   "images": [

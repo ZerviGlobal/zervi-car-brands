@@ -4,20 +4,20 @@
   "h1": "Dunlop Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Dunlop’s sharp lightning bolt emblem frames a bold letter D. This vivid red-and-yellow mark stands for speed, racing heritage, and proven tire performance on tracks and highways."
+      "text": "Dunlop\u2019s sharp lightning bolt emblem frames a bold letter D. This vivid red-and-yellow mark stands for speed, racing heritage, and proven tire performance on tracks and highways.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Dunlop Logo Timeline"
+      "text": "Dunlop Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1959"
+      "text": "01 of 01\n1959",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1959"
+      "text": "1959",
+      "tag": "h3"
     }
   ],
   "images": [

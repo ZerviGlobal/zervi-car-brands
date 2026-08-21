@@ -4,20 +4,20 @@
   "h1": "Apollo Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Apollo’s rounded purple wordmark uses smooth lowercase lettering. This contemporary logo stands for forward momentum, innovation and dependable global tire performance."
+      "text": "Apollo\u2019s rounded purple wordmark uses smooth lowercase lettering. This contemporary logo stands for forward momentum, innovation and dependable global tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Apollo Logo Timeline"
+      "text": "Apollo Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2009"
+      "text": "01 of 01\n2009",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2009"
+      "text": "2009",
+      "tag": "h3"
     }
   ],
   "images": [

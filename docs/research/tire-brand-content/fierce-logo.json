@@ -4,20 +4,20 @@
   "h1": "Fierce Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Fierce logo uses thick, slanted letters with a flame inside the final letter. Its sharp, fast aesthetic matches the brand’s mission to build tough tires for hard-driving motorists."
+      "text": "The Fierce logo uses thick, slanted letters with a flame inside the final letter. Its sharp, fast aesthetic matches the brand\u2019s mission to build tough tires for hard-driving motorists.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Fierce Logo Timeline"
+      "text": "Fierce Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2009"
+      "text": "01 of 01\n2009",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2009"
+      "text": "2009",
+      "tag": "h3"
     }
   ],
   "images": [

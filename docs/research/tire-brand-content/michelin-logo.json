@@ -4,20 +4,20 @@
   "h1": "Michelin Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Michelin’s iconic white mascot, Bibendum, is formed from stacked rubber tires. Created over a century ago, he symbolizes friendliness, road safety, and enduring quality worldwide."
+      "text": "Michelin\u2019s iconic white mascot, Bibendum, is formed from stacked rubber tires. Created over a century ago, he symbolizes friendliness, road safety, and enduring quality worldwide.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Michelin Logo Timeline"
+      "text": "Michelin Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2017"
+      "text": "01 of 01\n2017",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2017"
+      "text": "2017",
+      "tag": "h3"
     }
   ],
   "images": [

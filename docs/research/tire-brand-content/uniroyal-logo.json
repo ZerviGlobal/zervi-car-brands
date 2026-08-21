@@ -4,20 +4,20 @@
   "h1": "Uniroyal Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Uniroyal’s slanted wordmark is framed by crimson rectangular stripes. This bold mark honors its U.S. Royal roots, standing for strength, reliability, and trusted on-road tire safety."
+      "text": "Uniroyal\u2019s slanted wordmark is framed by crimson rectangular stripes. This bold mark honors its U.S. Royal roots, standing for strength, reliability, and trusted on-road tire safety.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Uniroyal Logo Timeline"
+      "text": "Uniroyal Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1900s"
+      "text": "01 of 01\n1900s",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1900s"
+      "text": "1900s",
+      "tag": "h3"
     }
   ],
   "images": [

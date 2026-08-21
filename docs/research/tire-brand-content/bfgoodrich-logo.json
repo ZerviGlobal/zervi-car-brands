@@ -4,20 +4,20 @@
   "h1": "BFGoodrich Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "BFGoodrich’s purple lettering sits under three red motion streaks. Its aggressive design symbolizes speed, pioneering spirit, and enduring off-road competitive heritage."
+      "text": "BFGoodrich\u2019s purple lettering sits under three red motion streaks. Its aggressive design symbolizes speed, pioneering spirit, and enduring off-road competitive heritage.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "BFGoodrich Logo Timeline"
+      "text": "BFGoodrich Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2001"
+      "text": "01 of 01\n2001",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2001"
+      "text": "2001",
+      "tag": "h3"
     }
   ],
   "images": [

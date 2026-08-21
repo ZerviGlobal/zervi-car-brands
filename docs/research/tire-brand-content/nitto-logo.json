@@ -4,20 +4,20 @@
   "h1": "Nitto Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Nitto’s black-and-red tilted wordmark carries racing momentum. Its jagged lettering embodies Japanese tech, drift culture, dependable grip for performance and off-road builds."
+      "text": "Nitto\u2019s black-and-red tilted wordmark carries racing momentum. Its jagged lettering embodies Japanese tech, drift culture, dependable grip for performance and off-road builds.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Nitto Logo Timeline"
+      "text": "Nitto Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1949"
+      "text": "01 of 01\n1949",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1949"
+      "text": "1949",
+      "tag": "h3"
     }
   ],
   "images": [

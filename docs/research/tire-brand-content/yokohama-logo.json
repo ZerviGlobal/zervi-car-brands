@@ -4,20 +4,20 @@
   "h1": "Yokohama Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Yokohama’s red V emblem delivers forward momentum. This sharp mark stands for Japanese tire innovation, balanced versatility, steady traction for street and all-terrain driving."
+      "text": "Yokohama\u2019s red V emblem delivers forward momentum. This sharp mark stands for Japanese tire innovation, balanced versatility, steady traction for street and all-terrain driving.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Yokohama Logo Timeline"
+      "text": "Yokohama Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1970"
+      "text": "01 of 01\n1970",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1970"
+      "text": "1970",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Carlisle Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Carlisle’s slanted blue badge holds bold white lettering. This sturdy mark stands for American industrial heritage, proven reliability, consistent traction for work and recreational vehicles."
+      "text": "Carlisle\u2019s slanted blue badge holds bold white lettering. This sturdy mark stands for American industrial heritage, proven reliability, consistent traction for work and recreational vehicles.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Carlisle Logo Timeline"
+      "text": "Carlisle Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1917"
+      "text": "01 of 01\n1917",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1917"
+      "text": "1917",
+      "tag": "h3"
     }
   ],
   "images": [

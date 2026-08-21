@@ -4,20 +4,20 @@
   "h1": "Aeolus Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Aeolus Tyre logo has sharp black lettering and a yellow swirl. Inspired by the god of winds, the swirl represents speed and movement, matching its high-performance tires."
+      "text": "The Aeolus Tyre logo has sharp black lettering and a yellow swirl. Inspired by the god of winds, the swirl represents speed and movement, matching its high-performance tires.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Aeolus Logo Timeline"
+      "text": "Aeolus Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2018"
+      "text": "01 of 01\n2018",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2018"
+      "text": "2018",
+      "tag": "h3"
     }
   ],
   "images": [

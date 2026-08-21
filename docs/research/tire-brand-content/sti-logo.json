@@ -4,20 +4,20 @@
   "h1": "STI Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The STI Tire & Wheel logo uses bold red outlined lettering. Its strong, wide styling delivers a rugged impression, matching its lineup of durable tires and wheels built for off-road vehicles."
+      "text": "The STI Tire & Wheel logo uses bold red outlined lettering. Its strong, wide styling delivers a rugged impression, matching its lineup of durable tires and wheels built for off-road vehicles.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "STI Logo Timeline"
+      "text": "STI Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2012"
+      "text": "01 of 01\n2012",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2012"
+      "text": "2012",
+      "tag": "h3"
     }
   ],
   "images": [

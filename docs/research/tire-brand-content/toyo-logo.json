@@ -4,20 +4,20 @@
   "h1": "Toyo Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Toyo Tires logo features blue italic lettering. Its slanted design captures a forward-thinking spirit, and the rounded “o” represents tough, premium tires for dependable mobility."
+      "text": "The Toyo Tires logo features blue italic lettering. Its slanted design captures a forward-thinking spirit, and the rounded \u201co\u201d represents tough, premium tires for dependable mobility.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Toyo Logo Timeline"
+      "text": "Toyo Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2007"
+      "text": "01 of 01\n2007",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2007"
+      "text": "2007",
+      "tag": "h3"
     }
   ],
   "images": [

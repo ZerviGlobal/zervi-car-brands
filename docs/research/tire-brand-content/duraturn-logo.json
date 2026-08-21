@@ -4,20 +4,20 @@
   "h1": "Duraturn Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Duraturn merges “Dura” and “Turn” to represent durability and maneuverability. This red streamlined D logo stands for energy, passion, power and responsive tire performance."
+      "text": "Duraturn merges \u201cDura\u201d and \u201cTurn\u201d to represent durability and maneuverability. This red streamlined D logo stands for energy, passion, power and responsive tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Duraturn Logo Timeline"
+      "text": "Duraturn Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2014"
+      "text": "01 of 01\n2014",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2014"
+      "text": "2014",
+      "tag": "h3"
     }
   ],
   "images": [

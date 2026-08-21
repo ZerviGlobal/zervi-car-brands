@@ -4,20 +4,20 @@
   "h1": "Prinx Chengshan Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Prinx Chengshan features a round green logo built from symmetrical leaf shapes. The design emphasizes eco-friendly production and consistent, reliable tire performance."
+      "text": "Prinx Chengshan features a round green logo built from symmetrical leaf shapes. The design emphasizes eco-friendly production and consistent, reliable tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Prinx Chengshan Logo Timeline"
+      "text": "Prinx Chengshan Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2022"
+      "text": "01 of 01\n2022",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2022"
+      "text": "2022",
+      "tag": "h3"
     }
   ],
   "images": [

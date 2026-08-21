@@ -4,20 +4,20 @@
   "h1": "Advance Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Advance Tyre logo features a stylized letter A and split blue and yellow bars. Its sharp structure stands for progress and stability, representing steady, reliable tires."
+      "text": "The Advance Tyre logo features a stylized letter A and split blue and yellow bars. Its sharp structure stands for progress and stability, representing steady, reliable tires.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Advance Logo Timeline"
+      "text": "Advance Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2018"
+      "text": "01 of 01\n2018",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2018"
+      "text": "2018",
+      "tag": "h3"
     }
   ],
   "images": [

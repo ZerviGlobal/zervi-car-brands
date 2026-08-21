@@ -4,20 +4,20 @@
   "h1": "Kenda Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Kenda’s red stylized “K” logo aligns with its slogan “Designed for Your Journey”. The angular form symbolizes steady progress and dependable tires for all travel."
+      "text": "Kenda\u2019s red stylized \u201cK\u201d logo aligns with its slogan \u201cDesigned for Your Journey\u201d. The angular form symbolizes steady progress and dependable tires for all travel.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Kenda Logo Timeline"
+      "text": "Kenda Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1962"
+      "text": "01 of 01\n1962",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1962"
+      "text": "1962",
+      "tag": "h3"
     }
   ],
   "images": [

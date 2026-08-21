@@ -4,20 +4,20 @@
   "h1": "Mickey Thompson Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Mickey Thompson’s bold “M/T” monogram honors racing legend Mickey Thompson. Framed by golden wings, this mark stands for speed, innovation and iconic off-road motorsport heritage."
+      "text": "Mickey Thompson\u2019s bold \u201cM/T\u201d monogram honors racing legend Mickey Thompson. Framed by golden wings, this mark stands for speed, innovation and iconic off-road motorsport heritage.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Mickey Thompson Logo Timeline"
+      "text": "Mickey Thompson Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1963"
+      "text": "01 of 01\n1963",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1963"
+      "text": "1963",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Cooper Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Cooper’s oval emblem tops its bold wordmark. This blue logo stands for American craftsmanship, rugged dependability, balanced performance on highways and trails."
+      "text": "Cooper\u2019s oval emblem tops its bold wordmark. This blue logo stands for American craftsmanship, rugged dependability, balanced performance on highways and trails.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Cooper Logo Timeline"
+      "text": "Cooper Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2003"
+      "text": "01 of 01\n2003",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2003"
+      "text": "2003",
+      "tag": "h3"
     }
   ],
   "images": [

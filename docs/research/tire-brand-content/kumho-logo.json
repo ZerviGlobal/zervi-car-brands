@@ -4,20 +4,20 @@
   "h1": "Kumho Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Kumho Tire’s gray wordmark features an upward red arrow. This sharp symbol draws from its “bright lake” name origin, standing for forward progress and balanced tire performance."
+      "text": "Kumho Tire\u2019s gray wordmark features an upward red arrow. This sharp symbol draws from its \u201cbright lake\u201d name origin, standing for forward progress and balanced tire performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Kumho Logo Timeline"
+      "text": "Kumho Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2006"
+      "text": "01 of 01\n2006",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2006"
+      "text": "2006",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Chaoyang Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Chaoyang’s red line art blends sunrise and rolling waves. This graphic embodies its “Passion For Forward” spirit, symbolizing energy, progress, and consistent tire innovation."
+      "text": "Chaoyang\u2019s red line art blends sunrise and rolling waves. This graphic embodies its \u201cPassion For Forward\u201d spirit, symbolizing energy, progress, and consistent tire innovation.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Chaoyang Logo Timeline"
+      "text": "Chaoyang Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2024"
+      "text": "01 of 01\n2024",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2024"
+      "text": "2024",
+      "tag": "h3"
     }
   ],
   "images": [

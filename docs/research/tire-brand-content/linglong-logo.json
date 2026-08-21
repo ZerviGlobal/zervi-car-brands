@@ -4,20 +4,20 @@
   "h1": "Linglong Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Linglong’s logo holds stylized “LL” within a blue oval. Its blue-green palette embodies core values, representing global expansion, eco-focused progress and reliable tire technology."
+      "text": "Linglong\u2019s logo holds stylized \u201cLL\u201d within a blue oval. Its blue-green palette embodies core values, representing global expansion, eco-focused progress and reliable tire technology.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Linglong Logo Timeline"
+      "text": "Linglong Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2013"
+      "text": "01 of 01\n2013",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2013"
+      "text": "2013",
+      "tag": "h3"
     }
   ],
   "images": [

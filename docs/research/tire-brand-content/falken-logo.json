@@ -4,20 +4,20 @@
   "h1": "Falken Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Falken’s angular blue wordmark features a sharp red tread-inspired accent. It embodies motorsport roots, speed, reliability and competitive performance."
+      "text": "Falken\u2019s angular blue wordmark features a sharp red tread-inspired accent. It embodies motorsport roots, speed, reliability and competitive performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Falken Logo Timeline"
+      "text": "Falken Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1990"
+      "text": "01 of 01\n1990",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1990"
+      "text": "1990",
+      "tag": "h3"
     }
   ],
   "images": [

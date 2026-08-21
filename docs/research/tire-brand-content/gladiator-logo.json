@@ -4,20 +4,20 @@
   "h1": "Gladiator Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Gladiator’s bold heavy-type logo leans into its namesake. The strong lettering stands for toughness, grit, and dependable off-road performance for light truck and commercial tires."
+      "text": "Gladiator\u2019s bold heavy-type logo leans into its namesake. The strong lettering stands for toughness, grit, and dependable off-road performance for light truck and commercial tires.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Gladiator Logo Timeline"
+      "text": "Gladiator Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1982"
+      "text": "01 of 01\n1982",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1982"
+      "text": "1982",
+      "tag": "h3"
     }
   ],
   "images": [

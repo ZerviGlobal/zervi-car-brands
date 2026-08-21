@@ -4,20 +4,20 @@
   "h1": "JK Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "JK’s geometric logo forms intertwined “J” and “K” with striking red detailing. Its arrow-like silhouette stands for velocity and strength, embodying durable, capable tire engineering."
+      "text": "JK\u2019s geometric logo forms intertwined \u201cJ\u201d and \u201cK\u201d with striking red detailing. Its arrow-like silhouette stands for velocity and strength, embodying durable, capable tire engineering.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "JK Logo Timeline"
+      "text": "JK Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2012"
+      "text": "01 of 01\n2012",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2012"
+      "text": "2012",
+      "tag": "h3"
     }
   ],
   "images": [

@@ -4,20 +4,20 @@
   "h1": "Maxxis Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Maxxis’s slanted orange wordmark conveys power and motion. This mark stands for industrial tire skill, high-speed mobility, consistent multi-terrain performance."
+      "text": "Maxxis\u2019s slanted orange wordmark conveys power and motion. This mark stands for industrial tire skill, high-speed mobility, consistent multi-terrain performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Maxxis Logo Timeline"
+      "text": "Maxxis Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n1967"
+      "text": "01 of 01\n1967",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "1967"
+      "text": "1967",
+      "tag": "h3"
     }
   ],
   "images": [

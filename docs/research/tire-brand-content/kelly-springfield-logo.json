@@ -4,20 +4,20 @@
   "h1": "Kelly-Springfield Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "Kelly-Springfield’s bold green KS monogram delivers a sharp look. This mark represents American tire heritage, reliable traction, and versatile everyday driving performance."
+      "text": "Kelly-Springfield\u2019s bold green KS monogram delivers a sharp look. This mark represents American tire heritage, reliable traction, and versatile everyday driving performance.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Kelly-Springfield Logo Timeline"
+      "text": "Kelly-Springfield Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2004"
+      "text": "01 of 01\n2004",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2004"
+      "text": "2004",
+      "tag": "h3"
     }
   ],
   "images": [

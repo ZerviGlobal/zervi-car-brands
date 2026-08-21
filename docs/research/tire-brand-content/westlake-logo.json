@@ -4,20 +4,20 @@
   "h1": "Westlake Logo",
   "contentBlocks": [
     {
-      "type": "paragraph",
-      "text": "The Westlake Tire logo uses slanted yellow letters. The forward tilt makes it look like it is moving, which ties into the idea of making reliable tires for regular highway driving."
+      "text": "The Westlake Tire logo uses slanted yellow letters. The forward tilt makes it look like it is moving, which ties into the idea of making reliable tires for regular highway driving.",
+      "tag": "paragraph"
     },
     {
-      "type": "h2",
-      "text": "Westlake Logo Timeline"
+      "text": "Westlake Logo Timeline",
+      "tag": "h2"
     },
     {
-      "type": "div",
-      "text": "01 of 01\n2021"
+      "text": "01 of 01\n2021",
+      "tag": "div"
     },
     {
-      "type": "h3",
-      "text": "2021"
+      "text": "2021",
+      "tag": "h3"
     }
   ],
   "images": [
