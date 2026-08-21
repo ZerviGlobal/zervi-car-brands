@@ -1,8 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Standard next start runner for ZBOX hosting (not standalone/Docker).
-  // Add output: "standalone" here only if moving to a minimal Docker image.
+  // Standalone output for Docker/Coolify hosting (produces a minimal
+  // server.js + traced node_modules in .next/standalone). The Dockerfile
+  // copies .next/standalone into the runner stage.
+  output: "standalone",
 };
 
 export default nextConfig;

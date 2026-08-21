@@ -1,5 +1,5 @@
 services:
-  app:
+  zervi-car-brands:
     build:
       context: .
       dockerfile: Dockerfile
@@ -7,6 +7,8 @@ services:
     image: zervi-car-brands:latest
     container_name: zervi-car-brands
     restart: unless-stopped
+    # Coolify injects PORT (defaults to 3000 here if unset). The app's
+    # Dockerfile sets ENV PORT=3000 and EXPOSE 3000, so we map to it.
     ports:
       - "${PORT:-3000}:3000"
     environment:
@@ -23,31 +25,3 @@ services:
       timeout: 10s
       retries: 3
       start_period: 10s
-
-  dev:
-    build:
-      context: .
-      dockerfile: Dockerfile.dev
-    image: zervi-car-brands:dev
-    container_name: zervi-car-brands-dev
-    restart: unless-stopped
-    ports:
-      - "${DEV_PORT:-3001}:3000"
-    environment:
-      - NODE_ENV=development
-      - NEXT_TELEMETRY_DISABLED=1
-    env_file:
-      - path: .env.local
-        required: false
-      - path: .env
-        required: false
-    volumes:
-      - .:/app
-      - /app/node_modules
-      - /app/.next
-    healthcheck:
-      test: ["CMD-SHELL", "wget -qO- http://localhost:3000/ || exit 1"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 15s
