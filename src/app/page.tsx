@@ -59,6 +59,37 @@ export default function Home() {
         </div>
       </section>
 
+      {/* All sections */}
+      <section className="border-t border-border">
+        <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+          <h2 className="text-2xl font-bold tracking-tight text-foreground">
+            Explore everything
+          </h2>
+          <p className="mt-1 text-sm text-muted-foreground">
+            Car brands, tire brands, motorcycle brands, reviews, and quizzes.
+          </p>
+          <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+            {[
+              { href: "/car-brands/", label: "Car Brands", desc: "{carBrands.length} brands", icon: "car" },
+              { href: "/tire-brands/", label: "Tire Brands", desc: "77 brands", icon: "tire" },
+              { href: "/motorcycle-brands/", label: "Motorcycle", desc: "11 brands", icon: "moto" },
+              { href: "/reviews/", label: "Reviews", desc: "In-depth articles", icon: "review" },
+              { href: "/quizzes/", label: "Quizzes", desc: "Test your knowledge", icon: "quiz" },
+            ].map((s) => (
+              <Link
+                key={s.href}
+                href={s.href}
+                className="group flex flex-col items-center gap-2 rounded-xl border border-border bg-card p-6 text-center transition-colors hover:border-foreground/30 hover:bg-muted/30"
+              >
+                <span className="text-2xl font-bold text-accent">{s.icon}</span>
+                <span className="font-semibold text-foreground">{s.label}</span>
+                <span className="text-xs text-muted-foreground">{s.desc}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Browse by category */}
       <section className="border-t border-border bg-muted/20">
         <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6">

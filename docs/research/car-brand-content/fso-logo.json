@@ -1,0 +1,23 @@
+{
+  "slug": "fso-logo",
+  "name": "FSO",
+  "h1": "FSO Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "FSO Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1991"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/fso-logo-1991.png",
+      "localPath": "/images/car-logos/fso-logo-1991.png",
+      "alt": "FSO logo, 1991"
+    }
+  ],
+  "facts": {}
+}

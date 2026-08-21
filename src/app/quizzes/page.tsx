@@ -1,33 +1,38 @@
 import Link from "next/link";
+import Image from "next/image";
+import { quizzes } from "@/data/quizzes";
 
 export const metadata = {
-  title: "Quizzes",
-  description: "Test your knowledge of car logos and brand history.",
+  title: "Quizzes — Test Your Car Logo Knowledge",
+  description: "Test your knowledge of car logos and brand history with our quizzes.",
 };
 
-export default function quizzesPage() {
+export default function QuizzesPage() {
   return (
-    <div className="mx-auto max-w-3xl px-4 py-20 text-center sm:px-6">
-      <h1 className="text-4xl font-bold tracking-tight text-foreground">
-        Quizzes
-      </h1>
-      <p className="mx-auto mt-4 max-w-xl text-muted-foreground">
-        Test your knowledge of car logos and brand history.
-      </p>
-      <div className="mt-8 rounded-xl border border-border bg-muted/30 p-6 text-left">
-        <p className="text-sm text-muted-foreground">
-          <strong className="text-foreground">Coming soon.</strong> This section
-          will be populated with content from carlogos.org. The car brand
-          encyclopedia is fully built — start there.
-        </p>
-      </div>
-      <div className="mt-8">
-        <Link
-          href="/car-brands/"
-          className="inline-flex rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent/90"
-        >
-          Browse car brands →
-        </Link>
+    <div className="mx-auto max-w-5xl px-4 py-10 sm:px-6">
+      <header className="mb-8">
+        <h1 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl">Quizzes</h1>
+        <p className="mt-2 text-muted-foreground">{quizzes.length} quizzes to test your car logo knowledge.</p>
+      </header>
+      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {quizzes.map((q) => (
+          <Link
+            key={q.slug}
+            href={"/quizzes/" + q.slug}
+            className="group flex flex-col overflow-hidden rounded-xl border border-border bg-card transition-all hover:border-foreground/30 hover:shadow-md"
+          >
+            {q.thumb ? (
+              <div className="relative h-40 w-full bg-muted/40">
+                <Image src={q.thumb} alt={q.title} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover transition-transform group-hover:scale-105" />
+              </div>
+            ) : (
+              <div className="flex h-40 w-full items-center justify-center bg-muted/40 text-3xl">🎯</div>
+            )}
+            <div className="p-4">
+              <p className="line-clamp-2 font-semibold text-foreground">{q.title}</p>
+            </div>
+          </Link>
+        ))}
       </div>
     </div>
   );

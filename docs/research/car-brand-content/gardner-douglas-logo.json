@@ -1,0 +1,23 @@
+{
+  "slug": "gardner-douglas-logo",
+  "name": "Gardner Douglas",
+  "h1": "Gardner Douglas Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Gardner Douglas Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/gardner-douglas-logo-1990.png",
+      "localPath": "/images/car-logos/gardner-douglas-logo-1990.png",
+      "alt": "Gardner Douglas logo, 1990"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,223 @@
+{
+  "slug": "ford-logo",
+  "name": "Ford",
+  "h1": "Ford Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "The Blue Oval: More Than Just a Badge"
+    },
+    {
+      "tag": "p",
+      "text": "In the car world, the Ford \"Blue Oval\" is as iconic as it gets. It’s been slapped on everything from the legendary Model T to the modern-day F-150, serving as a stamp of American industrial might for over a century. But where did it actually come from? Is that really Henry Ford’s signature on the grille, or just a clever bit of branding?"
+    },
+    {
+      "tag": "h3",
+      "text": "The Signature: Fact vs. Fiction"
+    },
+    {
+      "tag": "p",
+      "text": "There’s a long-standing myth in car circles that the Ford logo is a direct scan of Henry Ford’s own handwriting. The truth? Not exactly."
+    },
+    {
+      "tag": "p",
+      "text": "While it’s not a 1:1 copy of Henry’s penmanship, it’s not just a random font either. The script was actually drawn by Childe Harold Wills, Ford’s first chief engineer (and the guy who helped bring the Model T to life). Wills didn’t just guess; he studied Henry’s signature and stylized it to make it look professional yet personal."
+    },
+    {
+      "tag": "p",
+      "text": "By using this \"handwritten\" look, Ford wasn't just branding a company—they were giving the car a personal guarantee. In an era when most machines were cold and nameless, the script made a Ford feel like it came with the founder’s personal seal of approval."
+    },
+    {
+      "tag": "h3",
+      "text": "Evolution of the Oval"
+    },
+    {
+      "tag": "p",
+      "text": "The oval didn't even start in Detroit. It actually popped up in 1907 across the pond in the UK. British distributors used it to pitch Fords as the \"hallmark for reliability and economy.\" It took until 1927—the year the Model A rolled out—for that specific shade of royal blue to become the official background for the badge."
+    },
+    {
+      "tag": "p",
+      "text": "The Shape: It’s all about motion. The oval was meant to suggest speed and the forward momentum of the company."
+    },
+    {
+      "tag": "p",
+      "text": "The Blue: Back in the day, blue stood for \"blue-ribbon\" quality—basically, the best in the business. It was a visual shorthand for strength and trust."
+    },
+    {
+      "tag": "p",
+      "text": "The White Script: There’s no fancy corporate backstory for the white—it’s just smart design. It pops against the blue, making it readable from a block away."
+    },
+    {
+      "tag": "h3",
+      "text": "A Legacy That Still Sticks"
+    },
+    {
+      "tag": "p",
+      "text": "You can’t talk about the badge without talking about the Moving Assembly Line. Henry Ford didn’t just build cars; he changed how the world works. By figuring out how to build them fast and cheap, he took the car from being a rich man’s toy to something every working-class American could park in their driveway."
+    },
+    {
+      "tag": "p",
+      "text": "Today, that Blue Oval hasn't changed much, and that’s the point. Whether it’s on a 700-horsepower Raptor or an electric Lightning, it’s the bridge between the old-school grit of the early 1900s and whatever comes next. It’s the closest thing we have to a signature for the entire American auto industry."
+    },
+    {
+      "tag": "h3",
+      "text": "Brand Profile"
+    },
+    {
+      "tag": "h2",
+      "text": "Ford Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1903"
+    },
+    {
+      "tag": "p",
+      "text": "Before the script, there was the circle. Ford’s first badge was an intricate, Art Nouveau-style emblem that looked more like a premium pocket watch than a car brand. Designed by C. Harold Wills, it featured the full \"Ford Motor Co. Detroit, -Mich.-\" name. It was green, ornate, and made its debut on the very first Model A."
+    },
+    {
+      "tag": "h3",
+      "text": "1907"
+    },
+    {
+      "tag": "p",
+      "text": "The oval didn't actually start in Michigan—it started across the pond. Ford’s British distributors (Perry, Schreiber, and Thornton) created this to pitch Ford as the \"hallmark of reliability and economy.\" It was a massive branding win that eventually migrated back to the States."
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    },
+    {
+      "tag": "p",
+      "text": "This was the year the \"Ford Script\" finally took center stage. Legend says Henry himself penned the original, featuring a distinctively long tail on the letter \"D.\" While that \"long tail\" eventually got a haircut in later versions, the core DNA of the brand was officially born here."
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "p",
+      "text": "Ford doubled down on the signature look in 1911. They ditched the thin lines for a bolder, more legible script that shouted authority. This version also experimented with a \"coat of arms\" style, surrounding the name with \"The Famous Motor Cars\" in block lettering—a nod to their growing dominance."
+    },
+    {
+      "tag": "h3",
+      "text": "1912"
+    },
+    {
+      "tag": "p",
+      "text": "For a brief moment, Ford tried to take flight. A rare variant featured a bird-like wing design, intended to scream \"speed and motion.\" It was another Childe Harold Wills brainchild used mainly by the British subsidiary. While the wings didn't stick, the blue color did—it was one of the first times we saw the \"Blue Oval\" concept start to take flight."
+    },
+    {
+      "tag": "h3",
+      "text": "1917"
+    },
+    {
+      "tag": "p",
+      "text": "This is when the script and the oval finally tied the knot. By tucking the cursive signature inside a clean oval, Ford moved toward the \"timeless minimalism\" we know today. It was a bold step that solidified their identity as a global industrial titan."
+    },
+    {
+      "tag": "h3",
+      "text": "1927"
+    },
+    {
+      "tag": "p",
+      "text": "When the Model A replaced the Model T, the logo got a total overhaul. This 1927 version is the grandfather of the modern badge. We got the iconic royal blue background, the double-line white border, and a cleaner script. It was the first time the logo looked truly \"premium\" and ready for the world stage."
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    },
+    {
+      "tag": "p",
+      "text": "For nearly two decades, Ford toyed with the borders. They tried different shapes—some more \"stretched\" or \"squashed\" than others—trying to find the perfect fit for the massive chrome grilles of the 50s and 60s. The typography stayed steady, but the \"frame\" was constantly in the gym."
+    },
+    {
+      "tag": "h3",
+      "text": "1976"
+    },
+    {
+      "tag": "p",
+      "text": "In 1976, the Blue Oval went \"disco\" with a bold, three-dimensional look. The white accents were swapped for a metallic silver, giving the badge a high-tech, futuristic feel for the era. This version remained the face of Ford during the rise of legends like the Fox-body Mustang and the F-Series dominance."
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "p",
+      "text": "To celebrate 100 years of putting the world on wheels, Ford released the \"Centennial Blue Oval.\" They dialed back the 80s-style gradients for a cleaner, flatter look. It was a tribute to the 1927 original, blending heritage with modern aesthetics. You can still find this version hiding in the interiors of some newer models today."
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    },
+    {
+      "tag": "p",
+      "text": "The current look is all about \"Less is More.\" Inspired by a 1962 prototype, the 2017 badge is flat, sleek, and built for the digital age. No shadows, no chrome-faking—just the signature and the blue. It’s a design that says Ford is ready for EVs and tech, without forgetting where they came from."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1903.png",
+      "localPath": "/images/car-logos/ford-logo-1903.png",
+      "alt": "Ford logo, 1903"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1907.png",
+      "localPath": "/images/car-logos/ford-logo-1907.png",
+      "alt": "Ford logo, 1907"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1909.png",
+      "localPath": "/images/car-logos/ford-logo-1909.png",
+      "alt": "Ford logo, 1909"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1911.png",
+      "localPath": "/images/car-logos/ford-logo-1911.png",
+      "alt": "Ford logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1912.png",
+      "localPath": "/images/car-logos/ford-logo-1912.png",
+      "alt": "Ford logo, 1912"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1917.png",
+      "localPath": "/images/car-logos/ford-logo-1917.png",
+      "alt": "Ford logo, 1917"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1927.png",
+      "localPath": "/images/car-logos/ford-logo-1927.png",
+      "alt": "Ford logo, 1927"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1957.png",
+      "localPath": "/images/car-logos/ford-logo-1957.png",
+      "alt": "Ford logo, 1957"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-1976.png",
+      "localPath": "/images/car-logos/ford-logo-1976.png",
+      "alt": "Ford logo, 1976"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-2003.png",
+      "localPath": "/images/car-logos/ford-logo-2003.png",
+      "alt": "Ford logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-logo-2017.png",
+      "localPath": "/images/car-logos/ford-logo-2017.png",
+      "alt": "Ford logo, 2017"
+    }
+  ],
+  "facts": {
+    "Founded": "June 16, 1903",
+    "Founder": "Henry Ford",
+    "Headquarters": "Dearborn, Michigan, US",
+    "Key Models": "Mustang, F-150, Bronco, Mach-E",
+    "Official Site": "www.ford.com"
+  }
+}

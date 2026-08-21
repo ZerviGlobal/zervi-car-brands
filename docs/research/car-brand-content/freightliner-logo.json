@@ -1,0 +1,23 @@
+{
+  "slug": "freightliner-logo",
+  "name": "Freightliner",
+  "h1": "Freightliner Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Freightliner Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1995"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/freightliner-logo-1995.png",
+      "localPath": "/images/car-logos/freightliner-logo-1995.png",
+      "alt": "Freightliner logo, 1995"
+    }
+  ],
+  "facts": {}
+}

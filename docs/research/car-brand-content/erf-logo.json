@@ -1,0 +1,23 @@
+{
+  "slug": "erf-logo",
+  "name": "ERF",
+  "h1": "ERF Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "ERF Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1933"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/erf-logo-1933.png",
+      "localPath": "/images/car-logos/erf-logo-1933.png",
+      "alt": "ERF logo, 1933"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "eagle-logo",
+  "name": "Eagle",
+  "h1": "Eagle Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Eagle Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/eagle-logo-1988.png",
+      "localPath": "/images/car-logos/eagle-logo-1988.png",
+      "alt": "Eagle logo, 1988"
+    }
+  ],
+  "facts": {}
+}

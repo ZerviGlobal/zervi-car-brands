@@ -1,0 +1,23 @@
+{
+  "slug": "gilbern-logo",
+  "name": "Gilbern",
+  "h1": "Gilbern Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Gilbern Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/gilbern-logo-1959.png",
+      "localPath": "/images/car-logos/gilbern-logo-1959.png",
+      "alt": "Gilbern logo, 1959"
+    }
+  ],
+  "facts": {}
+}

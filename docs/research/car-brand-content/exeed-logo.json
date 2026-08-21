@@ -1,0 +1,23 @@
+{
+  "slug": "exeed-logo",
+  "name": "Exeed",
+  "h1": "Exeed Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Exeed Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/exeed-logo-2019.png",
+      "localPath": "/images/car-logos/exeed-logo-2019.png",
+      "alt": "Exeed logo, 2019"
+    }
+  ],
+  "facts": {}
+}

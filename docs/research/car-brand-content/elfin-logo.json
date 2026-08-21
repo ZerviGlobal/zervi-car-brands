@@ -1,0 +1,23 @@
+{
+  "slug": "elfin-logo",
+  "name": "Elfin",
+  "h1": "Elfin Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Elfin Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/elfin-logo-1957.png",
+      "localPath": "/images/car-logos/elfin-logo-1957.png",
+      "alt": "Elfin logo, 1957"
+    }
+  ],
+  "facts": {}
+}

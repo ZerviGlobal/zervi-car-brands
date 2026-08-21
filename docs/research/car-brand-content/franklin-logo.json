@@ -1,0 +1,23 @@
+{
+  "slug": "franklin-logo",
+  "name": "Franklin",
+  "h1": "Franklin Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Franklin Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1902"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/franklin-logo-1902.png",
+      "localPath": "/images/car-logos/franklin-logo-1902.png",
+      "alt": "Franklin logo, 1902"
+    }
+  ],
+  "facts": {}
+}

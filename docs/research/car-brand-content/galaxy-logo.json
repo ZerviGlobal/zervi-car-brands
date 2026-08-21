@@ -1,0 +1,23 @@
+{
+  "slug": "galaxy-logo",
+  "name": "Galaxy",
+  "h1": "Galaxy Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Galaxy Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/galaxy-logo-2023.png",
+      "localPath": "/images/car-logos/galaxy-logo-2023.png",
+      "alt": "Galaxy logo, 2023"
+    }
+  ],
+  "facts": {}
+}

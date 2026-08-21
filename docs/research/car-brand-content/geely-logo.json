@@ -1,0 +1,68 @@
+{
+  "slug": "geely-logo",
+  "name": "Geely",
+  "h1": "Geely Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Geely Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/geely-logo-1986.png",
+      "localPath": "/images/car-logos/geely-logo-1986.png",
+      "alt": "Geely logo, 1986"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/geely-logo-1998.png",
+      "localPath": "/images/car-logos/geely-logo-1998.png",
+      "alt": "Geely logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/geely-logo-2008.png",
+      "localPath": "/images/car-logos/geely-logo-2008.png",
+      "alt": "Geely logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/geely-logo-2014.png",
+      "localPath": "/images/car-logos/geely-logo-2014.png",
+      "alt": "Geely logo, 2014"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/geely-logo-2019.png",
+      "localPath": "/images/car-logos/geely-logo-2019.png",
+      "alt": "Geely logo, 2019"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/geely-logo-2023.png",
+      "localPath": "/images/car-logos/geely-logo-2023.png",
+      "alt": "Geely logo, 2023"
+    }
+  ],
+  "facts": {}
+}

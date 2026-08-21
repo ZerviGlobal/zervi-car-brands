@@ -1,0 +1,23 @@
+{
+  "slug": "duesenberg-logo",
+  "name": "Duesenberg",
+  "h1": "Duesenberg Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Duesenberg Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1913"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/duesenberg-logo-1913.png",
+      "localPath": "/images/car-logos/duesenberg-logo-1913.png",
+      "alt": "Duesenberg logo, 1913"
+    }
+  ],
+  "facts": {}
+}

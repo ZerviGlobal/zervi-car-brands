@@ -1,0 +1,41 @@
+{
+  "slug": "genesis-logo",
+  "name": "Genesis",
+  "h1": "Genesis Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Genesis Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/genesis-logo-2008.png",
+      "localPath": "/images/car-logos/genesis-logo-2008.png",
+      "alt": "Genesis logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/genesis-logo-2015.png",
+      "localPath": "/images/car-logos/genesis-logo-2015.png",
+      "alt": "Genesis logo, 2015"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/genesis-logo-2020.png",
+      "localPath": "/images/car-logos/genesis-logo-2020.png",
+      "alt": "Genesis logo, 2020"
+    }
+  ],
+  "facts": {}
+}

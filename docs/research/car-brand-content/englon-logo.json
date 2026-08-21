@@ -1,0 +1,23 @@
+{
+  "slug": "englon-logo",
+  "name": "Englon",
+  "h1": "Englon Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Englon Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/englon-logo-2010.png",
+      "localPath": "/images/car-logos/englon-logo-2010.png",
+      "alt": "Englon logo, 2010"
+    }
+  ],
+  "facts": {}
+}

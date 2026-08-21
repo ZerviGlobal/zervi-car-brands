@@ -1,0 +1,23 @@
+{
+  "slug": "faraday-future-logo",
+  "name": "Faraday Future",
+  "h1": "Faraday Future Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Faraday Future Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/faraday-future-logo-2014.png",
+      "localPath": "/images/car-logos/faraday-future-logo-2014.png",
+      "alt": "Faraday Future logo, 2014"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "gillet-logo",
+  "name": "Gillet",
+  "h1": "Gillet Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Gillet Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/gillet-logo-1992.png",
+      "localPath": "/images/car-logos/gillet-logo-1992.png",
+      "alt": "Gillet logo, 1992"
+    }
+  ],
+  "facts": {}
+}

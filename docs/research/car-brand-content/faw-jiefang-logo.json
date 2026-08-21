@@ -1,0 +1,50 @@
+{
+  "slug": "faw-jiefang-logo",
+  "name": "FAW Jiefang",
+  "h1": "FAW Jiefang Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "FAW Jiefang Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/faw-jiefang-logo-1953.png",
+      "localPath": "/images/car-logos/faw-jiefang-logo-1953.png",
+      "alt": "FAW Jiefang logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/faw-jiefang-logo-1988.png",
+      "localPath": "/images/car-logos/faw-jiefang-logo-1988.png",
+      "alt": "FAW Jiefang logo, 1988"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/faw-jiefang-logo-2000.png",
+      "localPath": "/images/car-logos/faw-jiefang-logo-2000.png",
+      "alt": "FAW Jiefang logo, 2000"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/faw-jiefang-logo-2022.png",
+      "localPath": "/images/car-logos/faw-jiefang-logo-2022.png",
+      "alt": "FAW Jiefang logo, 2022"
+    }
+  ],
+  "facts": {}
+}

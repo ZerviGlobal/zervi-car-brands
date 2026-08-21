@@ -1,0 +1,23 @@
+{
+  "slug": "foden-logo",
+  "name": "Foden",
+  "h1": "Foden Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Foden Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1887"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/foden-logo-1887.png",
+      "localPath": "/images/car-logos/foden-logo-1887.png",
+      "alt": "Foden logo, 1887"
+    }
+  ],
+  "facts": {}
+}

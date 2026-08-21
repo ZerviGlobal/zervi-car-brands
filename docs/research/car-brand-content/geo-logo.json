@@ -1,0 +1,23 @@
+{
+  "slug": "geo-logo",
+  "name": "Geo",
+  "h1": "Geo Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Geo Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/geo-logo-1989.png",
+      "localPath": "/images/car-logos/geo-logo-1989.png",
+      "alt": "Geo logo, 1989"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "gmc-logo",
+  "name": "GMC",
+  "h1": "GMC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "GMC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "h3",
+      "text": "1947"
+    },
+    {
+      "tag": "h3",
+      "text": "1960"
+    },
+    {
+      "tag": "h3",
+      "text": "1975"
+    },
+    {
+      "tag": "h3",
+      "text": "1979"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/gmc-logo-1911.png",
+      "localPath": "/images/car-logos/gmc-logo-1911.png",
+      "alt": "GMC logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gmc-logo-1947.png",
+      "localPath": "/images/car-logos/gmc-logo-1947.png",
+      "alt": "GMC logo, 1947"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gmc-logo-1960.png",
+      "localPath": "/images/car-logos/gmc-logo-1960.png",
+      "alt": "GMC logo, 1960"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gmc-logo-1975.png",
+      "localPath": "/images/car-logos/gmc-logo-1975.png",
+      "alt": "GMC logo, 1975"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gmc-logo-1979.png",
+      "localPath": "/images/car-logos/gmc-logo-1979.png",
+      "alt": "GMC logo, 1979"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gmc-logo-2014.png",
+      "localPath": "/images/car-logos/gmc-logo-2014.png",
+      "alt": "GMC logo, 2014"
+    }
+  ],
+  "facts": {}
+}

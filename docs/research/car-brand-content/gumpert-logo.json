@@ -1,0 +1,23 @@
+{
+  "slug": "gumpert-logo",
+  "name": "Gumpert",
+  "h1": "Gumpert Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Gumpert Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2004"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/gumpert-logo-2004.png",
+      "localPath": "/images/car-logos/gumpert-logo-2004.png",
+      "alt": "Gumpert logo, 2004"
+    }
+  ],
+  "facts": {}
+}

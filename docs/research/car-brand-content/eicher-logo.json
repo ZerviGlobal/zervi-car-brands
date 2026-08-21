@@ -1,0 +1,23 @@
+{
+  "slug": "eicher-logo",
+  "name": "Eicher",
+  "h1": "Eicher Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Eicher Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/eicher-logo-1984.png",
+      "localPath": "/images/car-logos/eicher-logo-1984.png",
+      "alt": "Eicher logo, 1984"
+    }
+  ],
+  "facts": {}
+}

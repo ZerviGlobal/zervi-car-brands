@@ -1,0 +1,32 @@
+{
+  "slug": "great-wall-logo",
+  "name": "Great Wall",
+  "h1": "Great Wall Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Great Wall Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/great-wall-logo-1984.png",
+      "localPath": "/images/car-logos/great-wall-logo-1984.png",
+      "alt": "Great Wall logo, 1984"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/great-wall-logo-1990.png",
+      "localPath": "/images/car-logos/great-wall-logo-1990.png",
+      "alt": "Great Wall logo, 1990"
+    }
+  ],
+  "facts": {}
+}

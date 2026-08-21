@@ -1,0 +1,23 @@
+{
+  "slug": "fisker-logo",
+  "name": "Fisker",
+  "h1": "Fisker Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Fisker Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/fisker-logo-2007.png",
+      "localPath": "/images/car-logos/fisker-logo-2007.png",
+      "alt": "Fisker logo, 2007"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "ferrari-logo",
+  "name": "Ferrari",
+  "h1": "Ferrari Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ferrari Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1929"
+    },
+    {
+      "tag": "h3",
+      "text": "1931"
+    },
+    {
+      "tag": "h3",
+      "text": "1939"
+    },
+    {
+      "tag": "h3",
+      "text": "1947"
+    },
+    {
+      "tag": "h3",
+      "text": "1951"
+    },
+    {
+      "tag": "h3",
+      "text": "1981"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1929.png",
+      "localPath": "/images/car-logos/ferrari-logo-1929.png",
+      "alt": "Ferrari logo, 1929"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1931.png",
+      "localPath": "/images/car-logos/ferrari-logo-1931.png",
+      "alt": "Ferrari logo, 1931"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1939.png",
+      "localPath": "/images/car-logos/ferrari-logo-1939.png",
+      "alt": "Ferrari logo, 1939"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1947.png",
+      "localPath": "/images/car-logos/ferrari-logo-1947.png",
+      "alt": "Ferrari logo, 1947"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1951.png",
+      "localPath": "/images/car-logos/ferrari-logo-1951.png",
+      "alt": "Ferrari logo, 1951"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1981.png",
+      "localPath": "/images/car-logos/ferrari-logo-1981.png",
+      "alt": "Ferrari logo, 1981"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1994.png",
+      "localPath": "/images/car-logos/ferrari-logo-1994.png",
+      "alt": "Ferrari logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1994-horse.png",
+      "localPath": "/images/car-logos/ferrari-logo-1994-horse.png",
+      "alt": "Ferrari logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-1994-wordmark.png",
+      "localPath": "/images/car-logos/ferrari-logo-1994-wordmark.png",
+      "alt": "Ferrari logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-2002.png",
+      "localPath": "/images/car-logos/ferrari-logo-2002.png",
+      "alt": "Ferrari logo, 2002"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-2002-sf.png",
+      "localPath": "/images/car-logos/ferrari-logo-2002-sf.png",
+      "alt": "Ferrari logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-2002-horse.png",
+      "localPath": "/images/car-logos/ferrari-logo-2002-horse.png",
+      "alt": "Ferrari logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ferrari-logo-2002-wordmark.png",
+      "localPath": "/images/car-logos/ferrari-logo-2002-wordmark.png",
+      "alt": "Ferrari logo, 1994"
+    }
+  ],
+  "facts": {}
+}

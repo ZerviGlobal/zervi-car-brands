@@ -1,0 +1,23 @@
+{
+  "slug": "fangchengbao-logo",
+  "name": "Fangchengbao",
+  "h1": "Fangchengbao Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Fangchengbao Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/fangchengbao-logo-2023.png",
+      "localPath": "/images/car-logos/fangchengbao-logo-2023.png",
+      "alt": "Fangchengbao logo, 2023"
+    }
+  ],
+  "facts": {}
+}

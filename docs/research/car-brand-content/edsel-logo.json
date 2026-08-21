@@ -1,0 +1,23 @@
+{
+  "slug": "edsel-logo",
+  "name": "Edsel",
+  "h1": "Edsel Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Edsel Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/edsel-logo-1957.png",
+      "localPath": "/images/car-logos/edsel-logo-1957.png",
+      "alt": "Edsel logo, 1957"
+    }
+  ],
+  "facts": {}
+}

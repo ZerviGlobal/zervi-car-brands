@@ -1,0 +1,86 @@
+{
+  "slug": "gaz-logo",
+  "name": "GAZ",
+  "h1": "GAZ Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "GAZ Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1932"
+    },
+    {
+      "tag": "h3",
+      "text": "1946"
+    },
+    {
+      "tag": "h3",
+      "text": "1950"
+    },
+    {
+      "tag": "h3",
+      "text": "1956"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1932.png",
+      "localPath": "/images/car-logos/gaz-logo-1932.png",
+      "alt": "GAZ logo, 1932"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1946.png",
+      "localPath": "/images/car-logos/gaz-logo-1946.png",
+      "alt": "GAZ logo, 1946"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1950.png",
+      "localPath": "/images/car-logos/gaz-logo-1950.png",
+      "alt": "GAZ logo, 1950"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1956.png",
+      "localPath": "/images/car-logos/gaz-logo-1956.png",
+      "alt": "GAZ logo, 1956"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1986.png",
+      "localPath": "/images/car-logos/gaz-logo-1986.png",
+      "alt": "GAZ logo, 1986"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1996.png",
+      "localPath": "/images/car-logos/gaz-logo-1996.png",
+      "alt": "GAZ logo, 1996"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-1997.png",
+      "localPath": "/images/car-logos/gaz-logo-1997.png",
+      "alt": "GAZ logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/gaz-logo-2015.png",
+      "localPath": "/images/car-logos/gaz-logo-2015.png",
+      "alt": "GAZ logo, 2015"
+    }
+  ],
+  "facts": {}
+}

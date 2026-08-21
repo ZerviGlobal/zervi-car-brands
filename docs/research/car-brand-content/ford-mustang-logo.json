@@ -1,0 +1,51 @@
+{
+  "slug": "ford-mustang-logo",
+  "name": "Ford Mustang",
+  "h1": "Ford Mustang Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ford Mustang Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "1990s"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-mustang-logo-2010.png",
+      "localPath": "/images/car-logos/ford-mustang-logo-2010.png",
+      "alt": "Ford Mustang logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-mustang-logo-2010-black.png",
+      "localPath": "/images/car-logos/ford-mustang-logo-2010-black.png",
+      "alt": "Ford Mustang logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-mustang-logo-1990s.png",
+      "localPath": "/images/car-logos/ford-mustang-logo-1990s.png",
+      "alt": "Ford Mustang logo, 1990s"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-mustang-logo-1964.png",
+      "localPath": "/images/car-logos/ford-mustang-logo-1964.png",
+      "alt": "Ford Mustang logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ford-mustang-logo-1964.2.png",
+      "localPath": "/images/car-logos/ford-mustang-logo-1964.2.png",
+      "alt": "Ford Mustang logo, 1964"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "golden-dragon-logo",
+  "name": "Golden Dragon",
+  "h1": "Golden Dragon Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Golden Dragon Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/golden-dragon-logo-2016.png",
+      "localPath": "/images/car-logos/golden-dragon-logo-2016.png",
+      "alt": "Golden Dragon logo, 2016"
+    }
+  ],
+  "facts": {}
+}

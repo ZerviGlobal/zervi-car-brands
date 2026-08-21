@@ -1,0 +1,23 @@
+{
+  "slug": "foton-logo",
+  "name": "Foton",
+  "h1": "Foton Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Foton Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/foton-logo-1996.png",
+      "localPath": "/images/car-logos/foton-logo-1996.png",
+      "alt": "Foton logo, 1996"
+    }
+  ],
+  "facts": {}
+}

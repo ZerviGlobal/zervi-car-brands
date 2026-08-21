@@ -1,0 +1,23 @@
+{
+  "slug": "elva-logo",
+  "name": "Elva",
+  "h1": "Elva Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Elva Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1955"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/elva-logo-1955.png",
+      "localPath": "/images/car-logos/elva-logo-1955.png",
+      "alt": "Elva logo, 1955"
+    }
+  ],
+  "facts": {}
+}
