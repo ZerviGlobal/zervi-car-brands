@@ -1,0 +1,1790 @@
+[
+  {
+    "href": "https://www.carlogos.org/car-brands/tesla-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/tesla-logo.png",
+    "imgAlt": "Tesla Logo",
+    "linkTitle": "",
+    "fullText": "TeslaElectric Vehicles2003-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Tesla",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Electric Vehicles2003-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Electric Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2003-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/toyota-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/toyota-logo.png",
+    "imgAlt": "Toyota Logo",
+    "linkTitle": "",
+    "fullText": "ToyotaMass-Market1937-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Toyota",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1937-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1937-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/honda-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/honda-logo.png",
+    "imgAlt": "Honda Logo",
+    "linkTitle": "",
+    "fullText": "HondaMass-Market1948-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Honda",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1948-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1948-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/bmw-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/bmw-logo.png",
+    "imgAlt": "BMW Logo",
+    "linkTitle": "",
+    "fullText": "BMWLuxury Vehicles1916-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "BMW",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1916-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1916-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/ford-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/ford-logo.png",
+    "imgAlt": "Ford Logo",
+    "linkTitle": "",
+    "fullText": "FordMass-Market1903-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Ford",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1903-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1903-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/subaru-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/subaru-logo.png",
+    "imgAlt": "Subaru Logo",
+    "linkTitle": "",
+    "fullText": "SubaruMass-Market1953-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Subaru",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1953-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1953-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/mercedes-benz-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/mercedes-benz-logo.png",
+    "imgAlt": "Mercedes-Benz Logo",
+    "linkTitle": "",
+    "fullText": "Mercedes-BenzLuxury Vehicles1926-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Mercedes-Benz",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1926-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1926-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/lexus-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/lexus-logo.png",
+    "imgAlt": "Lexus Logo",
+    "linkTitle": "",
+    "fullText": "LexusLuxury Vehicles1989-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Lexus",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1989-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1989-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/audi-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/audi-logo.png",
+    "imgAlt": "Audi Logo",
+    "linkTitle": "",
+    "fullText": "AudiLuxury Vehicles1909-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Audi",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1909-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1909-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/lamborghini-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/lamborghini-logo.png",
+    "imgAlt": "Lamborghini Logo",
+    "linkTitle": "",
+    "fullText": "LamborghiniSupercars1963-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Lamborghini",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Supercars1963-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Supercars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1963-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/kia-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/kia-logo.png",
+    "imgAlt": "Kia Logo",
+    "linkTitle": "",
+    "fullText": "KiaMass-Market1944-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Kia",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1944-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1944-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/nissan-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/nissan-logo.png",
+    "imgAlt": "Nissan Logo",
+    "linkTitle": "",
+    "fullText": "NissanMass-Market1933-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Nissan",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1933-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1933-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/jeep-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/jeep-logo.png",
+    "imgAlt": "Jeep Logo",
+    "linkTitle": "",
+    "fullText": "JeepOff-Road & SUVs1941-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Jeep",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Off-Road & SUVs1941-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Off-Road & SUVs",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1941-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/porsche-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/porsche-logo.png",
+    "imgAlt": "Porsche Logo",
+    "linkTitle": "",
+    "fullText": "PorscheSports Cars1931-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Porsche",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars1931-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1931-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/mazda-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/mazda-logo.png",
+    "imgAlt": "Mazda Logo",
+    "linkTitle": "",
+    "fullText": "MazdaMass-Market1920-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Mazda",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1920-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1920-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/genesis-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/genesis-logo.png",
+    "imgAlt": "Genesis Logo",
+    "linkTitle": "",
+    "fullText": "GenesisLuxury Vehicles2015-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Genesis",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles2015-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2015-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/rivian-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/rivian-logo.png",
+    "imgAlt": "Rivian Logo",
+    "linkTitle": "",
+    "fullText": "RivianElectric Vehicles2009-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Rivian",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Electric Vehicles2009-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Electric Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2009-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/chevrolet-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/chevrolet-logo.png",
+    "imgAlt": "Chevrolet Logo",
+    "linkTitle": "",
+    "fullText": "ChevroletMass-Market1911-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Chevrolet",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1911-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1911-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/volkswagen-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/volkswagen-logo.png",
+    "imgAlt": "Volkswagen Logo",
+    "linkTitle": "",
+    "fullText": "VolkswagenMass-Market1937-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Volkswagen",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1937-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1937-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/dodge-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/dodge-logo.png",
+    "imgAlt": "Dodge Logo",
+    "linkTitle": "",
+    "fullText": "DodgeMuscle Cars1900-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Dodge",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Muscle Cars1900-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Muscle Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1900-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/ferrari-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/ferrari-logo.png",
+    "imgAlt": "Ferrari Logo",
+    "linkTitle": "",
+    "fullText": "FerrariSupercars1947-present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Ferrari",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Supercars1947-present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Supercars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1947-present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/gmc-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/gmc-logo.png",
+    "imgAlt": "GMC Logo",
+    "linkTitle": "",
+    "fullText": "GMCPickups & SUVs1911-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "GMC",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Pickups & SUVs1911-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Pickups & SUVs",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1911-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/cadillac-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/cadillac-logo.png",
+    "imgAlt": "Cadillac Logo",
+    "linkTitle": "",
+    "fullText": "CadillacLuxury Vehicles1902-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Cadillac",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1902-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1902-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/acura-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/acura-logo.png",
+    "imgAlt": "Acura Logo",
+    "linkTitle": "",
+    "fullText": "AcuraLuxury Vehicles1986-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Acura",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1986-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1986-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/volvo-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/volvo-logo.png",
+    "imgAlt": "Volvo Logo",
+    "linkTitle": "",
+    "fullText": "VolvoLuxury Vehicles1927-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Volvo",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1927-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1927-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/jaguar-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/jaguar-logo.png",
+    "imgAlt": "Jaguar Logo",
+    "linkTitle": "",
+    "fullText": "JaguarLuxury Vehicles1933-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Jaguar",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1933-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1933-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/mclaren-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/mclaren-logo.png",
+    "imgAlt": "McLaren Logo",
+    "linkTitle": "",
+    "fullText": "McLarenSupercars1963-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "McLaren",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Supercars1963-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Supercars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1963-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/bugatti-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/bugatti-logo.png",
+    "imgAlt": "Bugatti Logo",
+    "linkTitle": "",
+    "fullText": "BugattiHypercars1909-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Bugatti",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Hypercars1909-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hypercars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1909-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/lincoln-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/lincoln-logo.png",
+    "imgAlt": "Lincoln Logo",
+    "linkTitle": "",
+    "fullText": "LincolnLuxury Vehicles1917-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Lincoln",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1917-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1917-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/infiniti-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/infiniti-logo.png",
+    "imgAlt": "Infiniti Logo",
+    "linkTitle": "",
+    "fullText": "InfinitiLuxury Vehicles1989-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Infiniti",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1989-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1989-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/mitsubishi-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/mitsubishi-logo.png",
+    "imgAlt": "Mitsubishi Logo",
+    "linkTitle": "",
+    "fullText": "MitsubishiMass-Market1970-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Mitsubishi",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1970-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1970-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/nio-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/nio-logo.png",
+    "imgAlt": "NIO Logo",
+    "linkTitle": "",
+    "fullText": "NIOElectric Vehicles2014-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "NIO",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Electric Vehicles2014-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Electric Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2014-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/maserati-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/maserati-logo.png",
+    "imgAlt": "Maserati Logo",
+    "linkTitle": "",
+    "fullText": "MaseratiLuxury Vehicles1914-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Maserati",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury Vehicles1914-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1914-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/hyundai-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/hyundai-logo.png",
+    "imgAlt": "Hyundai Logo",
+    "linkTitle": "",
+    "fullText": "HyundaiMass-Market1967-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Hyundai",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1967-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1967-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/aston-martin-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/aston-martin-logo.png",
+    "imgAlt": "Aston Martin Logo",
+    "linkTitle": "",
+    "fullText": "Aston MartinSports Cars1913-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Aston Martin",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars1913-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1913-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/lotus-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/lotus-logo.png",
+    "imgAlt": "Lotus Logo",
+    "linkTitle": "",
+    "fullText": "LotusSports Cars1952-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Lotus",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars1952-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1952-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/koenigsegg-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/koenigsegg-logo.png",
+    "imgAlt": "Koenigsegg Logo",
+    "linkTitle": "",
+    "fullText": "KoenigseggHypercars1994-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Koenigsegg",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Hypercars1994-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hypercars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1994-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/land-rover-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/land-rover-logo.png",
+    "imgAlt": "Land Rover Logo",
+    "linkTitle": "",
+    "fullText": "Land RoverLuxury SUVs1948-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Land Rover",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury SUVs1948-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury SUVs",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1948-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/bentley-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/bentley-logo.png",
+    "imgAlt": "Bentley Logo",
+    "linkTitle": "",
+    "fullText": "BentleyUltra-luxury1919-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Bentley",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Ultra-luxury1919-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Ultra-luxury",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1919-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/alfa-romeo-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/alfa-romeo-logo.png",
+    "imgAlt": "Alfa Romeo Logo",
+    "linkTitle": "",
+    "fullText": "Alfa RomeoSports Cars1910-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Alfa Romeo",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars1910-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1910-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/mini-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/mini-logo.png",
+    "imgAlt": "Mini Logo",
+    "linkTitle": "",
+    "fullText": "MiniSmall Cars1959-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Mini",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Small Cars1959-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Small Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1959-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/buick-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/buick-logo.png",
+    "imgAlt": "Buick Logo",
+    "linkTitle": "",
+    "fullText": "BuickMass-Market1903-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Buick",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1903-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1903-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/chrysler-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/chrysler-logo.png",
+    "imgAlt": "Chrysler Logo",
+    "linkTitle": "",
+    "fullText": "ChryslerPremium Cars1925-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Chrysler",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Premium Cars1925-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Premium Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1925-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/fiat-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/fiat-logo.png",
+    "imgAlt": "Fiat Logo",
+    "linkTitle": "",
+    "fullText": "FiatSmall Cars1899-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Fiat",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Small Cars1899-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Small Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1899-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/suzuki-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/suzuki-logo.png",
+    "imgAlt": "Suzuki Logo",
+    "linkTitle": "",
+    "fullText": "SuzukiMass-Market1920-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Suzuki",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1920-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1920-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/ford-mustang-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/ford-mustang-logo.png",
+    "imgAlt": "Ford Mustang Logo",
+    "linkTitle": "",
+    "fullText": "Ford MustangMuscle Cars1964-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Ford Mustang",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Muscle Cars1964-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Muscle Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1964-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/nissan-gt-r-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/nissan-gt-r-logo.png",
+    "imgAlt": "Nissan GT-R Logo",
+    "linkTitle": "",
+    "fullText": "Nissan GT-RSports Cars2007-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Nissan GT-R",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars2007-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2007-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/maybach-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/maybach-logo.png",
+    "imgAlt": "Maybach Logo",
+    "linkTitle": "",
+    "fullText": "MaybachUltra-luxury1909-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Maybach",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Ultra-luxury1909-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Ultra-luxury",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1909-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/byd-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/byd-logo.png",
+    "imgAlt": "BYD Logo",
+    "linkTitle": "",
+    "fullText": "BYDElectric & Hybrid1995-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "BYD",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Electric & Hybrid1995-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Electric & Hybrid",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1995-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/scion-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/scion-logo.png",
+    "imgAlt": "Scion Logo",
+    "linkTitle": "",
+    "fullText": "ScionCompact Cars2003-2016",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Scion",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Compact Cars2003-2016",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Compact Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2003-2016",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/lucid-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/lucid-logo.png",
+    "imgAlt": "Lucid Logo",
+    "linkTitle": "",
+    "fullText": "LucidLuxury EVs2007-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Lucid",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Luxury EVs2007-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Luxury EVs",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2007-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/dodge-viper-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/dodge-viper-logo.png",
+    "imgAlt": "Dodge Viper Logo",
+    "linkTitle": "",
+    "fullText": "Dodge ViperSports Cars1989-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Dodge Viper",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars1989-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1989-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/ram-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/ram-logo.png",
+    "imgAlt": "Ram Logo",
+    "linkTitle": "",
+    "fullText": "RamPickups & Vans2009-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Ram",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Pickups & Vans2009-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Pickups & Vans",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "2009-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/alpine-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/alpine-logo.png",
+    "imgAlt": "Alpine Logo",
+    "linkTitle": "",
+    "fullText": "AlpineSports Cars1955-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Alpine",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Sports Cars1955-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Sports Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1955-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/pontiac-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/pontiac-logo.png",
+    "imgAlt": "Pontiac Logo",
+    "linkTitle": "",
+    "fullText": "PontiacPerformance Cars1926-2010",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Pontiac",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Performance Cars1926-2010",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Performance Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1926-2010",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/hummer-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/hummer-logo.png",
+    "imgAlt": "Hummer Logo",
+    "linkTitle": "",
+    "fullText": "HummerOff-Road Vehicles1992-2010",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Hummer",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Off-Road Vehicles1992-2010",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Off-Road Vehicles",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1992-2010",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/renault-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/renault-logo.png",
+    "imgAlt": "Renault Logo",
+    "linkTitle": "",
+    "fullText": "RenaultMass-Market1899-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Renault",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Mass-Market1899-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Mass-Market",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1899-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/pagani-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/pagani-logo.png",
+    "imgAlt": "Pagani Logo",
+    "linkTitle": "",
+    "fullText": "PaganiHypercars1992-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Pagani",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Hypercars1992-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hypercars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1992-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/smart-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/smart-logo.png",
+    "imgAlt": "Smart Logo",
+    "linkTitle": "",
+    "fullText": "SmartSmall Cars1994-Present",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Smart",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Small Cars1994-Present",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Small Cars",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1994-Present",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/sterling-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/sterling-logo.png",
+    "imgAlt": "Sterling Logo",
+    "linkTitle": "",
+    "fullText": "SterlingHeavy-duty Trucks1906-2008",
+    "childElements": [
+      {
+        "tag": "B",
+        "text": "Sterling",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Heavy-duty Trucks1906-2008",
+        "class": "ho-text f-cc-c"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Heavy-duty Trucks",
+        "class": "ht-tag"
+      },
+      {
+        "tag": "SPAN",
+        "text": "1906-2008",
+        "class": "ht-year"
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/general-motors-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/general-motors-logo.png",
+    "imgAlt": "General Motors",
+    "linkTitle": "",
+    "fullText": "General Motors~ $187.44 billion",
+    "childElements": [
+      {
+        "tag": "DIV",
+        "text": "General Motors~ $187.44 billion",
+        "class": "tr-info"
+      },
+      {
+        "tag": "B",
+        "text": "General Motors",
+        "class": ""
+      },
+      {
+        "tag": "SMALL",
+        "text": "~ $187.44 billion",
+        "class": ""
+      }
+    ]
+  },
+  {
+    "href": "https://www.carlogos.org/car-brands/stellantis-logo.html",
+    "imgSrc": "https://www.carlogos.org/car-logos/stellantis-logo-2.png",
+    "imgAlt": "Stellantis",
+    "linkTitle": "",
+    "fullText": "Stellantis~ $169.65 billion",
+    "childElements": [
+      {
+        "tag": "DIV",
+        "text": "Stellantis~ $169.65 billion",
+        "class": "tr-info"
+      },
+      {
+        "tag": "B",
+        "text": "Stellantis",
+        "class": ""
+      },
+      {
+        "tag": "SMALL",
+        "text": "~ $169.65 billion",
+        "class": ""
+      }
+    ]
+  }
+]

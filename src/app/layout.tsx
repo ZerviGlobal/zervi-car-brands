@@ -1,20 +1,23 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Figtree } from "next/font/google";
 import "./globals.css";
+import { SiteHeader } from "@/components/site-header";
+import { SiteFooter } from "@/components/site-footer";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const figtree = Figtree({
+  variable: "--font-figtree",
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Zervi Car Brands",
-  description: "Car logos & brand encyclopedia — a reverse-engineered clone of carlogos.org, hosted as a support resource for Zervi projects.",
+  title: {
+    default: "Zervi Car Brands — Car Logos & Brand Stories",
+    template: "%s | Zervi Car Brands",
+  },
+  description:
+    "Explore 300+ car logos & their backstories. A reverse-engineered clone of carlogos.org hosted as a support resource for Zervi Group projects.",
 };
 
 export default function RootLayout({
@@ -23,11 +26,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en" className={`${figtree.variable} h-full antialiased`}>
+      <body className="min-h-full flex flex-col bg-background text-foreground">
+        <SiteHeader />
+        <main className="flex-1">{children}</main>
+        <SiteFooter />
+      </body>
     </html>
   );
 }
