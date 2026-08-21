@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zervi-group/zervi-car-brands.git"
+    "url": "https://github.com/ZerviGlobal/zervi-car-brands.git"
   },
-  "homepage": "https://github.com/zervi-group/zervi-car-brands",
+  "homepage": "https://github.com/ZerviGlobal/zervi-car-brands",
   "bugs": {
-    "url": "https://github.com/zervi-group/zervi-car-brands/issues"
+    "url": "https://github.com/ZerviGlobal/zervi-car-brands/issues"
   },
   "keywords": [
     "zervi",

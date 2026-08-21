@@ -42,7 +42,7 @@ and data shape.
 ### Install
 
 ```bash
-git clone https://github.com/zervi-group/zervi-car-brands.git
+git clone https://github.com/ZerviGlobal/zervi-car-brands.git
 cd zervi-car-brands
 npm install
 ```
