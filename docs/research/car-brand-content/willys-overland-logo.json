@@ -1,0 +1,59 @@
+{
+  "slug": "willys-overland-logo",
+  "name": "Willys-Overland",
+  "h1": "Willys-Overland Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Willys-Overland Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1913"
+    },
+    {
+      "tag": "h3",
+      "text": "1916"
+    },
+    {
+      "tag": "h3",
+      "text": "1917"
+    },
+    {
+      "tag": "h3",
+      "text": "1929"
+    },
+    {
+      "tag": "h3",
+      "text": "1948"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/willys-overland-logo-1913.png",
+      "localPath": "/images/car-logos/willys-overland-logo-1913.png",
+      "alt": "Willys-Overland logo, 1913"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/willys-overland-logo-1916.png",
+      "localPath": "/images/car-logos/willys-overland-logo-1916.png",
+      "alt": "Willys-Overland logo, 1916"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/willys-overland-logo-1917.png",
+      "localPath": "/images/car-logos/willys-overland-logo-1917.png",
+      "alt": "Willys-Overland logo, 1917"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/willys-overland-logo-1929.png",
+      "localPath": "/images/car-logos/willys-overland-logo-1929.png",
+      "alt": "Willys-Overland logo, 1929"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/willys-overland-logo-1948.png",
+      "localPath": "/images/car-logos/willys-overland-logo-1948.png",
+      "alt": "Willys-Overland logo, 1948"
+    }
+  ],
+  "facts": {}
+}

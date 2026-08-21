@@ -1,0 +1,23 @@
+{
+  "slug": "xcmg-logo",
+  "name": "XCMG",
+  "h1": "XCMG Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "XCMG Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1943"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/xcmg-logo-1943.png",
+      "localPath": "/images/car-logos/xcmg-logo-1943.png",
+      "alt": "XCMG logo, 1943"
+    }
+  ],
+  "facts": {}
+}

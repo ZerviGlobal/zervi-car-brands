@@ -1,0 +1,23 @@
+{
+  "slug": "yutong-logo",
+  "name": "Yutong",
+  "h1": "Yutong Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Yutong Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/yutong-logo-1993.png",
+      "localPath": "/images/car-logos/yutong-logo-1993.png",
+      "alt": "Yutong logo, 1993"
+    }
+  ],
+  "facts": {}
+}

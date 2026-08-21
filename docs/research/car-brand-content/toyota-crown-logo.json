@@ -1,0 +1,23 @@
+{
+  "slug": "toyota-crown-logo",
+  "name": "Toyota Crown",
+  "h1": "Toyota Crown Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Toyota Crown Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/toyota-crown-logo-2018.png",
+      "localPath": "/images/car-logos/toyota-crown-logo-2018.png",
+      "alt": "Toyota Crown logo, 2018"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "vauxhall-logo",
+  "name": "Vauxhall",
+  "h1": "Vauxhall Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Vauxhall Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1857"
+    },
+    {
+      "tag": "h3",
+      "text": "1983"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-1857.png",
+      "localPath": "/images/car-logos/vauxhall-logo-1857.png",
+      "alt": "Vauxhall logo, 1857"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-1983.png",
+      "localPath": "/images/car-logos/vauxhall-logo-1983.png",
+      "alt": "Vauxhall logo, 1983"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-1989.png",
+      "localPath": "/images/car-logos/vauxhall-logo-1989.png",
+      "alt": "Vauxhall logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-2003.png",
+      "localPath": "/images/car-logos/vauxhall-logo-2003.png",
+      "alt": "Vauxhall logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-2008.png",
+      "localPath": "/images/car-logos/vauxhall-logo-2008.png",
+      "alt": "Vauxhall logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-2009.png",
+      "localPath": "/images/car-logos/vauxhall-logo-2009.png",
+      "alt": "Vauxhall logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-2011.png",
+      "localPath": "/images/car-logos/vauxhall-logo-2011.png",
+      "alt": "Vauxhall logo, 2011"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/vauxhall-logo-2020.png",
+      "localPath": "/images/car-logos/vauxhall-logo-2020.png",
+      "alt": "Vauxhall logo, 2020"
+    }
+  ],
+  "facts": {}
+}

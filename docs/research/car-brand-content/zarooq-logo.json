@@ -1,0 +1,23 @@
+{
+  "slug": "zarooq-logo",
+  "name": "Zarooq",
+  "h1": "Zarooq Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zarooq Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zarooq-logo-2014.png",
+      "localPath": "/images/car-logos/zarooq-logo-2014.png",
+      "alt": "Zarooq logo, 2014"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "xpeng-logo",
+  "name": "XPeng",
+  "h1": "XPeng Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "XPeng Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/xpeng-logo-2014.png",
+      "localPath": "/images/car-logos/xpeng-logo-2014.png",
+      "alt": "XPeng logo, 2014"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/xpeng-logo-2021.png",
+      "localPath": "/images/car-logos/xpeng-logo-2021.png",
+      "alt": "XPeng logo, 2021"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "vinfast-logo",
+  "name": "VinFast",
+  "h1": "VinFast Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "VinFast Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/vinfast-logo-2017.png",
+      "localPath": "/images/car-logos/vinfast-logo-2017.png",
+      "alt": "VinFast logo, 2017"
+    }
+  ],
+  "facts": {}
+}

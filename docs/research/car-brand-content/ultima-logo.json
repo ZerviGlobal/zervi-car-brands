@@ -1,0 +1,23 @@
+{
+  "slug": "ultima-logo",
+  "name": "Ultima",
+  "h1": "Ultima Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ultima Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ultima-logo-1992.png",
+      "localPath": "/images/car-logos/ultima-logo-1992.png",
+      "alt": "Ultima logo, 1992"
+    }
+  ],
+  "facts": {}
+}

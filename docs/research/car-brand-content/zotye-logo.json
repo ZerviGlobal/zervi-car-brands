@@ -1,0 +1,32 @@
+{
+  "slug": "zotye-logo",
+  "name": "Zotye",
+  "h1": "Zotye Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zotye Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zotye-logo-2005.png",
+      "localPath": "/images/car-logos/zotye-logo-2005.png",
+      "alt": "Zotye logo, 2005"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/zotye-logo-2018.png",
+      "localPath": "/images/car-logos/zotye-logo-2018.png",
+      "alt": "Zotye logo, 2018"
+    }
+  ],
+  "facts": {}
+}

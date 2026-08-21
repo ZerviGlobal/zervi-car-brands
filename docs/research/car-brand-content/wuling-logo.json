@@ -1,0 +1,32 @@
+{
+  "slug": "wuling-logo",
+  "name": "Wuling",
+  "h1": "Wuling Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Wuling Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/wuling-logo-2002.png",
+      "localPath": "/images/car-logos/wuling-logo-2002.png",
+      "alt": "Wuling logo, 2002"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wuling-logo-2020.png",
+      "localPath": "/images/car-logos/wuling-logo-2020.png",
+      "alt": "Wuling logo, 2020"
+    }
+  ],
+  "facts": {}
+}

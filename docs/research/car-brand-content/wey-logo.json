@@ -1,0 +1,23 @@
+{
+  "slug": "wey-logo",
+  "name": "WEY",
+  "h1": "WEY Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "WEY Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/wey-logo-2018.png",
+      "localPath": "/images/car-logos/wey-logo-2018.png",
+      "alt": "WEY logo, 2018"
+    }
+  ],
+  "facts": {}
+}

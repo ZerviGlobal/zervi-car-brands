@@ -1,0 +1,23 @@
+{
+  "slug": "yangwang-logo",
+  "name": "Yangwang",
+  "h1": "Yangwang Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Yangwang Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/yangwang-logo-2023.png",
+      "localPath": "/images/car-logos/yangwang-logo-2023.png",
+      "alt": "Yangwang logo, 2023"
+    }
+  ],
+  "facts": {}
+}

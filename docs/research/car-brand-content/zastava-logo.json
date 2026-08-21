@@ -1,0 +1,50 @@
+{
+  "slug": "zastava-logo",
+  "name": "Zastava",
+  "h1": "Zastava Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zastava Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1971"
+    },
+    {
+      "tag": "h3",
+      "text": "1991"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zastava-logo-1953.png",
+      "localPath": "/images/car-logos/zastava-logo-1953.png",
+      "alt": "Zastava logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/zastava-logo-1971.png",
+      "localPath": "/images/car-logos/zastava-logo-1971.png",
+      "alt": "Zastava logo, 1971"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/zastava-logo-1991.png",
+      "localPath": "/images/car-logos/zastava-logo-1991.png",
+      "alt": "Zastava logo, 1991"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/zastava-logo-2000.png",
+      "localPath": "/images/car-logos/zastava-logo-2000.png",
+      "alt": "Zastava logo, 2000"
+    }
+  ],
+  "facts": {}
+}

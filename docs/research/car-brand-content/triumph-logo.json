@@ -1,0 +1,23 @@
+{
+  "slug": "triumph-logo",
+  "name": "Triumph",
+  "h1": "Triumph Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Triumph Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1885"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/triumph-logo-1885.png",
+      "localPath": "/images/car-logos/triumph-logo-1885.png",
+      "alt": "Triumph logo, 1885"
+    }
+  ],
+  "facts": {}
+}

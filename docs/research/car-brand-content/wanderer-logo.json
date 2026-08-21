@@ -1,0 +1,77 @@
+{
+  "slug": "wanderer-logo",
+  "name": "Wanderer",
+  "h1": "Wanderer Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Wanderer Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1896"
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "h3",
+      "text": "1920"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    },
+    {
+      "tag": "h3",
+      "text": "1930"
+    },
+    {
+      "tag": "h3",
+      "text": "1932"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-1896.png",
+      "localPath": "/images/car-logos/wanderer-logo-1896.png",
+      "alt": "Wanderer logo, 1896"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-1911.png",
+      "localPath": "/images/car-logos/wanderer-logo-1911.png",
+      "alt": "Wanderer logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-1920.png",
+      "localPath": "/images/car-logos/wanderer-logo-1920.png",
+      "alt": "Wanderer logo, 1920"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-1928.png",
+      "localPath": "/images/car-logos/wanderer-logo-1928.png",
+      "alt": "Wanderer logo, 1928"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-1930.png",
+      "localPath": "/images/car-logos/wanderer-logo-1930.png",
+      "alt": "Wanderer logo, 1930"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-1932.png",
+      "localPath": "/images/car-logos/wanderer-logo-1932.png",
+      "alt": "Wanderer logo, 1932"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/wanderer-logo-2010.png",
+      "localPath": "/images/car-logos/wanderer-logo-2010.png",
+      "alt": "Wanderer logo, 2010"
+    }
+  ],
+  "facts": {}
+}

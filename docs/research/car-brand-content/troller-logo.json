@@ -1,0 +1,23 @@
+{
+  "slug": "troller-logo",
+  "name": "Troller",
+  "h1": "Troller Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Troller Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1995"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/troller-logo-1995.png",
+      "localPath": "/images/car-logos/troller-logo-1995.png",
+      "alt": "Troller logo, 1995"
+    }
+  ],
+  "facts": {}
+}

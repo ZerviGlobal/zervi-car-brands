@@ -1,0 +1,23 @@
+{
+  "slug": "westfield-logo",
+  "name": "Westfield",
+  "h1": "Westfield Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Westfield Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1982"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/westfield-logo-1982.png",
+      "localPath": "/images/car-logos/westfield-logo-1982.png",
+      "alt": "Westfield logo, 1982"
+    }
+  ],
+  "facts": {}
+}

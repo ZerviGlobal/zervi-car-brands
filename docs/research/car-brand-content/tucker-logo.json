@@ -1,0 +1,23 @@
+{
+  "slug": "tucker-logo",
+  "name": "Tucker",
+  "h1": "Tucker Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Tucker Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "Old"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/tucker-logo-old.png",
+      "localPath": "/images/car-logos/tucker-logo-old.png",
+      "alt": "Tucker logo, Old"
+    }
+  ],
+  "facts": {}
+}

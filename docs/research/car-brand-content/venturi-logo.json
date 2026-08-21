@@ -1,0 +1,41 @@
+{
+  "slug": "venturi-logo",
+  "name": "Venturi",
+  "h1": "Venturi Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Venturi Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/venturi-logo-1989.png",
+      "localPath": "/images/car-logos/venturi-logo-1989.png",
+      "alt": "Venturi logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/venturi-logo-2001.png",
+      "localPath": "/images/car-logos/venturi-logo-2001.png",
+      "alt": "Venturi logo, 2001"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/venturi-logo-2013.png",
+      "localPath": "/images/car-logos/venturi-logo-2013.png",
+      "alt": "Venturi logo, 2013"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "zhongtong-logo",
+  "name": "Zhongtong",
+  "h1": "Zhongtong Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zhongtong Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zhongtong-logo-1998.png",
+      "localPath": "/images/car-logos/zhongtong-logo-1998.png",
+      "alt": "Zhongtong logo, 1998"
+    }
+  ],
+  "facts": {}
+}

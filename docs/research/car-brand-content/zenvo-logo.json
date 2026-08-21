@@ -1,0 +1,23 @@
+{
+  "slug": "zenvo-logo",
+  "name": "Zenvo",
+  "h1": "Zenvo Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zenvo Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zenvo-logo-2009.png",
+      "localPath": "/images/car-logos/zenvo-logo-2009.png",
+      "alt": "Zenvo logo, 2009"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "wiesmann-logo",
+  "name": "Wiesmann",
+  "h1": "Wiesmann Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Wiesmann Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/wiesmann-logo-1988.png",
+      "localPath": "/images/car-logos/wiesmann-logo-1988.png",
+      "alt": "Wiesmann logo, 1988"
+    }
+  ],
+  "facts": {}
+}

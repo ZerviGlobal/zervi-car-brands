@@ -1,0 +1,23 @@
+{
+  "slug": "workhorse-logo",
+  "name": "Workhorse",
+  "h1": "Workhorse Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Workhorse Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/workhorse-logo-1998.png",
+      "localPath": "/images/car-logos/workhorse-logo-1998.png",
+      "alt": "Workhorse logo, 1998"
+    }
+  ],
+  "facts": {}
+}

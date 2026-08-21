@@ -1,0 +1,23 @@
+{
+  "slug": "voyah-logo",
+  "name": "Voyah",
+  "h1": "Voyah Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Voyah Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/voyah-logo-2020.png",
+      "localPath": "/images/car-logos/voyah-logo-2020.png",
+      "alt": "Voyah logo, 2020"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "wartburg-logo",
+  "name": "Wartburg",
+  "h1": "Wartburg Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Wartburg Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1955"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/wartburg-logo-1955.png",
+      "localPath": "/images/car-logos/wartburg-logo-1955.png",
+      "alt": "Wartburg logo, 1955"
+    }
+  ],
+  "facts": {}
+}

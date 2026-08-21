@@ -1,0 +1,23 @@
+{
+  "slug": "western-star-logo",
+  "name": "Western Star",
+  "h1": "Western Star Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Western Star Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1981"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/western-star-logo-1981.png",
+      "localPath": "/images/car-logos/western-star-logo-1981.png",
+      "alt": "Western Star logo, 1981"
+    }
+  ],
+  "facts": {}
+}

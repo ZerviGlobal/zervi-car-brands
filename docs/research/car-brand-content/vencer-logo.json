@@ -1,0 +1,23 @@
+{
+  "slug": "vencer-logo",
+  "name": "Vencer",
+  "h1": "Vencer Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Vencer Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/vencer-logo-2010.png",
+      "localPath": "/images/car-logos/vencer-logo-2010.png",
+      "alt": "Vencer logo, 2010"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "zenos-logo",
+  "name": "Zenos",
+  "h1": "Zenos Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zenos Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zenos-logo-2012.png",
+      "localPath": "/images/car-logos/zenos-logo-2012.png",
+      "alt": "Zenos logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/zenos-logo-2016.png",
+      "localPath": "/images/car-logos/zenos-logo-2016.png",
+      "alt": "Zenos logo, 2016"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "zeekr-logo",
+  "name": "Zeekr",
+  "h1": "Zeekr Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Zeekr Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/zeekr-logo-2021.png",
+      "localPath": "/images/car-logos/zeekr-logo-2021.png",
+      "alt": "Zeekr logo, 2021"
+    }
+  ],
+  "facts": {}
+}

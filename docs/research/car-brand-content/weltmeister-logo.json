@@ -1,0 +1,23 @@
+{
+  "slug": "weltmeister-logo",
+  "name": "Weltmeister",
+  "h1": "Weltmeister Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Weltmeister Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/weltmeister-logo-2015.png",
+      "localPath": "/images/car-logos/weltmeister-logo-2015.png",
+      "alt": "Weltmeister logo, 2015"
+    }
+  ],
+  "facts": {}
+}

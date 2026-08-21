@@ -1,0 +1,23 @@
+{
+  "slug": "vector-logo",
+  "name": "Vector",
+  "h1": "Vector Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Vector Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1971"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/vector-logo-1971.png",
+      "localPath": "/images/car-logos/vector-logo-1971.png",
+      "alt": "Vector logo, 1971"
+    }
+  ],
+  "facts": {}
+}
