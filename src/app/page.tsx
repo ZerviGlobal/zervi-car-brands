@@ -14,7 +14,7 @@ export default function Home() {
       <section className="border-b border-border bg-gradient-to-b from-muted/40 to-background">
         <div className="mx-auto max-w-7xl px-4 py-16 text-center sm:px-6 sm:py-24">
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl md:text-6xl">
-            Explore 300+ Car Logos &amp; Their Backstories
+            Explore {carBrands.length}+ Car Logos &amp; Their Backstories
           </h1>
           <p className="mx-auto mt-5 max-w-2xl text-base text-muted-foreground sm:text-lg">
             A complete encyclopedia of car brand logos, histories, and metadata.

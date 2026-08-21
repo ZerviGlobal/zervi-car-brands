@@ -12,5 +12,5 @@ export interface CarBrand {
   headquarters: string;
   keyModels: string;
   officialSite: string;
-  popularity: string;
+  popularity?: string;
 }
