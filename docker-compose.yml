@@ -20,7 +20,8 @@ services:
       - path: .env
         required: false
     healthcheck:
-      test: ["CMD-SHELL", "wget -qO- http://localhost:3000/ || exit 1"]
+      # Node 24 slim image has no wget/curl, so use node for the HTTP probe.
+      test: ["CMD-SHELL", "node -e "const h=require('http');h.get('http://localhost:3000/',r=>{process.exit(r.statusCode===200?0:1)}).on('error',()=>process.exit(1))""]
       interval: 30s
       timeout: 10s
       retries: 3
