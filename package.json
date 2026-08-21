@@ -1,0 +1,61 @@
+{
+  "name": "zervi-car-brands",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zervi Car Brands — a reverse-engineered clone of carlogos.org, used as a support resource for Zervi projects. Built on the ai-website-cloner-template (Next.js + shadcn/ui + Tailwind v4).",
+  "author": "Zervi Group",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zervi-group/zervi-car-brands.git"
+  },
+  "homepage": "https://github.com/zervi-group/zervi-car-brands",
+  "bugs": {
+    "url": "https://github.com/zervi-group/zervi-car-brands/issues"
+  },
+  "keywords": [
+    "zervi",
+    "car-brands",
+    "carlogos",
+    "website-clone",
+    "reverse-engineering",
+    "nextjs",
+    "ai",
+    "support-resource",
+    "tailwindcss",
+    "shadcn-ui"
+  ],
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck && npm run build"
+  },
+  "dependencies": {
+    "@base-ui/react": "^1.3.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.6.0",
+    "next": "16.2.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "shadcn": "^4.1.0",
+    "tailwind-merge": "^3.5.0",
+    "tw-animate-css": "^1.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
