@@ -1,0 +1,23 @@
+{
+  "slug": "levc-logo",
+  "name": "LEVC",
+  "h1": "LEVC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "LEVC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/levc-logo-2013.png",
+      "localPath": "/images/car-logos/levc-logo-2013.png",
+      "alt": "LEVC logo, 2013"
+    }
+  ],
+  "facts": {}
+}

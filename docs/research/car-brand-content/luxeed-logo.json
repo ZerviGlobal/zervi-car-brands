@@ -1,0 +1,23 @@
+{
+  "slug": "luxeed-logo",
+  "name": "Luxeed",
+  "h1": "Luxeed Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Luxeed Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/luxeed-logo-2023.png",
+      "localPath": "/images/car-logos/luxeed-logo-2023.png",
+      "alt": "Luxeed logo, 2023"
+    }
+  ],
+  "facts": {}
+}

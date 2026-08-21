@@ -1,0 +1,23 @@
+{
+  "slug": "peterbilt-logo",
+  "name": "Peterbilt",
+  "h1": "Peterbilt Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Peterbilt Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/peterbilt-logo-1953.png",
+      "localPath": "/images/car-logos/peterbilt-logo-1953.png",
+      "alt": "Peterbilt logo, 1953"
+    }
+  ],
+  "facts": {}
+}

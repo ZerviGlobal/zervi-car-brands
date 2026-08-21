@@ -1,0 +1,23 @@
+{
+  "slug": "noble-logo",
+  "name": "Noble",
+  "h1": "Noble Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Noble Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/noble-logo-1999.png",
+      "localPath": "/images/car-logos/noble-logo-1999.png",
+      "alt": "Noble logo, 1999"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "ram-logo",
+  "name": "Ram",
+  "h1": "Ram Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ram Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1914"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    },
+    {
+      "tag": "h3",
+      "text": "2024"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ram-logo-1914.png",
+      "localPath": "/images/car-logos/ram-logo-1914.png",
+      "alt": "Ram logo, 1914"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ram-logo-1969.png",
+      "localPath": "/images/car-logos/ram-logo-1969.png",
+      "alt": "Ram logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ram-logo-1993.png",
+      "localPath": "/images/car-logos/ram-logo-1993.png",
+      "alt": "Ram logo, 1993"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ram-logo-2009.png",
+      "localPath": "/images/car-logos/ram-logo-2009.png",
+      "alt": "Ram logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ram-logo-2023.png",
+      "localPath": "/images/car-logos/ram-logo-2023.png",
+      "alt": "Ram logo, 2023"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ram-logo-2024.png",
+      "localPath": "/images/car-logos/ram-logo-2024.png",
+      "alt": "Ram logo, 2024"
+    }
+  ],
+  "facts": {}
+}

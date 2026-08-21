@@ -1,0 +1,41 @@
+{
+  "slug": "perodua-logo",
+  "name": "Perodua",
+  "h1": "Perodua Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Perodua Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/perodua-logo-1993.png",
+      "localPath": "/images/car-logos/perodua-logo-1993.png",
+      "alt": "Perodua logo, 1993"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/perodua-logo-1998.png",
+      "localPath": "/images/car-logos/perodua-logo-1998.png",
+      "alt": "Perodua logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/perodua-logo-2008.png",
+      "localPath": "/images/car-logos/perodua-logo-2008.png",
+      "alt": "Perodua logo, 2008"
+    }
+  ],
+  "facts": {}
+}

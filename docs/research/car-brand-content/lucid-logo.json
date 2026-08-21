@@ -1,0 +1,23 @@
+{
+  "slug": "lucid-logo",
+  "name": "Lucid",
+  "h1": "Lucid Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lucid Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lucid-logo-2016.png",
+      "localPath": "/images/car-logos/lucid-logo-2016.png",
+      "alt": "Lucid logo, 2016"
+    }
+  ],
+  "facts": {}
+}

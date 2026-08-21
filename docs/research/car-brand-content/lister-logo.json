@@ -1,0 +1,41 @@
+{
+  "slug": "lister-logo",
+  "name": "Lister",
+  "h1": "Lister Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lister Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lister-logo-1954.png",
+      "localPath": "/images/car-logos/lister-logo-1954.png",
+      "alt": "Lister logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lister-logo-2013.png",
+      "localPath": "/images/car-logos/lister-logo-2013.png",
+      "alt": "Lister logo, 2013"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lister-logo-2018.png",
+      "localPath": "/images/car-logos/lister-logo-2018.png",
+      "alt": "Lister logo, 2018"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "laraki-logo",
+  "name": "Laraki",
+  "h1": "Laraki Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Laraki Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/laraki-logo-1999.png",
+      "localPath": "/images/car-logos/laraki-logo-1999.png",
+      "alt": "Laraki logo, 1999"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "luxgen-logo",
+  "name": "Luxgen",
+  "h1": "Luxgen Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Luxgen Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/luxgen-logo-2009.png",
+      "localPath": "/images/car-logos/luxgen-logo-2009.png",
+      "alt": "Luxgen logo, 2009"
+    }
+  ],
+  "facts": {}
+}

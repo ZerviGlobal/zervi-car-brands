@@ -1,0 +1,77 @@
+{
+  "slug": "mg-logo",
+  "name": "MG",
+  "h1": "MG Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "MG Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1924"
+    },
+    {
+      "tag": "h3",
+      "text": "1927"
+    },
+    {
+      "tag": "h3",
+      "text": "1952"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-1924.png",
+      "localPath": "/images/car-logos/mg-logo-1924.png",
+      "alt": "MG logo, 1924"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-1927.png",
+      "localPath": "/images/car-logos/mg-logo-1927.png",
+      "alt": "MG logo, 1927"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-1952.png",
+      "localPath": "/images/car-logos/mg-logo-1952.png",
+      "alt": "MG logo, 1952"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-1962.png",
+      "localPath": "/images/car-logos/mg-logo-1962.png",
+      "alt": "MG logo, 1962"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-1990.png",
+      "localPath": "/images/car-logos/mg-logo-1990.png",
+      "alt": "MG logo, 1990"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-2010.png",
+      "localPath": "/images/car-logos/mg-logo-2010.png",
+      "alt": "MG logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mg-logo-2021.png",
+      "localPath": "/images/car-logos/mg-logo-2021.png",
+      "alt": "MG logo, 2021"
+    }
+  ],
+  "facts": {}
+}

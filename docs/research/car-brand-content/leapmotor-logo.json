@@ -1,0 +1,23 @@
+{
+  "slug": "leapmotor-logo",
+  "name": "Leapmotor",
+  "h1": "Leapmotor Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Leapmotor Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/leapmotor-logo-2015.png",
+      "localPath": "/images/car-logos/leapmotor-logo-2015.png",
+      "alt": "Leapmotor logo, 2015"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "merkur-logo",
+  "name": "Merkur",
+  "h1": "Merkur Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Merkur Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/merkur-logo-1985.png",
+      "localPath": "/images/car-logos/merkur-logo-1985.png",
+      "alt": "Merkur logo, 1985"
+    }
+  ],
+  "facts": {}
+}

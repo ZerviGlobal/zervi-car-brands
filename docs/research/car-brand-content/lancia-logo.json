@@ -1,0 +1,122 @@
+{
+  "slug": "lancia-logo",
+  "name": "Lancia",
+  "h1": "Lancia Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lancia Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1906"
+    },
+    {
+      "tag": "h3",
+      "text": "1907"
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "h3",
+      "text": "1929"
+    },
+    {
+      "tag": "h3",
+      "text": "1950"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    },
+    {
+      "tag": "h3",
+      "text": "1972"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1981"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1906.png",
+      "localPath": "/images/car-logos/lancia-logo-1906.png",
+      "alt": "Lancia logo, 1906"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1907.png",
+      "localPath": "/images/car-logos/lancia-logo-1907.png",
+      "alt": "Lancia logo, 1907"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1911.png",
+      "localPath": "/images/car-logos/lancia-logo-1911.png",
+      "alt": "Lancia logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1929.png",
+      "localPath": "/images/car-logos/lancia-logo-1929.png",
+      "alt": "Lancia logo, 1929"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1950.png",
+      "localPath": "/images/car-logos/lancia-logo-1950.png",
+      "alt": "Lancia logo, 1950"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1957.png",
+      "localPath": "/images/car-logos/lancia-logo-1957.png",
+      "alt": "Lancia logo, 1957"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1972.png",
+      "localPath": "/images/car-logos/lancia-logo-1972.png",
+      "alt": "Lancia logo, 1972"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1974.png",
+      "localPath": "/images/car-logos/lancia-logo-1974.png",
+      "alt": "Lancia logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-1981.png",
+      "localPath": "/images/car-logos/lancia-logo-1981.png",
+      "alt": "Lancia logo, 1981"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-2001.png",
+      "localPath": "/images/car-logos/lancia-logo-2001.png",
+      "alt": "Lancia logo, 2001"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-2007.png",
+      "localPath": "/images/car-logos/lancia-logo-2007.png",
+      "alt": "Lancia logo, 2007"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lancia-logo-2022.png",
+      "localPath": "/images/car-logos/lancia-logo-2022.png",
+      "alt": "Lancia logo, 2022"
+    }
+  ],
+  "facts": {}
+}

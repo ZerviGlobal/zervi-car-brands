@@ -1,0 +1,23 @@
+{
+  "slug": "spirra-logo",
+  "name": "Spirra",
+  "h1": "Spirra Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Spirra Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/spirra-logo-2007.png",
+      "localPath": "/images/car-logos/spirra-logo-2007.png",
+      "alt": "Spirra logo, 2007"
+    }
+  ],
+  "facts": {}
+}

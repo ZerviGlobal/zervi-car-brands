@@ -1,0 +1,23 @@
+{
+  "slug": "hsv-logo",
+  "name": "HSV",
+  "h1": "HSV Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "HSV Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1987"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hsv-logo-1987.png",
+      "localPath": "/images/car-logos/hsv-logo-1987.png",
+      "alt": "HSV logo, 1987"
+    }
+  ],
+  "facts": {}
+}

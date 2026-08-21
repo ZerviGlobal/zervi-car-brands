@@ -1,0 +1,23 @@
+{
+  "slug": "nissan-gt-r-logo",
+  "name": "Nissan GT-R",
+  "h1": "Nissan GT-R Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Nissan GT-R Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-gt-r-logo-2007.png",
+      "localPath": "/images/car-logos/nissan-gt-r-logo-2007.png",
+      "alt": "Nissan GT-R logo, 2007"
+    }
+  ],
+  "facts": {}
+}

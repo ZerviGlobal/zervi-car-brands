@@ -1,0 +1,23 @@
+{
+  "slug": "hudson-logo",
+  "name": "Hudson",
+  "h1": "Hudson Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hudson Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hudson-logo-1909.png",
+      "localPath": "/images/car-logos/hudson-logo-1909.png",
+      "alt": "Hudson logo, 1909"
+    }
+  ],
+  "facts": {}
+}

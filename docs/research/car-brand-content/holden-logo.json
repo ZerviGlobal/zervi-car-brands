@@ -1,0 +1,68 @@
+{
+  "slug": "holden-logo",
+  "name": "Holden",
+  "h1": "Holden Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Holden Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/holden-logo-1928.png",
+      "localPath": "/images/car-logos/holden-logo-1928.png",
+      "alt": "Holden logo, 1928"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/holden-logo-1969.png",
+      "localPath": "/images/car-logos/holden-logo-1969.png",
+      "alt": "Holden logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/holden-logo-1994.png",
+      "localPath": "/images/car-logos/holden-logo-1994.png",
+      "alt": "Holden logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/holden-logo-2014.png",
+      "localPath": "/images/car-logos/holden-logo-2014.png",
+      "alt": "Holden logo, 2014"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/holden-logo-2016.png",
+      "localPath": "/images/car-logos/holden-logo-2016.png",
+      "alt": "Holden logo, 2016"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/holden-logo-2019.png",
+      "localPath": "/images/car-logos/holden-logo-2019.png",
+      "alt": "Holden logo, 2019"
+    }
+  ],
+  "facts": {}
+}

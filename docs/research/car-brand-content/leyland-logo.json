@@ -1,0 +1,59 @@
+{
+  "slug": "leyland-logo",
+  "name": "Leyland",
+  "h1": "Leyland Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Leyland Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1896"
+    },
+    {
+      "tag": "h3",
+      "text": "1952"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    },
+    {
+      "tag": "h3",
+      "text": "1968"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/leyland-logo-1896.png",
+      "localPath": "/images/car-logos/leyland-logo-1896.png",
+      "alt": "Leyland logo, 1896"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/leyland-logo-1952.png",
+      "localPath": "/images/car-logos/leyland-logo-1952.png",
+      "alt": "Leyland logo, 1952"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/leyland-logo-1962.png",
+      "localPath": "/images/car-logos/leyland-logo-1962.png",
+      "alt": "Leyland logo, 1962"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/leyland-logo-1968.png",
+      "localPath": "/images/car-logos/leyland-logo-1968.png",
+      "alt": "Leyland logo, 1968"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/leyland-logo-1986.png",
+      "localPath": "/images/car-logos/leyland-logo-1986.png",
+      "alt": "Leyland logo, 1986"
+    }
+  ],
+  "facts": {}
+}

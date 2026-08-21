@@ -1,0 +1,32 @@
+{
+  "slug": "setra-logo",
+  "name": "Setra",
+  "h1": "Setra Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Setra Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1950s"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/setra-logo-1950s.png",
+      "localPath": "/images/car-logos/setra-logo-1950s.png",
+      "alt": "Setra logo, 1950s"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/setra-logo-2010.png",
+      "localPath": "/images/car-logos/setra-logo-2010.png",
+      "alt": "Setra logo, 2010"
+    }
+  ],
+  "facts": {}
+}

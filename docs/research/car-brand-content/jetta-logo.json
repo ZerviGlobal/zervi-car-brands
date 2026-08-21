@@ -1,0 +1,23 @@
+{
+  "slug": "jetta-logo",
+  "name": "Jetta",
+  "h1": "Jetta Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Jetta Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/jetta-logo-2019.png",
+      "localPath": "/images/car-logos/jetta-logo-2019.png",
+      "alt": "Jetta logo, 2019"
+    }
+  ],
+  "facts": {}
+}

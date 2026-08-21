@@ -1,0 +1,23 @@
+{
+  "slug": "scion-logo",
+  "name": "Scion",
+  "h1": "Scion Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Scion Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/scion-logo-2003.png",
+      "localPath": "/images/car-logos/scion-logo-2003.png",
+      "alt": "Scion logo, 2003"
+    }
+  ],
+  "facts": {}
+}

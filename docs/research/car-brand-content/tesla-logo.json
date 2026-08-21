@@ -1,0 +1,140 @@
+{
+  "slug": "tesla-logo",
+  "name": "Tesla",
+  "h1": "Tesla Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "What Does Tesla’s Logo Really Mean?"
+    },
+    {
+      "tag": "p",
+      "text": "Initially, many people saw the Tesla logo as simply a stylized “T,” without realizing there may be a deeper meaning behind it."
+    },
+    {
+      "tag": "p",
+      "text": "Over time, there have also been some interesting theories floating around the web about what the “T” symbol might represent, including the idea that it resembles a cat’s nose. While those guesses have made the logo even more memorable, they are not the most widely accepted explanation."
+    },
+    {
+      "tag": "p",
+      "text": "In 2017, Tesla CEO Elon Musk offered the most plausible explanation of the meaning behind the company’s logo. In response to a question on Twitter, Musk said that the logo is intended to represent the cross-section of an electric motor. According to that explanation, the main vertical part of the “T” represents one of the poles that protrude from the rotor, while the top bar represents a piece of the stator."
+    },
+    {
+      "tag": "p",
+      "text": "When the Tesla logo is repeated in a circular arrangement, with the top of each “T” facing outward, it can resemble an electric motor’s cross-section. So while the logo may look like a simple, sleek “T” at first glance, its design is closely tied to Tesla’s electric engineering roots."
+    },
+    {
+      "tag": "h3",
+      "text": "Brand Profile"
+    },
+    {
+      "tag": "h2",
+      "text": "Where Did Tesla Get Its Name?"
+    },
+    {
+      "tag": "p",
+      "text": "The name Tesla came from co-founder Martin Eberhard, who wanted to honor the Serbian-American inventor Nikola Tesla. A big fan of his work, Eberhard thought the name fit perfectly with the company’s focus on electric vehicles and sustainable energy."
+    },
+    {
+      "tag": "p",
+      "text": "But here’s the kicker: Tesla didn’t actually own the rights to its own name at first. A man in Sacramento held the trademark and initially turned down Elon Musk’s $75,000 offer. After some persistent negotiations, a deal was finally struck, and the name was secured for that original price tag."
+    },
+    {
+      "tag": "p",
+      "text": "Today, Tesla is more than just a brand; it’s a global symbol of innovation. In hindsight, that $75,000 investment was an absolute steal."
+    },
+    {
+      "tag": "h2",
+      "text": "Tesla Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2004"
+    },
+    {
+      "tag": "p",
+      "text": "The original Tesla logo kicked off in 2004, designed by Prado Studio and RO Studio. RO Studio is an American firm that's been tight with Elon for years."
+    },
+    {
+      "tag": "p",
+      "text": "That first version had two parts: the Tesla name and a shield badge with a stylized \"T\" in the middle. You'd see it slapped right on the hood of the original Roadster and even on the steering wheel."
+    },
+    {
+      "tag": "p",
+      "text": "But eventually, Tesla decided to strip it back and ditched the shield altogether. Now it's just that sleek, standalone \"T\" — clean, minimal, and instantly recognizable."
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    },
+    {
+      "tag": "p",
+      "text": "RO Studio came back in 2007 to tweak the Tesla logo, making it look sharper and more versatile for all kinds of marketing and products."
+    },
+    {
+      "tag": "p",
+      "text": "Since then, it’s appeared on every Tesla model: the Model S, Model X, Model 3, Model Y, and the Cybertruck. You’ll also find it across the brand’s website, marketing materials, and official merchandise."
+    },
+    {
+      "tag": "h3",
+      "text": "The Bottom Line"
+    },
+    {
+      "tag": "p",
+      "text": "All in all, Tesla’s logo has only gone through one major change since the company was founded in 2003: from the original shield design to the sleek “T” we know today."
+    },
+    {
+      "tag": "p",
+      "text": "As for when the next big redesign might arrive? We’ll just have to wait and see."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2004.png",
+      "localPath": "/images/car-logos/tesla-logo-2004.png",
+      "alt": "Tesla logo, 2004"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2004-full.png",
+      "localPath": "/images/car-logos/tesla-logo-2004-full.png",
+      "alt": "Tesla logo, 2004"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2004-black.png",
+      "localPath": "/images/car-logos/tesla-logo-2004-black.png",
+      "alt": "Tesla logo, 2004"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2004-t.png",
+      "localPath": "/images/car-logos/tesla-logo-2004-t.png",
+      "alt": "Tesla logo, 2004"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2007.png",
+      "localPath": "/images/car-logos/tesla-logo-2007.png",
+      "alt": "Tesla logo, 2007"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2007-full.png",
+      "localPath": "/images/car-logos/tesla-logo-2007-full.png",
+      "alt": "Tesla logo, 2007"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2007-black.png",
+      "localPath": "/images/car-logos/tesla-logo-2007-black.png",
+      "alt": "Tesla logo, 2007"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tesla-logo-2007-wordmark.png",
+      "localPath": "/images/car-logos/tesla-logo-2007-wordmark.png",
+      "alt": "Tesla logo, 2007"
+    }
+  ],
+  "facts": {
+    "Founded": "July 1, 2003",
+    "Founders": "Elon Musk, Martin Eberhard, Marc Tarpenning",
+    "Headquarters": "Austin, Texas, U.S.",
+    "Key Models": "Model Y, Model 3, Model S, Model X",
+    "Official Site": "www.tesla.com"
+  }
+}

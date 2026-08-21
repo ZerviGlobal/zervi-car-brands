@@ -1,0 +1,23 @@
+{
+  "slug": "suffolk-logo",
+  "name": "Suffolk",
+  "h1": "Suffolk Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Suffolk Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "Old"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/suffolk-logo-old.png",
+      "localPath": "/images/car-logos/suffolk-logo-old.png",
+      "alt": "Suffolk logo, Old"
+    }
+  ],
+  "facts": {}
+}

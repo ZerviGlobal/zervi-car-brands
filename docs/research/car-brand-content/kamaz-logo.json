@@ -1,0 +1,50 @@
+{
+  "slug": "kamaz-logo",
+  "name": "Kamaz",
+  "h1": "Kamaz Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Kamaz Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/kamaz-logo-1969.png",
+      "localPath": "/images/car-logos/kamaz-logo-1969.png",
+      "alt": "Kamaz logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kamaz-logo-1970.png",
+      "localPath": "/images/car-logos/kamaz-logo-1970.png",
+      "alt": "Kamaz logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kamaz-logo-1974.png",
+      "localPath": "/images/car-logos/kamaz-logo-1974.png",
+      "alt": "Kamaz logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kamaz-logo-1988.png",
+      "localPath": "/images/car-logos/kamaz-logo-1988.png",
+      "alt": "Kamaz logo, 1988"
+    }
+  ],
+  "facts": {}
+}

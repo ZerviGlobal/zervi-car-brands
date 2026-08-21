@@ -1,0 +1,32 @@
+{
+  "slug": "roewe-logo",
+  "name": "Roewe",
+  "h1": "Roewe Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Roewe Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2006"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/roewe-logo-2006.png",
+      "localPath": "/images/car-logos/roewe-logo-2006.png",
+      "alt": "Roewe logo, 2006"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/roewe-logo-2020.png",
+      "localPath": "/images/car-logos/roewe-logo-2020.png",
+      "alt": "Roewe logo, 2020"
+    }
+  ],
+  "facts": {}
+}

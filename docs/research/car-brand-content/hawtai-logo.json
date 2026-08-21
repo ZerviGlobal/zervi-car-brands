@@ -1,0 +1,23 @@
+{
+  "slug": "hawtai-logo",
+  "name": "Hawtai",
+  "h1": "Hawtai Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hawtai Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hawtai-logo-2000.png",
+      "localPath": "/images/car-logos/hawtai-logo-2000.png",
+      "alt": "Hawtai logo, 2000"
+    }
+  ],
+  "facts": {}
+}

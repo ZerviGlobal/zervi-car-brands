@@ -1,0 +1,41 @@
+{
+  "slug": "mercury-logo",
+  "name": "Mercury",
+  "h1": "Mercury Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mercury Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1938"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mercury-logo-1938.png",
+      "localPath": "/images/car-logos/mercury-logo-1938.png",
+      "alt": "Mercury logo, 1938"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercury-logo-1984.png",
+      "localPath": "/images/car-logos/mercury-logo-1984.png",
+      "alt": "Mercury logo, 1984"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercury-logo-2003.png",
+      "localPath": "/images/car-logos/mercury-logo-2003.png",
+      "alt": "Mercury logo, 2003"
+    }
+  ],
+  "facts": {}
+}

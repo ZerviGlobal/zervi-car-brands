@@ -1,0 +1,68 @@
+{
+  "slug": "mini-logo",
+  "name": "Mini",
+  "h1": "Mini Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mini Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    },
+    {
+      "tag": "h3",
+      "text": "1968"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mini-logo-1959.png",
+      "localPath": "/images/car-logos/mini-logo-1959.png",
+      "alt": "Mini logo, 1959"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mini-logo-1962.png",
+      "localPath": "/images/car-logos/mini-logo-1962.png",
+      "alt": "Mini logo, 1962"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mini-logo-1968.png",
+      "localPath": "/images/car-logos/mini-logo-1968.png",
+      "alt": "Mini logo, 1968"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mini-logo-1969.png",
+      "localPath": "/images/car-logos/mini-logo-1969.png",
+      "alt": "Mini logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mini-logo-2001.png",
+      "localPath": "/images/car-logos/mini-logo-2001.png",
+      "alt": "Mini logo, 2001"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mini-logo-2018.png",
+      "localPath": "/images/car-logos/mini-logo-2018.png",
+      "alt": "Mini logo, 2018"
+    }
+  ],
+  "facts": {}
+}

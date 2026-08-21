@@ -1,0 +1,50 @@
+{
+  "slug": "renault-korea-logo",
+  "name": "Renault Korea",
+  "h1": "Renault Korea Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Renault Korea Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/renault-korea-logo-1994.png",
+      "localPath": "/images/car-logos/renault-korea-logo-1994.png",
+      "alt": "Renault Korea logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/renault-korea-logo-2000.png",
+      "localPath": "/images/car-logos/renault-korea-logo-2000.png",
+      "alt": "Renault Korea logo, 2000"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/renault-korea-logo-2013.png",
+      "localPath": "/images/car-logos/renault-korea-logo-2013.png",
+      "alt": "Renault Korea logo, 2013"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/renault-korea-logo-2022.png",
+      "localPath": "/images/car-logos/renault-korea-logo-2022.png",
+      "alt": "Renault Korea logo, 2022"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hennessey-logo",
+  "name": "Hennessey",
+  "h1": "Hennessey Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hennessey Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1991"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hennessey-logo-1991.png",
+      "localPath": "/images/car-logos/hennessey-logo-1991.png",
+      "alt": "Hennessey logo, 1991"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hennessey-logo-2021.png",
+      "localPath": "/images/car-logos/hennessey-logo-2021.png",
+      "alt": "Hennessey logo, 2021"
+    }
+  ],
+  "facts": {}
+}

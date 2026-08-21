@@ -1,0 +1,28 @@
+{
+  "slug": "lexus-logo",
+  "name": "Lexus",
+  "h1": "Lexus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lexus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lexus-logo-1989.png",
+      "localPath": "/images/car-logos/lexus-logo-1989.png",
+      "alt": "Lexus logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lexus-logo-1989-black.png",
+      "localPath": "/images/car-logos/lexus-logo-1989-black.png",
+      "alt": "Lexus logo, 1989"
+    }
+  ],
+  "facts": {}
+}

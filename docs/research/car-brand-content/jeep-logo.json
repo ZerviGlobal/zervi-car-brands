@@ -1,0 +1,77 @@
+{
+  "slug": "jeep-logo",
+  "name": "Jeep",
+  "h1": "Jeep Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Jeep Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1941"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1987"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1941.png",
+      "localPath": "/images/car-logos/jeep-logo-1941.png",
+      "alt": "Jeep logo, 1941"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1945.png",
+      "localPath": "/images/car-logos/jeep-logo-1945.png",
+      "alt": "Jeep logo, 1945"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1963.png",
+      "localPath": "/images/car-logos/jeep-logo-1963.png",
+      "alt": "Jeep logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1970.1.png",
+      "localPath": "/images/car-logos/jeep-logo-1970.1.png",
+      "alt": "Jeep logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1970.2.png",
+      "localPath": "/images/car-logos/jeep-logo-1970.2.png",
+      "alt": "Jeep logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1987.png",
+      "localPath": "/images/car-logos/jeep-logo-1987.png",
+      "alt": "Jeep logo, 1987"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jeep-logo-1993.png",
+      "localPath": "/images/car-logos/jeep-logo-1993.png",
+      "alt": "Jeep logo, 1993"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "polestar-logo",
+  "name": "Polestar",
+  "h1": "Polestar Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Polestar Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/polestar-logo-1996.png",
+      "localPath": "/images/car-logos/polestar-logo-1996.png",
+      "alt": "Polestar logo, 1996"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/polestar-logo-2017.png",
+      "localPath": "/images/car-logos/polestar-logo-2017.png",
+      "alt": "Polestar logo, 2017"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/polestar-logo-2020.png",
+      "localPath": "/images/car-logos/polestar-logo-2020.png",
+      "alt": "Polestar logo, 2020"
+    }
+  ],
+  "facts": {}
+}

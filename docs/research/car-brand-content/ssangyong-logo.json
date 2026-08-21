@@ -1,0 +1,86 @@
+{
+  "slug": "ssangyong-logo",
+  "name": "SsangYong",
+  "h1": "SsangYong Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "SsangYong Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1979"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1954.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1954.png",
+      "alt": "SsangYong logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1963.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1963.png",
+      "alt": "SsangYong logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1979.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1979.png",
+      "alt": "SsangYong logo, 1979"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1988.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1988.png",
+      "alt": "SsangYong logo, 1988"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1989.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1989.png",
+      "alt": "SsangYong logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1992.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1992.png",
+      "alt": "SsangYong logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-1997.png",
+      "localPath": "/images/car-logos/ssangyong-logo-1997.png",
+      "alt": "SsangYong logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ssangyong-logo-2001.png",
+      "localPath": "/images/car-logos/ssangyong-logo-2001.png",
+      "alt": "SsangYong logo, 2001"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rimac-logo",
+  "name": "Rimac",
+  "h1": "Rimac Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Rimac Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/rimac-logo-2009.png",
+      "localPath": "/images/car-logos/rimac-logo-2009.png",
+      "alt": "Rimac logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/rimac-logo-2016.png",
+      "localPath": "/images/car-logos/rimac-logo-2016.png",
+      "alt": "Rimac logo, 2016"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/rimac-logo-2018.png",
+      "localPath": "/images/car-logos/rimac-logo-2018.png",
+      "alt": "Rimac logo, 2018"
+    }
+  ],
+  "facts": {}
+}

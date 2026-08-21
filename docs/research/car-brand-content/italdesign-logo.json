@@ -1,0 +1,23 @@
+{
+  "slug": "italdesign-logo",
+  "name": "Italdesign",
+  "h1": "Italdesign Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Italdesign Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/italdesign-logo-2017.png",
+      "localPath": "/images/car-logos/italdesign-logo-2017.png",
+      "alt": "Italdesign logo, 2017"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "riley-logo",
+  "name": "Riley",
+  "h1": "Riley Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Riley Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1896"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/riley-logo-1896.png",
+      "localPath": "/images/car-logos/riley-logo-1896.png",
+      "alt": "Riley logo, 1896"
+    }
+  ],
+  "facts": {}
+}

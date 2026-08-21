@@ -1,0 +1,59 @@
+{
+  "slug": "innocenti-logo",
+  "name": "Innocenti",
+  "h1": "Innocenti Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Innocenti Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1947"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1966"
+    },
+    {
+      "tag": "h3",
+      "text": "1972"
+    },
+    {
+      "tag": "h3",
+      "text": "1976"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/innocenti-logo-1947.png",
+      "localPath": "/images/car-logos/innocenti-logo-1947.png",
+      "alt": "Innocenti logo, 1947"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/innocenti-logo-1963.png",
+      "localPath": "/images/car-logos/innocenti-logo-1963.png",
+      "alt": "Innocenti logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/innocenti-logo-1966.png",
+      "localPath": "/images/car-logos/innocenti-logo-1966.png",
+      "alt": "Innocenti logo, 1966"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/innocenti-logo-1972.png",
+      "localPath": "/images/car-logos/innocenti-logo-1972.png",
+      "alt": "Innocenti logo, 1972"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/innocenti-logo-1976.png",
+      "localPath": "/images/car-logos/innocenti-logo-1976.png",
+      "alt": "Innocenti logo, 1976"
+    }
+  ],
+  "facts": {}
+}

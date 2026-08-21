@@ -1,0 +1,23 @@
+{
+  "slug": "hongyan-logo",
+  "name": "Hongyan",
+  "h1": "Hongyan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hongyan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hongyan-logo-2020.png",
+      "localPath": "/images/car-logos/hongyan-logo-2020.png",
+      "alt": "Hongyan logo, 2020"
+    }
+  ],
+  "facts": {}
+}

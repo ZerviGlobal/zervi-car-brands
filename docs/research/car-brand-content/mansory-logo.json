@@ -1,0 +1,23 @@
+{
+  "slug": "mansory-logo",
+  "name": "Mansory",
+  "h1": "Mansory Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mansory Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mansory-logo-1989.png",
+      "localPath": "/images/car-logos/mansory-logo-1989.png",
+      "alt": "Mansory logo, 1989"
+    }
+  ],
+  "facts": {}
+}

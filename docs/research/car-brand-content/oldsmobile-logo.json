@@ -1,0 +1,68 @@
+{
+  "slug": "oldsmobile-logo",
+  "name": "Oldsmobile",
+  "h1": "Oldsmobile Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Oldsmobile Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1897"
+    },
+    {
+      "tag": "h3",
+      "text": "1919"
+    },
+    {
+      "tag": "h3",
+      "text": "1940"
+    },
+    {
+      "tag": "h3",
+      "text": "1960"
+    },
+    {
+      "tag": "h3",
+      "text": "1981"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/oldsmobile-logo-1897.png",
+      "localPath": "/images/car-logos/oldsmobile-logo-1897.png",
+      "alt": "Oldsmobile logo, 1897"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/oldsmobile-logo-1919.png",
+      "localPath": "/images/car-logos/oldsmobile-logo-1919.png",
+      "alt": "Oldsmobile logo, 1919"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/oldsmobile-logo-1940.png",
+      "localPath": "/images/car-logos/oldsmobile-logo-1940.png",
+      "alt": "Oldsmobile logo, 1940"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/oldsmobile-logo-1960.png",
+      "localPath": "/images/car-logos/oldsmobile-logo-1960.png",
+      "alt": "Oldsmobile logo, 1960"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/oldsmobile-logo-1981.png",
+      "localPath": "/images/car-logos/oldsmobile-logo-1981.png",
+      "alt": "Oldsmobile logo, 1981"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/oldsmobile-logo-1996.png",
+      "localPath": "/images/car-logos/oldsmobile-logo-1996.png",
+      "alt": "Oldsmobile logo, 1996"
+    }
+  ],
+  "facts": {}
+}

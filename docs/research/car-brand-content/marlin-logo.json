@@ -1,0 +1,23 @@
+{
+  "slug": "marlin-logo",
+  "name": "Marlin",
+  "h1": "Marlin Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Marlin Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1979"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/marlin-logo-1979.png",
+      "localPath": "/images/car-logos/marlin-logo-1979.png",
+      "alt": "Marlin logo, 1979"
+    }
+  ],
+  "facts": {}
+}

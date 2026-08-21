@@ -1,0 +1,23 @@
+{
+  "slug": "jac-logo",
+  "name": "JAC",
+  "h1": "JAC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "JAC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/jac-logo-2016.png",
+      "localPath": "/images/car-logos/jac-logo-2016.png",
+      "alt": "JAC logo, 2016"
+    }
+  ],
+  "facts": {}
+}

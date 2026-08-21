@@ -1,0 +1,32 @@
+{
+  "slug": "pegaso-logo",
+  "name": "Pegaso",
+  "h1": "Pegaso Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Pegaso Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1946"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/pegaso-logo-1946.png",
+      "localPath": "/images/car-logos/pegaso-logo-1946.png",
+      "alt": "Pegaso logo, 1946"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/pegaso-logo-1990.png",
+      "localPath": "/images/car-logos/pegaso-logo-1990.png",
+      "alt": "Pegaso logo, 1990"
+    }
+  ],
+  "facts": {}
+}

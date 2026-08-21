@@ -1,0 +1,23 @@
+{
+  "slug": "rezvani-logo",
+  "name": "Rezvani",
+  "h1": "Rezvani Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Rezvani Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/rezvani-logo-2014.png",
+      "localPath": "/images/car-logos/rezvani-logo-2014.png",
+      "alt": "Rezvani logo, 2014"
+    }
+  ],
+  "facts": {}
+}

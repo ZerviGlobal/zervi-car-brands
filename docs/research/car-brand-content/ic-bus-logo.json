@@ -1,0 +1,23 @@
+{
+  "slug": "ic-bus-logo",
+  "name": "IC Bus",
+  "h1": "IC Bus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "IC Bus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ic-bus-logo-1996.png",
+      "localPath": "/images/car-logos/ic-bus-logo-1996.png",
+      "alt": "IC Bus logo, 1996"
+    }
+  ],
+  "facts": {}
+}

@@ -13,7 +13,7 @@ const figtree = Figtree({
 
 export const metadata: Metadata = {
   title: {
-    default: "Zervi Car Brands — Car Logos & Brand Stories",
+    default: "Car Brand Logos & Names (395)",
     template: "%s | Zervi Car Brands",
   },
   description:

@@ -1,0 +1,68 @@
+{
+  "slug": "lotus-logo",
+  "name": "Lotus",
+  "h1": "Lotus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lotus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1948"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lotus-logo-1948.png",
+      "localPath": "/images/car-logos/lotus-logo-1948.png",
+      "alt": "Lotus logo, 1948"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lotus-logo-1984.png",
+      "localPath": "/images/car-logos/lotus-logo-1984.png",
+      "alt": "Lotus logo, 1984"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lotus-logo-1986.png",
+      "localPath": "/images/car-logos/lotus-logo-1986.png",
+      "alt": "Lotus logo, 1986"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lotus-logo-1989.png",
+      "localPath": "/images/car-logos/lotus-logo-1989.png",
+      "alt": "Lotus logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lotus-logo-2010.png",
+      "localPath": "/images/car-logos/lotus-logo-2010.png",
+      "alt": "Lotus logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lotus-logo-2019.png",
+      "localPath": "/images/car-logos/lotus-logo-2019.png",
+      "alt": "Lotus logo, 2019"
+    }
+  ],
+  "facts": {}
+}

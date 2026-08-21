@@ -1,0 +1,23 @@
+{
+  "slug": "hupmobile-logo",
+  "name": "Hupmobile",
+  "h1": "Hupmobile Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hupmobile Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hupmobile-logo-1909.png",
+      "localPath": "/images/car-logos/hupmobile-logo-1909.png",
+      "alt": "Hupmobile logo, 1909"
+    }
+  ],
+  "facts": {}
+}

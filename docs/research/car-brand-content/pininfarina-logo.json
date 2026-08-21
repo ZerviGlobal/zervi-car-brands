@@ -1,0 +1,50 @@
+{
+  "slug": "pininfarina-logo",
+  "name": "Pininfarina",
+  "h1": "Pininfarina Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Pininfarina Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1906"
+    },
+    {
+      "tag": "h3",
+      "text": "1930"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/pininfarina-logo-1906.png",
+      "localPath": "/images/car-logos/pininfarina-logo-1906.png",
+      "alt": "Pininfarina logo, 1906"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/pininfarina-logo-1930.png",
+      "localPath": "/images/car-logos/pininfarina-logo-1930.png",
+      "alt": "Pininfarina logo, 1930"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/pininfarina-logo-2018.png",
+      "localPath": "/images/car-logos/pininfarina-logo-2018.png",
+      "alt": "Pininfarina logo, 2018"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/pininfarina-logo-2020.png",
+      "localPath": "/images/car-logos/pininfarina-logo-2020.png",
+      "alt": "Pininfarina logo, 2020"
+    }
+  ],
+  "facts": {}
+}

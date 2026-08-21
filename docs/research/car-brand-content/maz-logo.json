@@ -1,0 +1,41 @@
+{
+  "slug": "maz-logo",
+  "name": "MAZ",
+  "h1": "MAZ Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "MAZ Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1951"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1976"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/maz-logo-1951.png",
+      "localPath": "/images/car-logos/maz-logo-1951.png",
+      "alt": "MAZ logo, 1951"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/maz-logo-1963.png",
+      "localPath": "/images/car-logos/maz-logo-1963.png",
+      "alt": "MAZ logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/maz-logo-1976.png",
+      "localPath": "/images/car-logos/maz-logo-1976.png",
+      "alt": "MAZ logo, 1976"
+    }
+  ],
+  "facts": {}
+}

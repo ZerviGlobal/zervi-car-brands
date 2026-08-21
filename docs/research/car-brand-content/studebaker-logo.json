@@ -1,0 +1,50 @@
+{
+  "slug": "studebaker-logo",
+  "name": "Studebaker",
+  "h1": "Studebaker Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Studebaker Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1902"
+    },
+    {
+      "tag": "h3",
+      "text": "1912"
+    },
+    {
+      "tag": "h3",
+      "text": "1935"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/studebaker-logo-1902.png",
+      "localPath": "/images/car-logos/studebaker-logo-1902.png",
+      "alt": "Studebaker logo, 1902"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/studebaker-logo-1912.png",
+      "localPath": "/images/car-logos/studebaker-logo-1912.png",
+      "alt": "Studebaker logo, 1912"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/studebaker-logo-1935.png",
+      "localPath": "/images/car-logos/studebaker-logo-1935.png",
+      "alt": "Studebaker logo, 1935"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/studebaker-logo-1963.png",
+      "localPath": "/images/car-logos/studebaker-logo-1963.png",
+      "alt": "Studebaker logo, 1963"
+    }
+  ],
+  "facts": {}
+}

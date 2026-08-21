@@ -1,0 +1,23 @@
+{
+  "slug": "qoros-logo",
+  "name": "Qoros",
+  "h1": "Qoros Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Qoros Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/qoros-logo-2007.png",
+      "localPath": "/images/car-logos/qoros-logo-2007.png",
+      "alt": "Qoros logo, 2007"
+    }
+  ],
+  "facts": {}
+}

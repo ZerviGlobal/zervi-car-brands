@@ -1,0 +1,32 @@
+{
+  "slug": "spyker-logo",
+  "name": "Spyker",
+  "h1": "Spyker Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Spyker Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1880"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/spyker-logo-1880.png",
+      "localPath": "/images/car-logos/spyker-logo-1880.png",
+      "alt": "Spyker logo, 1880"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/spyker-logo-1999.png",
+      "localPath": "/images/car-logos/spyker-logo-1999.png",
+      "alt": "Spyker logo, 1999"
+    }
+  ],
+  "facts": {}
+}

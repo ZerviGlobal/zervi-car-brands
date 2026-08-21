@@ -1,0 +1,32 @@
+{
+  "slug": "mercedes-amg-logo",
+  "name": "Mercedes-AMG",
+  "h1": "Mercedes-AMG Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mercedes-AMG Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-amg-logo-1990.png",
+      "localPath": "/images/car-logos/mercedes-amg-logo-1990.png",
+      "alt": "Mercedes-AMG logo, 1990"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-amg-logo-2010.png",
+      "localPath": "/images/car-logos/mercedes-amg-logo-2010.png",
+      "alt": "Mercedes-AMG logo, 2010"
+    }
+  ],
+  "facts": {}
+}

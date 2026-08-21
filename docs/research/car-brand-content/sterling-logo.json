@@ -1,0 +1,32 @@
+{
+  "slug": "sterling-logo",
+  "name": "Sterling",
+  "h1": "Sterling Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Sterling Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/sterling-logo-1953.png",
+      "localPath": "/images/car-logos/sterling-logo-1953.png",
+      "alt": "Sterling logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/sterling-logo-1997.png",
+      "localPath": "/images/car-logos/sterling-logo-1997.png",
+      "alt": "Sterling logo, 1997"
+    }
+  ],
+  "facts": {}
+}

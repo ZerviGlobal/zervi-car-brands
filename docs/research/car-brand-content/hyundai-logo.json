@@ -1,0 +1,77 @@
+{
+  "slug": "hyundai-logo",
+  "name": "Hyundai",
+  "h1": "Hyundai Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hyundai Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-1969.png",
+      "localPath": "/images/car-logos/hyundai-logo-1969.png",
+      "alt": "Hyundai logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-1970.png",
+      "localPath": "/images/car-logos/hyundai-logo-1970.png",
+      "alt": "Hyundai logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-1974.png",
+      "localPath": "/images/car-logos/hyundai-logo-1974.png",
+      "alt": "Hyundai logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-1978.png",
+      "localPath": "/images/car-logos/hyundai-logo-1978.png",
+      "alt": "Hyundai logo, 1978"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-1990.png",
+      "localPath": "/images/car-logos/hyundai-logo-1990.png",
+      "alt": "Hyundai logo, 1990"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-2003.png",
+      "localPath": "/images/car-logos/hyundai-logo-2003.png",
+      "alt": "Hyundai logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hyundai-logo-2011.png",
+      "localPath": "/images/car-logos/hyundai-logo-2011.png",
+      "alt": "Hyundai logo, 2011"
+    }
+  ],
+  "facts": {}
+}

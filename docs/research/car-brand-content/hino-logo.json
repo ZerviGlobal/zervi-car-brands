@@ -1,0 +1,32 @@
+{
+  "slug": "hino-logo",
+  "name": "Hino",
+  "h1": "Hino Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hino Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1917"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hino-logo-1917.png",
+      "localPath": "/images/car-logos/hino-logo-1917.png",
+      "alt": "Hino logo, 1917"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hino-logo-1994.png",
+      "localPath": "/images/car-logos/hino-logo-1994.png",
+      "alt": "Hino logo, 1994"
+    }
+  ],
+  "facts": {}
+}

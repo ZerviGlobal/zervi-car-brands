@@ -1,0 +1,23 @@
+{
+  "slug": "im-logo",
+  "name": "IM",
+  "h1": "IM Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "IM Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/im-logo-2020.png",
+      "localPath": "/images/car-logos/im-logo-2020.png",
+      "alt": "IM logo, 2020"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "nio-logo",
+  "name": "NIO",
+  "h1": "NIO Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "NIO Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/nio-logo-2016.png",
+      "localPath": "/images/car-logos/nio-logo-2016.png",
+      "alt": "NIO logo, 2016"
+    }
+  ],
+  "facts": {}
+}

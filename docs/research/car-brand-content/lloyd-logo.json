@@ -1,0 +1,23 @@
+{
+  "slug": "lloyd-logo",
+  "name": "Lloyd",
+  "h1": "Lloyd Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lloyd Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1908"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lloyd-logo-1908.png",
+      "localPath": "/images/car-logos/lloyd-logo-1908.png",
+      "alt": "Lloyd logo, 1908"
+    }
+  ],
+  "facts": {}
+}

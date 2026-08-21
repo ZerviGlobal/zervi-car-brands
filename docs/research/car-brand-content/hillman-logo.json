@@ -1,0 +1,23 @@
+{
+  "slug": "hillman-logo",
+  "name": "Hillman",
+  "h1": "Hillman Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hillman Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1907"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hillman-logo-1907.png",
+      "localPath": "/images/car-logos/hillman-logo-1907.png",
+      "alt": "Hillman logo, 1907"
+    }
+  ],
+  "facts": {}
+}

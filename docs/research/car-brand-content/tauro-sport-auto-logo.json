@@ -1,0 +1,23 @@
+{
+  "slug": "tauro-sport-auto-logo",
+  "name": "Tauro",
+  "h1": "Tauro Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Tauro Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/tauro-logo-2010.png",
+      "localPath": "/images/car-logos/tauro-logo-2010.png",
+      "alt": "Tauro logo, 2010"
+    }
+  ],
+  "facts": {}
+}

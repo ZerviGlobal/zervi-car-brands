@@ -1,0 +1,50 @@
+{
+  "slug": "mack-logo",
+  "name": "Mack",
+  "h1": "Mack Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mack Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1900"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mack-logo-1900.png",
+      "localPath": "/images/car-logos/mack-logo-1900.png",
+      "alt": "Mack logo, 1900"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mack-logo-1985.png",
+      "localPath": "/images/car-logos/mack-logo-1985.png",
+      "alt": "Mack logo, 1985"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mack-logo-1992.png",
+      "localPath": "/images/car-logos/mack-logo-1992.png",
+      "alt": "Mack logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mack-logo-2014.png",
+      "localPath": "/images/car-logos/mack-logo-2014.png",
+      "alt": "Mack logo, 2014"
+    }
+  ],
+  "facts": {}
+}

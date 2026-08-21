@@ -1,0 +1,23 @@
+{
+  "slug": "mhero-logo",
+  "name": "MHERO",
+  "h1": "MHERO Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "MHERO Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mhero-logo-2022.png",
+      "localPath": "/images/car-logos/mhero-logo-2022.png",
+      "alt": "MHERO logo, 2022"
+    }
+  ],
+  "facts": {}
+}

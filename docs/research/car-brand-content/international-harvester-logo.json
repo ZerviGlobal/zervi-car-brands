@@ -1,0 +1,41 @@
+{
+  "slug": "international-harvester-logo",
+  "name": "IH",
+  "h1": "IH Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "IH Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1902"
+    },
+    {
+      "tag": "h3",
+      "text": "1938"
+    },
+    {
+      "tag": "h3",
+      "text": "1973"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ih-logo-1902.png",
+      "localPath": "/images/car-logos/ih-logo-1902.png",
+      "alt": "IH logo, 1902"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ih-logo-1938.png",
+      "localPath": "/images/car-logos/ih-logo-1938.png",
+      "alt": "IH logo, 1938"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ih-logo-1973.png",
+      "localPath": "/images/car-logos/ih-logo-1973.png",
+      "alt": "IH logo, 1973"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "lobini-logo",
+  "name": "Lobini",
+  "h1": "Lobini Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lobini Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lobini-logo-1999.png",
+      "localPath": "/images/car-logos/lobini-logo-1999.png",
+      "alt": "Lobini logo, 1999"
+    }
+  ],
+  "facts": {}
+}

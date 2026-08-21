@@ -1,0 +1,23 @@
+{
+  "slug": "horch-logo",
+  "name": "Horch",
+  "h1": "Horch Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Horch Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1904"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/horch-logo-1904.png",
+      "localPath": "/images/car-logos/horch-logo-1904.png",
+      "alt": "Horch logo, 1904"
+    }
+  ],
+  "facts": {}
+}

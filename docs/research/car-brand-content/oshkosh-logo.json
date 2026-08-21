@@ -1,0 +1,23 @@
+{
+  "slug": "oshkosh-logo",
+  "name": "Oshkosh",
+  "h1": "Oshkosh Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Oshkosh Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1917"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/oshkosh-logo-1917.png",
+      "localPath": "/images/car-logos/oshkosh-logo-1917.png",
+      "alt": "Oshkosh logo, 1917"
+    }
+  ],
+  "facts": {}
+}

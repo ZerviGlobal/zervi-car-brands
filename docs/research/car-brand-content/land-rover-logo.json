@@ -1,0 +1,77 @@
+{
+  "slug": "land-rover-logo",
+  "name": "Land Rover",
+  "h1": "Land Rover Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Land Rover Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1948"
+    },
+    {
+      "tag": "h3",
+      "text": "1960s"
+    },
+    {
+      "tag": "h3",
+      "text": "1968"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-1948.png",
+      "localPath": "/images/car-logos/land-rover-logo-1948.png",
+      "alt": "Land Rover logo, 1948"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-1960s.png",
+      "localPath": "/images/car-logos/land-rover-logo-1960s.png",
+      "alt": "Land Rover logo, 1960s"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-1968.png",
+      "localPath": "/images/car-logos/land-rover-logo-1968.png",
+      "alt": "Land Rover logo, 1968"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-1978.png",
+      "localPath": "/images/car-logos/land-rover-logo-1978.png",
+      "alt": "Land Rover logo, 1978"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-1986.png",
+      "localPath": "/images/car-logos/land-rover-logo-1986.png",
+      "alt": "Land Rover logo, 1986"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-1996.png",
+      "localPath": "/images/car-logos/land-rover-logo-1996.png",
+      "alt": "Land Rover logo, 1996"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/land-rover-logo-2021.png",
+      "localPath": "/images/car-logos/land-rover-logo-2021.png",
+      "alt": "Land Rover logo, 2021"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mastretta-logo",
+  "name": "Mastretta",
+  "h1": "Mastretta Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mastretta Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1987"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mastretta-logo-1987.png",
+      "localPath": "/images/car-logos/mastretta-logo-1987.png",
+      "alt": "Mastretta logo, 1987"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mastretta-logo-2008.png",
+      "localPath": "/images/car-logos/mastretta-logo-2008.png",
+      "alt": "Mastretta logo, 2008"
+    }
+  ],
+  "facts": {}
+}

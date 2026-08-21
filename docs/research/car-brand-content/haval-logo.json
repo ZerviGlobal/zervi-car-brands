@@ -1,0 +1,32 @@
+{
+  "slug": "haval-logo",
+  "name": "Haval",
+  "h1": "Haval Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Haval Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/haval-logo-2013.png",
+      "localPath": "/images/car-logos/haval-logo-2013.png",
+      "alt": "Haval logo, 2013"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/haval-logo-2023.png",
+      "localPath": "/images/car-logos/haval-logo-2023.png",
+      "alt": "Haval logo, 2023"
+    }
+  ],
+  "facts": {}
+}

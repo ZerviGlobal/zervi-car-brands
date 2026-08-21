@@ -1,0 +1,23 @@
+{
+  "slug": "isdera-logo",
+  "name": "Isdera",
+  "h1": "Isdera Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Isdera Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/isdera-logo-1969.png",
+      "localPath": "/images/car-logos/isdera-logo-1969.png",
+      "alt": "Isdera logo, 1969"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hummer-logo",
+  "name": "Hummer",
+  "h1": "Hummer Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hummer Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hummer-logo-1992.png",
+      "localPath": "/images/car-logos/hummer-logo-1992.png",
+      "alt": "Hummer logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hummer-logo-2021.png",
+      "localPath": "/images/car-logos/hummer-logo-2021.png",
+      "alt": "Hummer logo, 2021"
+    }
+  ],
+  "facts": {}
+}

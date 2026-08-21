@@ -1,0 +1,32 @@
+{
+  "slug": "radical-logo",
+  "name": "Radical",
+  "h1": "Radical Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Radical Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/radical-logo-1997.png",
+      "localPath": "/images/car-logos/radical-logo-1997.png",
+      "alt": "Radical logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/radical-logo-2017.png",
+      "localPath": "/images/car-logos/radical-logo-2017.png",
+      "alt": "Radical logo, 2017"
+    }
+  ],
+  "facts": {}
+}

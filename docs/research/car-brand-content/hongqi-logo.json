@@ -1,0 +1,50 @@
+{
+  "slug": "hongqi-logo",
+  "name": "Hongqi",
+  "h1": "Hongqi Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hongqi Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1958"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hongqi-logo-1958.png",
+      "localPath": "/images/car-logos/hongqi-logo-1958.png",
+      "alt": "Hongqi logo, 1958"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hongqi-logo-1964.png",
+      "localPath": "/images/car-logos/hongqi-logo-1964.png",
+      "alt": "Hongqi logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hongqi-logo-1997.png",
+      "localPath": "/images/car-logos/hongqi-logo-1997.png",
+      "alt": "Hongqi logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hongqi-logo-2018.png",
+      "localPath": "/images/car-logos/hongqi-logo-2018.png",
+      "alt": "Hongqi logo, 2018"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "ligier-logo",
+  "name": "Ligier",
+  "h1": "Ligier Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ligier Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1968"
+    },
+    {
+      "tag": "h3",
+      "text": "1976"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ligier-logo-1968.png",
+      "localPath": "/images/car-logos/ligier-logo-1968.png",
+      "alt": "Ligier logo, 1968"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ligier-logo-1976.png",
+      "localPath": "/images/car-logos/ligier-logo-1976.png",
+      "alt": "Ligier logo, 1976"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ligier-logo-1998.png",
+      "localPath": "/images/car-logos/ligier-logo-1998.png",
+      "alt": "Ligier logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/ligier-logo-2017.png",
+      "localPath": "/images/car-logos/ligier-logo-2017.png",
+      "alt": "Ligier logo, 2017"
+    }
+  ],
+  "facts": {}
+}

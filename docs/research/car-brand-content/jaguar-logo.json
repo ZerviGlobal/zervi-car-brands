@@ -1,0 +1,86 @@
+{
+  "slug": "jaguar-logo",
+  "name": "Jaguar",
+  "h1": "Jaguar Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Jaguar Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1922"
+    },
+    {
+      "tag": "h3",
+      "text": "1935"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    },
+    {
+      "tag": "h3",
+      "text": "1951"
+    },
+    {
+      "tag": "h3",
+      "text": "1957"
+    },
+    {
+      "tag": "h3",
+      "text": "1982"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-1922.png",
+      "localPath": "/images/car-logos/jaguar-logo-1922.png",
+      "alt": "Jaguar logo, 1922"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-1935.png",
+      "localPath": "/images/car-logos/jaguar-logo-1935.png",
+      "alt": "Jaguar logo, 1935"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-1945.png",
+      "localPath": "/images/car-logos/jaguar-logo-1945.png",
+      "alt": "Jaguar logo, 1945"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-1951.png",
+      "localPath": "/images/car-logos/jaguar-logo-1951.png",
+      "alt": "Jaguar logo, 1951"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-1957.png",
+      "localPath": "/images/car-logos/jaguar-logo-1957.png",
+      "alt": "Jaguar logo, 1957"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-1982.png",
+      "localPath": "/images/car-logos/jaguar-logo-1982.png",
+      "alt": "Jaguar logo, 1982"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-2012.png",
+      "localPath": "/images/car-logos/jaguar-logo-2012.png",
+      "alt": "Jaguar logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/jaguar-logo-2021.png",
+      "localPath": "/images/car-logos/jaguar-logo-2021.png",
+      "alt": "Jaguar logo, 2021"
+    }
+  ],
+  "facts": {}
+}

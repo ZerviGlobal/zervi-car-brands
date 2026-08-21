@@ -1,0 +1,23 @@
+{
+  "slug": "melkus-logo",
+  "name": "Melkus",
+  "h1": "Melkus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Melkus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/melkus-logo-1959.png",
+      "localPath": "/images/car-logos/melkus-logo-1959.png",
+      "alt": "Melkus logo, 1959"
+    }
+  ],
+  "facts": {}
+}

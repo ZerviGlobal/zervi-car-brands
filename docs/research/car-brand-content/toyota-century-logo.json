@@ -1,0 +1,23 @@
+{
+  "slug": "toyota-century-logo",
+  "name": "Toyota Century",
+  "h1": "Toyota Century Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Toyota Century Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2025"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/toyota-century-logo-2025.png",
+      "localPath": "/images/car-logos/toyota-century-logo-2025.png",
+      "alt": "Toyota Century logo, 2025"
+    }
+  ],
+  "facts": {}
+}

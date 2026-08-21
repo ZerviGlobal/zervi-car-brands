@@ -1,0 +1,95 @@
+{
+  "slug": "mclaren-logo",
+  "name": "McLaren",
+  "h1": "McLaren Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "McLaren Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1965"
+    },
+    {
+      "tag": "h3",
+      "text": "1967"
+    },
+    {
+      "tag": "h3",
+      "text": "1981"
+    },
+    {
+      "tag": "h3",
+      "text": "1991"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-1963.png",
+      "localPath": "/images/car-logos/mclaren-logo-1963.png",
+      "alt": "McLaren logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-1965.png",
+      "localPath": "/images/car-logos/mclaren-logo-1965.png",
+      "alt": "McLaren logo, 1965"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-1967.png",
+      "localPath": "/images/car-logos/mclaren-logo-1967.png",
+      "alt": "McLaren logo, 1967"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-1981.png",
+      "localPath": "/images/car-logos/mclaren-logo-1981.png",
+      "alt": "McLaren logo, 1981"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-1991.png",
+      "localPath": "/images/car-logos/mclaren-logo-1991.png",
+      "alt": "McLaren logo, 1991"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-1998.png",
+      "localPath": "/images/car-logos/mclaren-logo-1998.png",
+      "alt": "McLaren logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-2003.png",
+      "localPath": "/images/car-logos/mclaren-logo-2003.png",
+      "alt": "McLaren logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-2012.png",
+      "localPath": "/images/car-logos/mclaren-logo-2012.png",
+      "alt": "McLaren logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mclaren-logo-2018.png",
+      "localPath": "/images/car-logos/mclaren-logo-2018.png",
+      "alt": "McLaren logo, 2018"
+    }
+  ],
+  "facts": {}
+}

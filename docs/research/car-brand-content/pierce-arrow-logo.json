@@ -1,0 +1,23 @@
+{
+  "slug": "pierce-arrow-logo",
+  "name": "Pierce-Arrow",
+  "h1": "Pierce-Arrow Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Pierce-Arrow Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1901"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/pierce-arrow-logo-1901.png",
+      "localPath": "/images/car-logos/pierce-arrow-logo-1901.png",
+      "alt": "Pierce-Arrow logo, 1901"
+    }
+  ],
+  "facts": {}
+}

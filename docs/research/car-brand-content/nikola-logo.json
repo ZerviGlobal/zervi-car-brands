@@ -1,0 +1,23 @@
+{
+  "slug": "nikola-logo",
+  "name": "Nikola",
+  "h1": "Nikola Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Nikola Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/nikola-logo-2014.png",
+      "localPath": "/images/car-logos/nikola-logo-2014.png",
+      "alt": "Nikola logo, 2014"
+    }
+  ],
+  "facts": {}
+}

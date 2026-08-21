@@ -1,0 +1,23 @@
+{
+  "slug": "morris-logo",
+  "name": "Morris",
+  "h1": "Morris Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Morris Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1919"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/morris-logo-1919.png",
+      "localPath": "/images/car-logos/morris-logo-1919.png",
+      "alt": "Morris logo, 1919"
+    }
+  ],
+  "facts": {}
+}

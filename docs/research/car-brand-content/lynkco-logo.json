@@ -1,0 +1,23 @@
+{
+  "slug": "lynkco-logo",
+  "name": "Lynk & Co",
+  "h1": "Lynk & Co Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lynk & Co Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lynkco-logo-2016.png",
+      "localPath": "/images/car-logos/lynkco-logo-2016.png",
+      "alt": "Lynk & Co logo, 2016"
+    }
+  ],
+  "facts": {}
+}

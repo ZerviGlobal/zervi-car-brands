@@ -1,0 +1,23 @@
+{
+  "slug": "scg-logo",
+  "name": "SCG",
+  "h1": "SCG Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "SCG Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/scg-logo-2014.png",
+      "localPath": "/images/car-logos/scg-logo-2014.png",
+      "alt": "SCG logo, 2014"
+    }
+  ],
+  "facts": {}
+}

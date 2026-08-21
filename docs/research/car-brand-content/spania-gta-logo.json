@@ -1,0 +1,32 @@
+{
+  "slug": "spania-gta-logo",
+  "name": "Spania GTA",
+  "h1": "Spania GTA Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Spania GTA Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/spania-gta-logo-1994.png",
+      "localPath": "/images/car-logos/spania-gta-logo-1994.png",
+      "alt": "Spania GTA logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/spania-gta-logo-2005.png",
+      "localPath": "/images/car-logos/spania-gta-logo-2005.png",
+      "alt": "Spania GTA logo, 2005"
+    }
+  ],
+  "facts": {}
+}

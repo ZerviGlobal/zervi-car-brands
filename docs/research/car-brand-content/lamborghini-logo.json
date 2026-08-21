@@ -1,0 +1,64 @@
+{
+  "slug": "lamborghini-logo",
+  "name": "Lamborghini",
+  "h1": "Lamborghini Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lamborghini Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1972"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lamborghini-logo-1953.png",
+      "localPath": "/images/car-logos/lamborghini-logo-1953.png",
+      "alt": "Lamborghini logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lamborghini-logo-1963.png",
+      "localPath": "/images/car-logos/lamborghini-logo-1963.png",
+      "alt": "Lamborghini logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lamborghini-logo-1972.png",
+      "localPath": "/images/car-logos/lamborghini-logo-1972.png",
+      "alt": "Lamborghini logo, 1972"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lamborghini-logo-1974.png",
+      "localPath": "/images/car-logos/lamborghini-logo-1974.png",
+      "alt": "Lamborghini logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lamborghini-logo-1998.png",
+      "localPath": "/images/car-logos/lamborghini-logo-1998.png",
+      "alt": "Lamborghini logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lamborghini-logo-1998-wordmark.png",
+      "localPath": "/images/car-logos/lamborghini-logo-1998-wordmark.png",
+      "alt": "Lamborghini logo, 1998"
+    }
+  ],
+  "facts": {}
+}

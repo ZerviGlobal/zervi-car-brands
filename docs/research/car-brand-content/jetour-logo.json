@@ -1,0 +1,23 @@
+{
+  "slug": "jetour-logo",
+  "name": "Jetour",
+  "h1": "Jetour Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Jetour Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/jetour-logo-2023.png",
+      "localPath": "/images/car-logos/jetour-logo-2023.png",
+      "alt": "Jetour logo, 2023"
+    }
+  ],
+  "facts": {}
+}

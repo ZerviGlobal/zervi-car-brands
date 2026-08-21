@@ -1,0 +1,23 @@
+{
+  "slug": "kraz-logo",
+  "name": "KrAZ",
+  "h1": "KrAZ Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "KrAZ Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1946"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/kraz-logo-1946.png",
+      "localPath": "/images/car-logos/kraz-logo-1946.png",
+      "alt": "KrAZ logo, 1946"
+    }
+  ],
+  "facts": {}
+}

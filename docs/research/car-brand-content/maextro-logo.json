@@ -1,0 +1,23 @@
+{
+  "slug": "maextro-logo",
+  "name": "Maextro",
+  "h1": "Maextro Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Maextro Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2024"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/maextro-logo-2024.png",
+      "localPath": "/images/car-logos/maextro-logo-2024.png",
+      "alt": "Maextro logo, 2024"
+    }
+  ],
+  "facts": {}
+}

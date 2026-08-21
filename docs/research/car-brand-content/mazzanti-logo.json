@@ -1,0 +1,23 @@
+{
+  "slug": "mazzanti-logo",
+  "name": "Mazzanti",
+  "h1": "Mazzanti Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mazzanti Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mazzanti-logo-2016.png",
+      "localPath": "/images/car-logos/mazzanti-logo-2016.png",
+      "alt": "Mazzanti logo, 2016"
+    }
+  ],
+  "facts": {}
+}

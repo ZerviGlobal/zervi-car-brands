@@ -1,0 +1,73 @@
+{
+  "slug": "kia-logo",
+  "name": "Kia",
+  "h1": "Kia Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "KIA Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1944"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-1944.png",
+      "localPath": "/images/car-logos/kia-logo-1944.png",
+      "alt": "KIA logo, 1944"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-1964.png",
+      "localPath": "/images/car-logos/kia-logo-1964.png",
+      "alt": "KIA logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-1986.png",
+      "localPath": "/images/car-logos/kia-logo-1986.png",
+      "alt": "KIA logo, 1986"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-1994.png",
+      "localPath": "/images/car-logos/kia-logo-1994.png",
+      "alt": "KIA logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-2012.png",
+      "localPath": "/images/car-logos/kia-logo-2012.png",
+      "alt": "KIA logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-2012.2.png",
+      "localPath": "/images/car-logos/kia-logo-2012.2.png",
+      "alt": "KIA logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/kia-logo-2021.png",
+      "localPath": "/images/car-logos/kia-logo-2021.png",
+      "alt": "KIA logo, 2021"
+    }
+  ],
+  "facts": {}
+}

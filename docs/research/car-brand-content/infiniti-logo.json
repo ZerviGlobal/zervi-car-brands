@@ -1,0 +1,46 @@
+{
+  "slug": "infiniti-logo",
+  "name": "Infiniti",
+  "h1": "Infiniti Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Infiniti Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "2004"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/infiniti-logo-1989.png",
+      "localPath": "/images/car-logos/infiniti-logo-1989.png",
+      "alt": "Infiniti logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/infiniti-logo-2004.png",
+      "localPath": "/images/car-logos/infiniti-logo-2004.png",
+      "alt": "Infiniti logo, 2004"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/infiniti-logo-2004-black.png",
+      "localPath": "/images/car-logos/infiniti-logo-2004-black.png",
+      "alt": "Infiniti logo, 2004"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/infiniti-logo-2023.png",
+      "localPath": "/images/car-logos/infiniti-logo-2023.png",
+      "alt": "Infiniti logo, 2023"
+    }
+  ],
+  "facts": {}
+}

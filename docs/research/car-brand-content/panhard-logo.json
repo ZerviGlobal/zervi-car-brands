@@ -1,0 +1,68 @@
+{
+  "slug": "panhard-logo",
+  "name": "Panhard",
+  "h1": "Panhard Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Panhard Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1887"
+    },
+    {
+      "tag": "h3",
+      "text": "1891"
+    },
+    {
+      "tag": "h3",
+      "text": "1907"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/panhard-logo-1887.png",
+      "localPath": "/images/car-logos/panhard-logo-1887.png",
+      "alt": "Panhard logo, 1887"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/panhard-logo-1891.png",
+      "localPath": "/images/car-logos/panhard-logo-1891.png",
+      "alt": "Panhard logo, 1891"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/panhard-logo-1907.png",
+      "localPath": "/images/car-logos/panhard-logo-1907.png",
+      "alt": "Panhard logo, 1907"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/panhard-logo-1945.png",
+      "localPath": "/images/car-logos/panhard-logo-1945.png",
+      "alt": "Panhard logo, 1945"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/panhard-logo-1953.png",
+      "localPath": "/images/car-logos/panhard-logo-1953.png",
+      "alt": "Panhard logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/panhard-logo-2005.png",
+      "localPath": "/images/car-logos/panhard-logo-2005.png",
+      "alt": "Panhard logo, 2005"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "hiphi-logo",
+  "name": "HiPhi",
+  "h1": "HiPhi Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "HiPhi Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hiphi-logo-2019.png",
+      "localPath": "/images/car-logos/hiphi-logo-2019.png",
+      "alt": "HiPhi logo, 2019"
+    }
+  ],
+  "facts": {}
+}

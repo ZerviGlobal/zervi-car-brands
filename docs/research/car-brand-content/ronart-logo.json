@@ -1,0 +1,23 @@
+{
+  "slug": "ronart-logo",
+  "name": "Ronart",
+  "h1": "Ronart Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Ronart Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ronart-logo-1984.png",
+      "localPath": "/images/car-logos/ronart-logo-1984.png",
+      "alt": "Ronart logo, 1984"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ruf-logo",
+  "name": "RUF",
+  "h1": "RUF Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "RUF Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1939"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ruf-logo-1939.png",
+      "localPath": "/images/car-logos/ruf-logo-1939.png",
+      "alt": "RUF logo, 1939"
+    }
+  ],
+  "facts": {}
+}

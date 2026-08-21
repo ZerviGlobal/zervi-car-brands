@@ -1,0 +1,23 @@
+{
+  "slug": "karma-logo",
+  "name": "Karma",
+  "h1": "Karma Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Karma Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/karma-logo-2014.png",
+      "localPath": "/images/car-logos/karma-logo-2014.png",
+      "alt": "Karma logo, 2014"
+    }
+  ],
+  "facts": {}
+}

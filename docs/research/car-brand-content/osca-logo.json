@@ -1,0 +1,23 @@
+{
+  "slug": "osca-logo",
+  "name": "OSCA",
+  "h1": "OSCA Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "OSCA Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1947"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/osca-logo-1947.png",
+      "localPath": "/images/car-logos/osca-logo-1947.png",
+      "alt": "OSCA logo, 1947"
+    }
+  ],
+  "facts": {}
+}

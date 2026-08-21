@@ -1,0 +1,23 @@
+{
+  "slug": "landwind-logo",
+  "name": "Landwind",
+  "h1": "Landwind Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Landwind Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2004"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/landwind-logo-2004.png",
+      "localPath": "/images/car-logos/landwind-logo-2004.png",
+      "alt": "Landwind logo, 2004"
+    }
+  ],
+  "facts": {}
+}

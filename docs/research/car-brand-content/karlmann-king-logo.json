@@ -1,0 +1,23 @@
+{
+  "slug": "karlmann-king-logo",
+  "name": "Karlmann King",
+  "h1": "Karlmann King Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Karlmann King Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/karlmann-king-logo-2017.png",
+      "localPath": "/images/car-logos/karlmann-king-logo-2017.png",
+      "alt": "Karlmann King logo, 2017"
+    }
+  ],
+  "facts": {}
+}

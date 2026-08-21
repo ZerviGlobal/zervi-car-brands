@@ -1,0 +1,77 @@
+{
+  "slug": "scania-logo",
+  "name": "Scania",
+  "h1": "Scania Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Scania Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1901"
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    },
+    {
+      "tag": "h3",
+      "text": "1995"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-1901.png",
+      "localPath": "/images/car-logos/scania-logo-1901.png",
+      "alt": "Scania logo, 1901"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-1911.png",
+      "localPath": "/images/car-logos/scania-logo-1911.png",
+      "alt": "Scania logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-1954.png",
+      "localPath": "/images/car-logos/scania-logo-1954.png",
+      "alt": "Scania logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-1969.png",
+      "localPath": "/images/car-logos/scania-logo-1969.png",
+      "alt": "Scania logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-1984.png",
+      "localPath": "/images/car-logos/scania-logo-1984.png",
+      "alt": "Scania logo, 1984"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-1995.png",
+      "localPath": "/images/car-logos/scania-logo-1995.png",
+      "alt": "Scania logo, 1995"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/scania-logo-2017.png",
+      "localPath": "/images/car-logos/scania-logo-2017.png",
+      "alt": "Scania logo, 2017"
+    }
+  ],
+  "facts": {}
+}

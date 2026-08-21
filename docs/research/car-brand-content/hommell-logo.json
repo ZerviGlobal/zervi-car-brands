@@ -1,0 +1,23 @@
+{
+  "slug": "hommell-logo",
+  "name": "Hommell",
+  "h1": "Hommell Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hommell Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hommell-logo-1990.png",
+      "localPath": "/images/car-logos/hommell-logo-1990.png",
+      "alt": "Hommell logo, 1990"
+    }
+  ],
+  "facts": {}
+}

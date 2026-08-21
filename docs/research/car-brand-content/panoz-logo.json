@@ -1,0 +1,23 @@
+{
+  "slug": "panoz-logo",
+  "name": "Panoz",
+  "h1": "Panoz Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Panoz Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/panoz-logo-1989.png",
+      "localPath": "/images/car-logos/panoz-logo-1989.png",
+      "alt": "Panoz logo, 1989"
+    }
+  ],
+  "facts": {}
+}

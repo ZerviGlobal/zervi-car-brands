@@ -1,0 +1,23 @@
+{
+  "slug": "mosler-logo",
+  "name": "Mosler",
+  "h1": "Mosler Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mosler Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mosler-logo-1985.png",
+      "localPath": "/images/car-logos/mosler-logo-1985.png",
+      "alt": "Mosler logo, 1985"
+    }
+  ],
+  "facts": {}
+}

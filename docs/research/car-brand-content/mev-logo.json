@@ -1,0 +1,32 @@
+{
+  "slug": "mev-logo",
+  "name": "MEV",
+  "h1": "MEV Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "MEV Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mev-logo-2003.png",
+      "localPath": "/images/car-logos/mev-logo-2003.png",
+      "alt": "MEV logo, 2003"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mev-logo-2023.png",
+      "localPath": "/images/car-logos/mev-logo-2023.png",
+      "alt": "MEV logo, 2023"
+    }
+  ],
+  "facts": {}
+}

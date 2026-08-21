@@ -1,0 +1,23 @@
+{
+  "slug": "sany-logo",
+  "name": "SANY",
+  "h1": "SANY Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "SANY Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/sany-logo-1989.png",
+      "localPath": "/images/car-logos/sany-logo-1989.png",
+      "alt": "SANY logo, 1989"
+    }
+  ],
+  "facts": {}
+}

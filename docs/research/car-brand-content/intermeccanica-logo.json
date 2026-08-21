@@ -1,0 +1,23 @@
+{
+  "slug": "intermeccanica-logo",
+  "name": "Intermeccanica",
+  "h1": "Intermeccanica Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Intermeccanica Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/intermeccanica-logo-1959.png",
+      "localPath": "/images/car-logos/intermeccanica-logo-1959.png",
+      "alt": "Intermeccanica logo, 1959"
+    }
+  ],
+  "facts": {}
+}

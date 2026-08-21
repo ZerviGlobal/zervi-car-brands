@@ -1,0 +1,23 @@
+{
+  "slug": "marcos-logo",
+  "name": "Marcos",
+  "h1": "Marcos Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Marcos Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/marcos-logo-1959.png",
+      "localPath": "/images/car-logos/marcos-logo-1959.png",
+      "alt": "Marcos logo, 1959"
+    }
+  ],
+  "facts": {}
+}

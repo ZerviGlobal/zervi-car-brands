@@ -1,0 +1,23 @@
+{
+  "slug": "oltcit-logo",
+  "name": "Oltcit",
+  "h1": "Oltcit Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Oltcit Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1976"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/oltcit-logo-1976.png",
+      "localPath": "/images/car-logos/oltcit-logo-1976.png",
+      "alt": "Oltcit logo, 1976"
+    }
+  ],
+  "facts": {}
+}

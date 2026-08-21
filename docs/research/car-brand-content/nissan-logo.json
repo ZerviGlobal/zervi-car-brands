@@ -1,0 +1,176 @@
+{
+  "slug": "nissan-logo",
+  "name": "Nissan",
+  "h1": "Nissan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Nissan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1933"
+    },
+    {
+      "tag": "h3",
+      "text": "1940"
+    },
+    {
+      "tag": "h3",
+      "text": "1950"
+    },
+    {
+      "tag": "h3",
+      "text": "1959"
+    },
+    {
+      "tag": "h3",
+      "text": "1960"
+    },
+    {
+      "tag": "h3",
+      "text": "1967"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    },
+    {
+      "tag": "h3",
+      "text": "1978"
+    },
+    {
+      "tag": "h3",
+      "text": "1983"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "1990"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    },
+    {
+      "tag": "h3",
+      "text": "2001"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1933.png",
+      "localPath": "/images/car-logos/nissan-logo-1933.png",
+      "alt": "Nissan logo, 1933"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1940.png",
+      "localPath": "/images/car-logos/nissan-logo-1940.png",
+      "alt": "Nissan logo, 1940"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1950.png",
+      "localPath": "/images/car-logos/nissan-logo-1950.png",
+      "alt": "Nissan logo, 1950"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1959.png",
+      "localPath": "/images/car-logos/nissan-logo-1959.png",
+      "alt": "Nissan logo, 1959"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1960.png",
+      "localPath": "/images/car-logos/nissan-logo-1960.png",
+      "alt": "Nissan logo, 1960"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1967.png",
+      "localPath": "/images/car-logos/nissan-logo-1967.png",
+      "alt": "Nissan logo, 1967"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1970.png",
+      "localPath": "/images/car-logos/nissan-logo-1970.png",
+      "alt": "Nissan logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1978.png",
+      "localPath": "/images/car-logos/nissan-logo-1978.png",
+      "alt": "Nissan logo, 1978"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1978.2.png",
+      "localPath": "/images/car-logos/nissan-logo-1978.2.png",
+      "alt": "Nissan logo, 1978"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1983.png",
+      "localPath": "/images/car-logos/nissan-logo-1983.png",
+      "alt": "Nissan logo, 1983"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1988.png",
+      "localPath": "/images/car-logos/nissan-logo-1988.png",
+      "alt": "Nissan logo, 1988"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1989.png",
+      "localPath": "/images/car-logos/nissan-logo-1989.png",
+      "alt": "Nissan logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1990.png",
+      "localPath": "/images/car-logos/nissan-logo-1990.png",
+      "alt": "Nissan logo, 1990"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1992.png",
+      "localPath": "/images/car-logos/nissan-logo-1992.png",
+      "alt": "Nissan logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-1998.png",
+      "localPath": "/images/car-logos/nissan-logo-1998.png",
+      "alt": "Nissan logo, 1998"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-2001.png",
+      "localPath": "/images/car-logos/nissan-logo-2001.png",
+      "alt": "Nissan logo, 2001"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-2012.png",
+      "localPath": "/images/car-logos/nissan-logo-2012.png",
+      "alt": "Nissan logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/nissan-logo-2020.png",
+      "localPath": "/images/car-logos/nissan-logo-2020.png",
+      "alt": "Nissan logo, 2020"
+    }
+  ],
+  "facts": {}
+}

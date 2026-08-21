@@ -1,0 +1,23 @@
+{
+  "slug": "ssc-logo",
+  "name": "SSC",
+  "h1": "SSC Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "SSC Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1998"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/ssc-logo-1998.png",
+      "localPath": "/images/car-logos/ssc-logo-1998.png",
+      "alt": "SSC logo, 1998"
+    }
+  ],
+  "facts": {}
+}

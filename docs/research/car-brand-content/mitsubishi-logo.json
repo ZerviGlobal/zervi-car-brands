@@ -1,0 +1,68 @@
+{
+  "slug": "mitsubishi-logo",
+  "name": "Mitsubishi",
+  "h1": "Mitsubishi Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mitsubishi Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1870"
+    },
+    {
+      "tag": "h3",
+      "text": "1870"
+    },
+    {
+      "tag": "h3",
+      "text": "1873"
+    },
+    {
+      "tag": "h3",
+      "text": "1914"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsubishi-logo-1870.png",
+      "localPath": "/images/car-logos/mitsubishi-logo-1870.png",
+      "alt": "Mitsubishi logo, 1870"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsubishi-logo-1870.2.png",
+      "localPath": "/images/car-logos/mitsubishi-logo-1870.2.png",
+      "alt": "Mitsubishi logo, 1870"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsubishi-logo-1873.png",
+      "localPath": "/images/car-logos/mitsubishi-logo-1873.png",
+      "alt": "Mitsubishi logo, 1873"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsubishi-logo-1914.png",
+      "localPath": "/images/car-logos/mitsubishi-logo-1914.png",
+      "alt": "Mitsubishi logo, 1914"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsubishi-logo-1964.png",
+      "localPath": "/images/car-logos/mitsubishi-logo-1964.png",
+      "alt": "Mitsubishi logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsubishi-logo-1985.png",
+      "localPath": "/images/car-logos/mitsubishi-logo-1985.png",
+      "alt": "Mitsubishi logo, 1985"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pagani-logo",
+  "name": "Pagani",
+  "h1": "Pagani Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Pagani Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "2005"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/pagani-logo-1992.png",
+      "localPath": "/images/car-logos/pagani-logo-1992.png",
+      "alt": "Pagani logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/pagani-logo-2005.png",
+      "localPath": "/images/car-logos/pagani-logo-2005.png",
+      "alt": "Pagani logo, 2005"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "saipa-logo",
+  "name": "Saipa",
+  "h1": "Saipa Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Saipa Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1965"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/saipa-logo-1965.png",
+      "localPath": "/images/car-logos/saipa-logo-1965.png",
+      "alt": "Saipa logo, 1965"
+    }
+  ],
+  "facts": {}
+}

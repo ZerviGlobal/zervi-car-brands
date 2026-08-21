@@ -1,0 +1,23 @@
+{
+  "slug": "livan-logo",
+  "name": "Livan",
+  "h1": "Livan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Livan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/livan-logo-2022.png",
+      "localPath": "/images/car-logos/livan-logo-2022.png",
+      "alt": "Livan logo, 2022"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "isuzu-logo",
+  "name": "Isuzu",
+  "h1": "Isuzu Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Isuzu Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1949"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1991"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/isuzu-logo-1949.png",
+      "localPath": "/images/car-logos/isuzu-logo-1949.png",
+      "alt": "Isuzu logo, 1949"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/isuzu-logo-1974.png",
+      "localPath": "/images/car-logos/isuzu-logo-1974.png",
+      "alt": "Isuzu logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/isuzu-logo-1991.png",
+      "localPath": "/images/car-logos/isuzu-logo-1991.png",
+      "alt": "Isuzu logo, 1991"
+    }
+  ],
+  "facts": {}
+}

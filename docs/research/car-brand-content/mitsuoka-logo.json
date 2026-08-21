@@ -1,0 +1,23 @@
+{
+  "slug": "mitsuoka-logo",
+  "name": "Mitsuoka",
+  "h1": "Mitsuoka Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mitsuoka Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1981"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mitsuoka-logo-1981.png",
+      "localPath": "/images/car-logos/mitsuoka-logo-1981.png",
+      "alt": "Mitsuoka logo, 1981"
+    }
+  ],
+  "facts": {}
+}

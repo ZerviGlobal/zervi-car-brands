@@ -1,0 +1,32 @@
+{
+  "slug": "iso-logo",
+  "name": "Iso",
+  "h1": "Iso Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Iso Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1955"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/iso-logo-1953.png",
+      "localPath": "/images/car-logos/iso-logo-1953.png",
+      "alt": "Iso logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/iso-logo-1955.png",
+      "localPath": "/images/car-logos/iso-logo-1955.png",
+      "alt": "Iso logo, 1955"
+    }
+  ],
+  "facts": {}
+}

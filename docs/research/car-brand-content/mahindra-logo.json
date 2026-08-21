@@ -1,0 +1,59 @@
+{
+  "slug": "mahindra-logo",
+  "name": "Mahindra",
+  "h1": "Mahindra Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mahindra Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1948"
+    },
+    {
+      "tag": "h3",
+      "text": "1966"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mahindra-logo-1948.png",
+      "localPath": "/images/car-logos/mahindra-logo-1948.png",
+      "alt": "Mahindra logo, 1948"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mahindra-logo-1966.png",
+      "localPath": "/images/car-logos/mahindra-logo-1966.png",
+      "alt": "Mahindra logo, 1966"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mahindra-logo-2000.png",
+      "localPath": "/images/car-logos/mahindra-logo-2000.png",
+      "alt": "Mahindra logo, 2000"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mahindra-logo-2012.png",
+      "localPath": "/images/car-logos/mahindra-logo-2012.png",
+      "alt": "Mahindra logo, 2012"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mahindra-logo-2021.png",
+      "localPath": "/images/car-logos/mahindra-logo-2021.png",
+      "alt": "Mahindra logo, 2021"
+    }
+  ],
+  "facts": {}
+}

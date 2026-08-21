@@ -1,0 +1,23 @@
+{
+  "slug": "tank-logo",
+  "name": "Tank",
+  "h1": "Tank Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Tank Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/tank-logo-2021.png",
+      "localPath": "/images/car-logos/tank-logo-2021.png",
+      "alt": "Tank logo, 2021"
+    }
+  ],
+  "facts": {}
+}

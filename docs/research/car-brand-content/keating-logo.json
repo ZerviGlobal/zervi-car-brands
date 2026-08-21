@@ -1,0 +1,23 @@
+{
+  "slug": "keating-logo",
+  "name": "Keating",
+  "h1": "Keating Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Keating Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2006"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/keating-logo-2006.png",
+      "localPath": "/images/car-logos/keating-logo-2006.png",
+      "alt": "Keating logo, 2006"
+    }
+  ],
+  "facts": {}
+}

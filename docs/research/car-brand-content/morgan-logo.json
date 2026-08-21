@@ -1,0 +1,50 @@
+{
+  "slug": "morgan-logo",
+  "name": "Morgan",
+  "h1": "Morgan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Morgan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    },
+    {
+      "tag": "h3",
+      "text": "1980"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/morgan-logo-1909.png",
+      "localPath": "/images/car-logos/morgan-logo-1909.png",
+      "alt": "Morgan logo, 1909"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/morgan-logo-1980.png",
+      "localPath": "/images/car-logos/morgan-logo-1980.png",
+      "alt": "Morgan logo, 1980"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/morgan-logo-2008.png",
+      "localPath": "/images/car-logos/morgan-logo-2008.png",
+      "alt": "Morgan logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/morgan-logo-2020.png",
+      "localPath": "/images/car-logos/morgan-logo-2020.png",
+      "alt": "Morgan logo, 2020"
+    }
+  ],
+  "facts": {}
+}

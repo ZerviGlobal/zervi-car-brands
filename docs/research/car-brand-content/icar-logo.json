@@ -1,0 +1,23 @@
+{
+  "slug": "icar-logo",
+  "name": "iCAR",
+  "h1": "iCAR Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "iCAR Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/icar-logo-2023.png",
+      "localPath": "/images/car-logos/icar-logo-2023.png",
+      "alt": "iCAR logo, 2023"
+    }
+  ],
+  "facts": {}
+}

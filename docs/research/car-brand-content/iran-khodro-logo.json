@@ -1,0 +1,23 @@
+{
+  "slug": "iran-khodro-logo",
+  "name": "Iran Khodro",
+  "h1": "Iran Khodro Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Iran Khodro Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/iran-khodro-logo-1962.png",
+      "localPath": "/images/car-logos/iran-khodro-logo-1962.png",
+      "alt": "Iran Khodro logo, 1962"
+    }
+  ],
+  "facts": {}
+}

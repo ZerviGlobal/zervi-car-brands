@@ -1,0 +1,32 @@
+{
+  "slug": "koenigsegg-logo",
+  "name": "Koenigsegg",
+  "h1": "Koenigsegg Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Koenigsegg Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "2020"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/koenigsegg-logo-1994.png",
+      "localPath": "/images/car-logos/koenigsegg-logo-1994.png",
+      "alt": "Koenigsegg logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/koenigsegg-logo-2020.png",
+      "localPath": "/images/car-logos/koenigsegg-logo-2020.png",
+      "alt": "Koenigsegg logo, 2020"
+    }
+  ],
+  "facts": {}
+}

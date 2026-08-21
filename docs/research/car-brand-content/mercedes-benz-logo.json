@@ -1,0 +1,95 @@
+{
+  "slug": "mercedes-benz-logo",
+  "name": "Mercedes-Benz",
+  "h1": "Mercedes-Benz Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Mercedes-Benz Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1902"
+    },
+    {
+      "tag": "h3",
+      "text": "1909"
+    },
+    {
+      "tag": "h3",
+      "text": "1916"
+    },
+    {
+      "tag": "h3",
+      "text": "1926"
+    },
+    {
+      "tag": "h3",
+      "text": "1926"
+    },
+    {
+      "tag": "h3",
+      "text": "1933"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1902.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1902.png",
+      "alt": "Mercedes-Benz logo, 1902"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1909.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1909.png",
+      "alt": "Mercedes-Benz logo, 1909"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1916.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1916.png",
+      "alt": "Mercedes-Benz logo, 1916"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1926.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1926.png",
+      "alt": "Mercedes-Benz logo, 1926"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1926.2.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1926.2.png",
+      "alt": "Mercedes-Benz logo, 1926"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1933.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1933.png",
+      "alt": "Mercedes-Benz logo, 1933"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-1989.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-1989.png",
+      "alt": "Mercedes-Benz logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-2009.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-2009.png",
+      "alt": "Mercedes-Benz logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mercedes-benz-logo-2011.png",
+      "localPath": "/images/car-logos/mercedes-benz-logo-2011.png",
+      "alt": "Mercedes-Benz logo, 2011"
+    }
+  ],
+  "facts": {}
+}

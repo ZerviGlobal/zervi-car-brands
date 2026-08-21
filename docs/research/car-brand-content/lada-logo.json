@@ -1,0 +1,131 @@
+{
+  "slug": "lada-logo",
+  "name": "Lada",
+  "h1": "Lada Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lada Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1966"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1970.2"
+    },
+    {
+      "tag": "h3",
+      "text": "1970.3"
+    },
+    {
+      "tag": "h3",
+      "text": "1970.4"
+    },
+    {
+      "tag": "h3",
+      "text": "1970.5"
+    },
+    {
+      "tag": "h3",
+      "text": "1974"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    },
+    {
+      "tag": "h3",
+      "text": "2015"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1966.png",
+      "localPath": "/images/car-logos/lada-logo-1966.png",
+      "alt": "Lada logo, 1966"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1970.png",
+      "localPath": "/images/car-logos/lada-logo-1970.png",
+      "alt": "Lada logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1970.2.png",
+      "localPath": "/images/car-logos/lada-logo-1970.2.png",
+      "alt": "Lada logo, 1970.2"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1970.3.png",
+      "localPath": "/images/car-logos/lada-logo-1970.3.png",
+      "alt": "Lada logo, 1970.3"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1970.4.png",
+      "localPath": "/images/car-logos/lada-logo-1970.4.png",
+      "alt": "Lada logo, 1970.4"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1970.5.png",
+      "localPath": "/images/car-logos/lada-logo-1970.5.png",
+      "alt": "Lada logo, 1970.5"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1974.png",
+      "localPath": "/images/car-logos/lada-logo-1974.png",
+      "alt": "Lada logo, 1974"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1985.png",
+      "localPath": "/images/car-logos/lada-logo-1985.png",
+      "alt": "Lada logo, 1985"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-1993.png",
+      "localPath": "/images/car-logos/lada-logo-1993.png",
+      "alt": "Lada logo, 1993"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-2002.png",
+      "localPath": "/images/car-logos/lada-logo-2002.png",
+      "alt": "Lada logo, 2002"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-2007.png",
+      "localPath": "/images/car-logos/lada-logo-2007.png",
+      "alt": "Lada logo, 2007"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-2015.png",
+      "localPath": "/images/car-logos/lada-logo-2015.png",
+      "alt": "Lada logo, 2015"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lada-logo-2021.png",
+      "localPath": "/images/car-logos/lada-logo-2021.png",
+      "alt": "Lada logo, 2021"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hindustan-logo",
+  "name": "Hindustan",
+  "h1": "Hindustan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hindustan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1942"
+    },
+    {
+      "tag": "h3",
+      "text": "2013"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hindustan-logo-1942.png",
+      "localPath": "/images/car-logos/hindustan-logo-1942.png",
+      "alt": "Hindustan logo, 1942"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hindustan-logo-2013.png",
+      "localPath": "/images/car-logos/hindustan-logo-2013.png",
+      "alt": "Hindustan logo, 2013"
+    }
+  ],
+  "facts": {}
+}

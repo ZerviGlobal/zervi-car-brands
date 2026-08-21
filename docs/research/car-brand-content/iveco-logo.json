@@ -1,0 +1,59 @@
+{
+  "slug": "iveco-logo",
+  "name": "Iveco",
+  "h1": "Iveco Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Iveco Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1975"
+    },
+    {
+      "tag": "h3",
+      "text": "1977"
+    },
+    {
+      "tag": "h3",
+      "text": "1979"
+    },
+    {
+      "tag": "h3",
+      "text": "1980"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/iveco-logo-1975.png",
+      "localPath": "/images/car-logos/iveco-logo-1975.png",
+      "alt": "Iveco logo, 1975"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/iveco-logo-1977.png",
+      "localPath": "/images/car-logos/iveco-logo-1977.png",
+      "alt": "Iveco logo, 1977"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/iveco-logo-1979.png",
+      "localPath": "/images/car-logos/iveco-logo-1979.png",
+      "alt": "Iveco logo, 1979"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/iveco-logo-1980.png",
+      "localPath": "/images/car-logos/iveco-logo-1980.png",
+      "alt": "Iveco logo, 1980"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/iveco-logo-2023.png",
+      "localPath": "/images/car-logos/iveco-logo-2023.png",
+      "alt": "Iveco logo, 2023"
+    }
+  ],
+  "facts": {}
+}

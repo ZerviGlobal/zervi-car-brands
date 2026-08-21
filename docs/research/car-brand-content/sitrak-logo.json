@@ -1,0 +1,23 @@
+{
+  "slug": "sitrak-logo",
+  "name": "Sitrak",
+  "h1": "Sitrak Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Sitrak Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/sitrak-logo-2011.png",
+      "localPath": "/images/car-logos/sitrak-logo-2011.png",
+      "alt": "Sitrak logo, 2011"
+    }
+  ],
+  "facts": {}
+}

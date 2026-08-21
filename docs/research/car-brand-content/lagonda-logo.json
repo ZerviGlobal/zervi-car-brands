@@ -1,0 +1,32 @@
+{
+  "slug": "lagonda-logo",
+  "name": "Lagonda",
+  "h1": "Lagonda Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lagonda Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lagonda-logo-2009.png",
+      "localPath": "/images/car-logos/lagonda-logo-2009.png",
+      "alt": "Lagonda logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lagonda-logo-2014.png",
+      "localPath": "/images/car-logos/lagonda-logo-2014.png",
+      "alt": "Lagonda logo, 2014"
+    }
+  ],
+  "facts": {}
+}

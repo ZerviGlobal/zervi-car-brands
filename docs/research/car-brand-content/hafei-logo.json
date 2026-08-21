@@ -1,0 +1,23 @@
+{
+  "slug": "hafei-logo",
+  "name": "Hafei",
+  "h1": "Hafei Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hafei Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1980"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hafei-logo-1980.png",
+      "localPath": "/images/car-logos/hafei-logo-1980.png",
+      "alt": "Hafei logo, 1980"
+    }
+  ],
+  "facts": {}
+}

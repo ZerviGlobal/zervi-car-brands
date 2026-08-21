@@ -1,0 +1,104 @@
+{
+  "slug": "opel-logo",
+  "name": "Opel",
+  "h1": "Opel Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Opel Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1862"
+    },
+    {
+      "tag": "h3",
+      "text": "1906"
+    },
+    {
+      "tag": "h3",
+      "text": "1910"
+    },
+    {
+      "tag": "h3",
+      "text": "1937"
+    },
+    {
+      "tag": "h3",
+      "text": "1947"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "1987"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2023"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1862.png",
+      "localPath": "/images/car-logos/opel-logo-1862.png",
+      "alt": "Opel logo, 1862"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1906.png",
+      "localPath": "/images/car-logos/opel-logo-1906.png",
+      "alt": "Opel logo, 1906"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1910.png",
+      "localPath": "/images/car-logos/opel-logo-1910.png",
+      "alt": "Opel logo, 1910"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1937.png",
+      "localPath": "/images/car-logos/opel-logo-1937.png",
+      "alt": "Opel logo, 1937"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1947.png",
+      "localPath": "/images/car-logos/opel-logo-1947.png",
+      "alt": "Opel logo, 1947"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1954.png",
+      "localPath": "/images/car-logos/opel-logo-1954.png",
+      "alt": "Opel logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-1987.png",
+      "localPath": "/images/car-logos/opel-logo-1987.png",
+      "alt": "Opel logo, 1987"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-2002.png",
+      "localPath": "/images/car-logos/opel-logo-2002.png",
+      "alt": "Opel logo, 2002"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-2009.png",
+      "localPath": "/images/car-logos/opel-logo-2009.png",
+      "alt": "Opel logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/opel-logo-2023.png",
+      "localPath": "/images/car-logos/opel-logo-2023.png",
+      "alt": "Opel logo, 2023"
+    }
+  ],
+  "facts": {}
+}

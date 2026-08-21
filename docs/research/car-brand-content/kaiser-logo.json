@@ -1,0 +1,23 @@
+{
+  "slug": "kaiser-logo",
+  "name": "Kaiser",
+  "h1": "Kaiser Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Kaiser Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/kaiser-logo-1945.png",
+      "localPath": "/images/car-logos/kaiser-logo-1945.png",
+      "alt": "Kaiser logo, 1945"
+    }
+  ],
+  "facts": {}
+}

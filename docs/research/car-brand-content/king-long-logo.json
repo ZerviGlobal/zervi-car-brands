@@ -1,0 +1,23 @@
+{
+  "slug": "king-long-logo",
+  "name": "King Long",
+  "h1": "King Long Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "King Long Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/king-long-logo-1988.png",
+      "localPath": "/images/car-logos/king-long-logo-1988.png",
+      "alt": "King Long logo, 1988"
+    }
+  ],
+  "facts": {}
+}

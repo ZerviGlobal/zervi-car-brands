@@ -1,0 +1,23 @@
+{
+  "slug": "toyota-alphard-logo",
+  "name": "Toyota Alphard",
+  "h1": "Toyota Alphard Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Toyota Alphard Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2002"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/toyota-alphard-logo-2002.png",
+      "localPath": "/images/car-logos/toyota-alphard-logo-2002.png",
+      "alt": "Toyota Alphard logo, 2002"
+    }
+  ],
+  "facts": {}
+}

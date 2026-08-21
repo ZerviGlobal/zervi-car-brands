@@ -1,0 +1,23 @@
+{
+  "slug": "techart-logo",
+  "name": "TechArt",
+  "h1": "TechArt Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "TechArt Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1987"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/techart-logo-1987.png",
+      "localPath": "/images/car-logos/techart-logo-1987.png",
+      "alt": "TechArt logo, 1987"
+    }
+  ],
+  "facts": {}
+}

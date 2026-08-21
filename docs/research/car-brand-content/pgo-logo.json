@@ -1,0 +1,23 @@
+{
+  "slug": "pgo-logo",
+  "name": "PGO",
+  "h1": "PGO Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "PGO Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/pgo-logo-1985.png",
+      "localPath": "/images/car-logos/pgo-logo-1985.png",
+      "alt": "PGO logo, 1985"
+    }
+  ],
+  "facts": {}
+}

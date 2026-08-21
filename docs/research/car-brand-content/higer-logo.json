@@ -1,0 +1,23 @@
+{
+  "slug": "higer-logo",
+  "name": "Higer",
+  "h1": "Higer Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Higer Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/higer-logo-2010.png",
+      "localPath": "/images/car-logos/higer-logo-2010.png",
+      "alt": "Higer logo, 2010"
+    }
+  ],
+  "facts": {}
+}

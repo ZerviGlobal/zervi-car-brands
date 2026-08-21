@@ -1,0 +1,68 @@
+{
+  "slug": "proton-logo",
+  "name": "Proton",
+  "h1": "Proton Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Proton Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1983"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    },
+    {
+      "tag": "h3",
+      "text": "2008"
+    },
+    {
+      "tag": "h3",
+      "text": "2016"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/proton-logo-1983.png",
+      "localPath": "/images/car-logos/proton-logo-1983.png",
+      "alt": "Proton logo, 1983"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/proton-logo-1992.png",
+      "localPath": "/images/car-logos/proton-logo-1992.png",
+      "alt": "Proton logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/proton-logo-2000.png",
+      "localPath": "/images/car-logos/proton-logo-2000.png",
+      "alt": "Proton logo, 2000"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/proton-logo-2008.png",
+      "localPath": "/images/car-logos/proton-logo-2008.png",
+      "alt": "Proton logo, 2008"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/proton-logo-2016.png",
+      "localPath": "/images/car-logos/proton-logo-2016.png",
+      "alt": "Proton logo, 2016"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/proton-logo-2019.png",
+      "localPath": "/images/car-logos/proton-logo-2019.png",
+      "alt": "Proton logo, 2019"
+    }
+  ],
+  "facts": {}
+}

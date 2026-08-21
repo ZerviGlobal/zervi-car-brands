@@ -1,0 +1,77 @@
+{
+  "slug": "hispano-suiza-logo",
+  "name": "Hispano-Suiza",
+  "h1": "Hispano-Suiza Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hispano-Suiza Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1904"
+    },
+    {
+      "tag": "h3",
+      "text": "1907"
+    },
+    {
+      "tag": "h3",
+      "text": "1914"
+    },
+    {
+      "tag": "h3",
+      "text": "1917"
+    },
+    {
+      "tag": "h3",
+      "text": "2010"
+    },
+    {
+      "tag": "h3",
+      "text": "2019"
+    },
+    {
+      "tag": "h3",
+      "text": "2021"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-1904.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-1904.png",
+      "alt": "Hispano-Suiza logo, 1904"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-1907.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-1907.png",
+      "alt": "Hispano-Suiza logo, 1907"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-1914.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-1914.png",
+      "alt": "Hispano-Suiza logo, 1914"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-1917.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-1917.png",
+      "alt": "Hispano-Suiza logo, 1917"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-2010.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-2010.png",
+      "alt": "Hispano-Suiza logo, 2010"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-2019.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-2019.png",
+      "alt": "Hispano-Suiza logo, 2019"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/hispano-suiza-logo-2021.png",
+      "localPath": "/images/car-logos/hispano-suiza-logo-2021.png",
+      "alt": "Hispano-Suiza logo, 2021"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mk-sportscars-logo",
+  "name": "MK Sportscars",
+  "h1": "MK Sportscars Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "MK Sportscars Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1997"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/mk-sportscars-logo-1997.png",
+      "localPath": "/images/car-logos/mk-sportscars-logo-1997.png",
+      "alt": "MK Sportscars logo, 1997"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/mk-sportscars-logo-2014.png",
+      "localPath": "/images/car-logos/mk-sportscars-logo-2014.png",
+      "alt": "MK Sportscars logo, 2014"
+    }
+  ],
+  "facts": {}
+}

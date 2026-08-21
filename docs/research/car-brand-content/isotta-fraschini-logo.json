@@ -1,0 +1,41 @@
+{
+  "slug": "isotta-fraschini-logo",
+  "name": "Isotta Fraschini",
+  "h1": "Isotta Fraschini Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Isotta Fraschini Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1900"
+    },
+    {
+      "tag": "h3",
+      "text": "1908"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/isotta-fraschini-logo-1900.png",
+      "localPath": "/images/car-logos/isotta-fraschini-logo-1900.png",
+      "alt": "Isotta Fraschini logo, 1900"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/isotta-fraschini-logo-1908.png",
+      "localPath": "/images/car-logos/isotta-fraschini-logo-1908.png",
+      "alt": "Isotta Fraschini logo, 1908"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/isotta-fraschini-logo-1928.png",
+      "localPath": "/images/car-logos/isotta-fraschini-logo-1928.png",
+      "alt": "Isotta Fraschini logo, 1928"
+    }
+  ],
+  "facts": {}
+}

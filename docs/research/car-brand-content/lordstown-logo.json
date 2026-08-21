@@ -1,0 +1,23 @@
+{
+  "slug": "lordstown-logo",
+  "name": "Lordstown",
+  "h1": "Lordstown Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lordstown Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lordstown-logo-2018.png",
+      "localPath": "/images/car-logos/lordstown-logo-2018.png",
+      "alt": "Lordstown logo, 2018"
+    }
+  ],
+  "facts": {}
+}

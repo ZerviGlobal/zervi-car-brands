@@ -1,0 +1,77 @@
+{
+  "slug": "lincoln-logo",
+  "name": "Lincoln",
+  "h1": "Lincoln Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lincoln Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1917"
+    },
+    {
+      "tag": "h3",
+      "text": "1922"
+    },
+    {
+      "tag": "h3",
+      "text": "1939"
+    },
+    {
+      "tag": "h3",
+      "text": "1954"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1972"
+    },
+    {
+      "tag": "h3",
+      "text": "2012"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-1917.png",
+      "localPath": "/images/car-logos/lincoln-logo-1917.png",
+      "alt": "Lincoln logo, 1917"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-1922.png",
+      "localPath": "/images/car-logos/lincoln-logo-1922.png",
+      "alt": "Lincoln logo, 1922"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-1939.png",
+      "localPath": "/images/car-logos/lincoln-logo-1939.png",
+      "alt": "Lincoln logo, 1939"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-1954.png",
+      "localPath": "/images/car-logos/lincoln-logo-1954.png",
+      "alt": "Lincoln logo, 1954"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-1964.png",
+      "localPath": "/images/car-logos/lincoln-logo-1964.png",
+      "alt": "Lincoln logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-1972.png",
+      "localPath": "/images/car-logos/lincoln-logo-1972.png",
+      "alt": "Lincoln logo, 1972"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/lincoln-logo-2012.png",
+      "localPath": "/images/car-logos/lincoln-logo-2012.png",
+      "alt": "Lincoln logo, 2012"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "seat-logo",
+  "name": "SEAT",
+  "h1": "SEAT Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "SEAT Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1953"
+    },
+    {
+      "tag": "h3",
+      "text": "1960"
+    },
+    {
+      "tag": "h3",
+      "text": "1962"
+    },
+    {
+      "tag": "h3",
+      "text": "1968"
+    },
+    {
+      "tag": "h3",
+      "text": "1970"
+    },
+    {
+      "tag": "h3",
+      "text": "1982"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    },
+    {
+      "tag": "h3",
+      "text": "2017"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1953.png",
+      "localPath": "/images/car-logos/seat-logo-1953.png",
+      "alt": "SEAT logo, 1953"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1960.png",
+      "localPath": "/images/car-logos/seat-logo-1960.png",
+      "alt": "SEAT logo, 1960"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1962.png",
+      "localPath": "/images/car-logos/seat-logo-1962.png",
+      "alt": "SEAT logo, 1962"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1968.png",
+      "localPath": "/images/car-logos/seat-logo-1968.png",
+      "alt": "SEAT logo, 1968"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1970.png",
+      "localPath": "/images/car-logos/seat-logo-1970.png",
+      "alt": "SEAT logo, 1970"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1982.png",
+      "localPath": "/images/car-logos/seat-logo-1982.png",
+      "alt": "SEAT logo, 1982"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1992.png",
+      "localPath": "/images/car-logos/seat-logo-1992.png",
+      "alt": "SEAT logo, 1992"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-1999.png",
+      "localPath": "/images/car-logos/seat-logo-1999.png",
+      "alt": "SEAT logo, 1999"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/seat-logo-2017.png",
+      "localPath": "/images/car-logos/seat-logo-2017.png",
+      "alt": "SEAT logo, 2017"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "jensen-logo",
+  "name": "Jensen",
+  "h1": "Jensen Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Jensen Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1934"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/jensen-logo-1934.png",
+      "localPath": "/images/car-logos/jensen-logo-1934.png",
+      "alt": "Jensen logo, 1934"
+    }
+  ],
+  "facts": {}
+}

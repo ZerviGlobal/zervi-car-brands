@@ -1,0 +1,23 @@
+{
+  "slug": "packard-logo",
+  "name": "Packard",
+  "h1": "Packard Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Packard Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1900s"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/packard-logo-1900s.png",
+      "localPath": "/images/car-logos/packard-logo-1900s.png",
+      "alt": "Packard logo, 1900"
+    }
+  ],
+  "facts": {}
+}

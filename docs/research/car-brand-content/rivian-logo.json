@@ -1,0 +1,32 @@
+{
+  "slug": "rivian-logo",
+  "name": "Rivian",
+  "h1": "Rivian Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Rivian Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2009"
+    },
+    {
+      "tag": "h3",
+      "text": "2018"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/rivian-logo-2009.png",
+      "localPath": "/images/car-logos/rivian-logo-2009.png",
+      "alt": "Rivian logo, 2009"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/rivian-logo-2018.png",
+      "localPath": "/images/car-logos/rivian-logo-2018.png",
+      "alt": "Rivian logo, 2018"
+    }
+  ],
+  "facts": {}
+}

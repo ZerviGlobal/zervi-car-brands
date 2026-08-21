@@ -1,0 +1,23 @@
+{
+  "slug": "rossion-logo",
+  "name": "Rossion",
+  "h1": "Rossion Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Rossion Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2006"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/rossion-logo-2006.png",
+      "localPath": "/images/car-logos/rossion-logo-2006.png",
+      "alt": "Rossion logo, 2006"
+    }
+  ],
+  "facts": {}
+}

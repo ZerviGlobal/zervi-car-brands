@@ -1,0 +1,23 @@
+{
+  "slug": "stelato-logo",
+  "name": "Stelato",
+  "h1": "Stelato Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Stelato Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2024"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/stelato-logo-2024.png",
+      "localPath": "/images/car-logos/stelato-logo-2024.png",
+      "alt": "Stelato logo, 2024"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "tata-logo",
+  "name": "Tata",
+  "h1": "Tata Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Tata Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1945"
+    },
+    {
+      "tag": "h3",
+      "text": "1988"
+    },
+    {
+      "tag": "h3",
+      "text": "2003"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/tata-logo-1945.png",
+      "localPath": "/images/car-logos/tata-logo-1945.png",
+      "alt": "Tata logo, 1945"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tata-logo-1988.png",
+      "localPath": "/images/car-logos/tata-logo-1988.png",
+      "alt": "Tata logo, 1988"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tata-logo-2003.png",
+      "localPath": "/images/car-logos/tata-logo-2003.png",
+      "alt": "Tata logo, 2003"
+    }
+  ],
+  "facts": {}
+}

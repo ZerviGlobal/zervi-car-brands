@@ -1,0 +1,23 @@
+{
+  "slug": "saleen-logo",
+  "name": "Saleen",
+  "h1": "Saleen Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Saleen Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1984"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/saleen-logo-1984.png",
+      "localPath": "/images/car-logos/saleen-logo-1984.png",
+      "alt": "Saleen logo, 1984"
+    }
+  ],
+  "facts": {}
+}

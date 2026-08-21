@@ -1,0 +1,23 @@
+{
+  "slug": "inkas-logo",
+  "name": "INKAS",
+  "h1": "INKAS Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "INKAS Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2000"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/inkas-logo-2000.png",
+      "localPath": "/images/car-logos/inkas-logo-2000.png",
+      "alt": "INKAS logo, 2000"
+    }
+  ],
+  "facts": {}
+}

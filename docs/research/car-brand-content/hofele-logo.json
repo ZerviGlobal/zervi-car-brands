@@ -1,0 +1,23 @@
+{
+  "slug": "hofele-logo",
+  "name": "Hofele",
+  "h1": "Hofele Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Hofele Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1983"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/hofele-logo-1983.png",
+      "localPath": "/images/car-logos/hofele-logo-1983.png",
+      "alt": "Hofele logo, 1983"
+    }
+  ],
+  "facts": {}
+}

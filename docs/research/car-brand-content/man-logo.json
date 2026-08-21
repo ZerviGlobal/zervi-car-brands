@@ -1,0 +1,23 @@
+{
+  "slug": "man-logo",
+  "name": "MAN",
+  "h1": "MAN Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "MAN Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1758"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/man-logo-1758.png",
+      "localPath": "/images/car-logos/man-logo-1758.png",
+      "alt": "MAN logo, 1758"
+    }
+  ],
+  "facts": {}
+}

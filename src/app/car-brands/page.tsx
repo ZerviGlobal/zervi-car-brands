@@ -5,6 +5,7 @@ import {
   carBrands,
   carBrandCategories,
   carBrandLetters,
+  CAR_BRAND_COUNT,
 } from "@/data/car-brands";
 import type { CarBrand } from "@/types/car-brand";
 import { BrandCard } from "@/components/brand-card";
@@ -60,10 +61,10 @@ export default function CarBrandsPage() {
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6">
       <header className="mb-8">
         <h1 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-          Car Brands
+          Car Brands A-Z ({CAR_BRAND_COUNT})
         </h1>
         <p className="mt-2 text-muted-foreground">
-          {carBrands.length} car brands across {categories.length} categories.
+          {CAR_BRAND_COUNT} car brands across {categories.length} categories.
         </p>
       </header>
 

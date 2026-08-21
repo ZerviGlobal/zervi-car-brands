@@ -1,0 +1,23 @@
+{
+  "slug": "soueast-logo",
+  "name": "Soueast",
+  "h1": "Soueast Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Soueast Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1995"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/soueast-logo-1995.png",
+      "localPath": "/images/car-logos/soueast-logo-1995.png",
+      "alt": "Soueast logo, 1995"
+    }
+  ],
+  "facts": {}
+}

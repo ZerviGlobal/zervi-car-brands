@@ -1,0 +1,86 @@
+{
+  "slug": "plymouth-logo",
+  "name": "Plymouth",
+  "h1": "Plymouth Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Plymouth Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1928"
+    },
+    {
+      "tag": "h3",
+      "text": "1961"
+    },
+    {
+      "tag": "h3",
+      "text": "1963"
+    },
+    {
+      "tag": "h3",
+      "text": "1964"
+    },
+    {
+      "tag": "h3",
+      "text": "1969"
+    },
+    {
+      "tag": "h3",
+      "text": "1985"
+    },
+    {
+      "tag": "h3",
+      "text": "1994"
+    },
+    {
+      "tag": "h3",
+      "text": "1996"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1928.png",
+      "localPath": "/images/car-logos/plymouth-logo-1928.png",
+      "alt": "Plymouth logo, 1928"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1961.png",
+      "localPath": "/images/car-logos/plymouth-logo-1961.png",
+      "alt": "Plymouth logo, 1961"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1963.png",
+      "localPath": "/images/car-logos/plymouth-logo-1963.png",
+      "alt": "Plymouth logo, 1963"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1964.png",
+      "localPath": "/images/car-logos/plymouth-logo-1964.png",
+      "alt": "Plymouth logo, 1964"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1969.png",
+      "localPath": "/images/car-logos/plymouth-logo-1969.png",
+      "alt": "Plymouth logo, 1969"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1985.png",
+      "localPath": "/images/car-logos/plymouth-logo-1985.png",
+      "alt": "Plymouth logo, 1985"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1994.png",
+      "localPath": "/images/car-logos/plymouth-logo-1994.png",
+      "alt": "Plymouth logo, 1994"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/plymouth-logo-1996.png",
+      "localPath": "/images/car-logos/plymouth-logo-1996.png",
+      "alt": "Plymouth logo, 1996"
+    }
+  ],
+  "facts": {}
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kenworth-logo",
+  "name": "Kenworth",
+  "h1": "Kenworth Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Kenworth Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1956"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/kenworth-logo-1956.png",
+      "localPath": "/images/car-logos/kenworth-logo-1956.png",
+      "alt": "Kenworth logo, 1956"
+    }
+  ],
+  "facts": {}
+}

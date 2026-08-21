@@ -1,0 +1,32 @@
+{
+  "slug": "maxus-logo",
+  "name": "Maxus",
+  "h1": "Maxus Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Maxus Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    },
+    {
+      "tag": "h3",
+      "text": "2014"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/maxus-logo-2011.png",
+      "localPath": "/images/car-logos/maxus-logo-2011.png",
+      "alt": "Maxus logo, 2011"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/maxus-logo-2014.png",
+      "localPath": "/images/car-logos/maxus-logo-2014.png",
+      "alt": "Maxus logo, 2014"
+    }
+  ],
+  "facts": {}
+}

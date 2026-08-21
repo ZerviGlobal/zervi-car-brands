@@ -1,0 +1,68 @@
+{
+  "slug": "tatra-logo",
+  "name": "Tatra",
+  "h1": "Tatra Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Tatra Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1897"
+    },
+    {
+      "tag": "h3",
+      "text": "1920"
+    },
+    {
+      "tag": "h3",
+      "text": "1936"
+    },
+    {
+      "tag": "h3",
+      "text": "1950"
+    },
+    {
+      "tag": "h3",
+      "text": "1989"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/tatra-logo-1897.png",
+      "localPath": "/images/car-logos/tatra-logo-1897.png",
+      "alt": "Tatra logo, 1897"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tatra-logo-1920.png",
+      "localPath": "/images/car-logos/tatra-logo-1920.png",
+      "alt": "Tatra logo, 1920"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tatra-logo-1936.png",
+      "localPath": "/images/car-logos/tatra-logo-1936.png",
+      "alt": "Tatra logo, 1936"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tatra-logo-1950.png",
+      "localPath": "/images/car-logos/tatra-logo-1950.png",
+      "alt": "Tatra logo, 1950"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tatra-logo-1989.png",
+      "localPath": "/images/car-logos/tatra-logo-1989.png",
+      "alt": "Tatra logo, 1989"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/tatra-logo-1999.png",
+      "localPath": "/images/car-logos/tatra-logo-1999.png",
+      "alt": "Tatra logo, 1999"
+    }
+  ],
+  "facts": {}
+}

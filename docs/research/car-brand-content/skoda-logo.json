@@ -1,0 +1,131 @@
+{
+  "slug": "skoda-logo",
+  "name": "Škoda",
+  "h1": "Škoda Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Škoda Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1895"
+    },
+    {
+      "tag": "h3",
+      "text": "1900"
+    },
+    {
+      "tag": "h3",
+      "text": "1905"
+    },
+    {
+      "tag": "h3",
+      "text": "1913"
+    },
+    {
+      "tag": "h3",
+      "text": "1923"
+    },
+    {
+      "tag": "h3",
+      "text": "1925"
+    },
+    {
+      "tag": "h3",
+      "text": "1926"
+    },
+    {
+      "tag": "h3",
+      "text": "1933"
+    },
+    {
+      "tag": "h3",
+      "text": "1986"
+    },
+    {
+      "tag": "h3",
+      "text": "1993"
+    },
+    {
+      "tag": "h3",
+      "text": "1999"
+    },
+    {
+      "tag": "h3",
+      "text": "2011"
+    },
+    {
+      "tag": "h3",
+      "text": "2022"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1895.png",
+      "localPath": "/images/car-logos/skoda-logo-1895.png",
+      "alt": "Škoda logo, 1895"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1900.png",
+      "localPath": "/images/car-logos/skoda-logo-1900.png",
+      "alt": "Škoda logo, 1900"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1905.png",
+      "localPath": "/images/car-logos/skoda-logo-1905.png",
+      "alt": "Škoda logo, 1905"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1913.png",
+      "localPath": "/images/car-logos/skoda-logo-1913.png",
+      "alt": "Škoda logo, 1913"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1923.png",
+      "localPath": "/images/car-logos/skoda-logo-1923.png",
+      "alt": "Škoda logo, 1923"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1925.png",
+      "localPath": "/images/car-logos/skoda-logo-1925.png",
+      "alt": "Škoda logo, 1925"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1926.png",
+      "localPath": "/images/car-logos/skoda-logo-1926.png",
+      "alt": "Škoda logo, 1926"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1933.png",
+      "localPath": "/images/car-logos/skoda-logo-1933.png",
+      "alt": "Škoda logo, 1933"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1986.png",
+      "localPath": "/images/car-logos/skoda-logo-1986.png",
+      "alt": "Škoda logo, 1986"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1993.png",
+      "localPath": "/images/car-logos/skoda-logo-1993.png",
+      "alt": "Škoda logo, 1993"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-1999.png",
+      "localPath": "/images/car-logos/skoda-logo-1999.png",
+      "alt": "Škoda logo, 1999"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-2011.png",
+      "localPath": "/images/car-logos/skoda-logo-2011.png",
+      "alt": "Škoda logo, 2011"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/skoda-logo-2022.png",
+      "localPath": "/images/car-logos/skoda-logo-2022.png",
+      "alt": "Škoda logo, 2022"
+    }
+  ],
+  "facts": {}
+}

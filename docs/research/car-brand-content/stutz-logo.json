@@ -1,0 +1,32 @@
+{
+  "slug": "stutz-logo",
+  "name": "Stutz",
+  "h1": "Stutz Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Stutz Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1911"
+    },
+    {
+      "tag": "h3",
+      "text": "1971"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/stutz-logo-1911.png",
+      "localPath": "/images/car-logos/stutz-logo-1911.png",
+      "alt": "Stutz logo, 1911"
+    },
+    {
+      "src": "https://www.carlogos.org/car-logos/stutz-logo-1971.png",
+      "localPath": "/images/car-logos/stutz-logo-1971.png",
+      "alt": "Stutz logo, 1971"
+    }
+  ],
+  "facts": {}
+}

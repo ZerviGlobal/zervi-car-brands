@@ -1,0 +1,23 @@
+{
+  "slug": "lifan-logo",
+  "name": "Lifan",
+  "h1": "Lifan Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Lifan Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1992"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/lifan-logo-1992.png",
+      "localPath": "/images/car-logos/lifan-logo-1992.png",
+      "alt": "Lifan logo, 1992"
+    }
+  ],
+  "facts": {}
+}

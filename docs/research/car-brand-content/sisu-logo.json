@@ -1,0 +1,23 @@
+{
+  "slug": "sisu-logo",
+  "name": "Sisu",
+  "h1": "Sisu Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Sisu Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "1932"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/sisu-logo-1932.png",
+      "localPath": "/images/car-logos/sisu-logo-1932.png",
+      "alt": "Sisu logo, 1932"
+    }
+  ],
+  "facts": {}
+}

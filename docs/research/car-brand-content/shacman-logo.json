@@ -1,0 +1,23 @@
+{
+  "slug": "shacman-logo",
+  "name": "Shacman",
+  "h1": "Shacman Logo",
+  "contentBlocks": [
+    {
+      "tag": "h2",
+      "text": "Shacman Logo Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "2007"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.carlogos.org/car-logos/shacman-logo-2007.png",
+      "localPath": "/images/car-logos/shacman-logo-2007.png",
+      "alt": "Shacman logo, 2007"
+    }
+  ],
+  "facts": {}
+}
