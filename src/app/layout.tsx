@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Zervi Car Brands",
+  description: "Car logos & brand encyclopedia — a reverse-engineered clone of carlogos.org, hosted as a support resource for Zervi projects.",
 };
 
 export default function RootLayout({
